@@ -37,11 +37,12 @@ This project demonstrates how to use Groq's Whisper Turbo model for Dutch speech
 When you run the application, you'll see:
 
 ```
-=== Groq Speech-to-Text with Chunking ===
+=== Groq AI Services ===
 1. File transcription (chunked)
 2. Real-time microphone transcription
+3. LLaMA chat (text generation)
 
-Choose option (1 or 2):
+Choose option (1, 2, or 3):
 ```
 
 ### Option 1: File Transcription
@@ -61,6 +62,16 @@ Records from microphone and transcribes in real-time:
 - Shows transcription results as each chunk is processed
 - Automatically saves full recording to `recordings/full_session_YYYYMMDD_HHMMSS.wav`
 
+### Option 3: LLaMA Chat (Text Generation)
+
+Interactive chat using Groq's LLaMA-4-Scout model:
+- **Model**: `meta-llama/llama-4-scout-17b-16e-instruct`
+- **Temperature**: 0.7 (configurable for creativity vs consistency)
+- **Max Tokens**: 512 (configurable response length)
+- **System Prompt**: Configurable assistant behavior
+- Type your messages and get AI responses
+- Type 'quit' or 'exit' to end the conversation
+
 ## Configuration
 
 ### File Transcription (SimpleExample.cs)
@@ -77,10 +88,16 @@ var overlapSize = 3; // seconds (minimum is 2 seconds)
 
 ## Model Information
 
+### Speech-to-Text (Whisper)
 - **whisper-large-v3-turbo**: $0.04/hour, best price/performance for Dutch
 - **Language**: Dutch (`nl`)
 - **Max File Size**: 25MB (free tier), 100MB (dev tier)
 - **Supported Formats**: flac, mp3, mp4, mpeg, mpga, m4a, ogg, wav, webm
+
+### Text Generation (LLaMA)
+- **meta-llama/llama-4-scout-17b-16e-instruct**: Advanced language model for conversational AI
+- **Context Window**: Large context for detailed conversations
+- **Capabilities**: Text generation, question answering, creative writing, code assistance
 
 ## Dependencies
 
