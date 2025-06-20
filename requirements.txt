@@ -1,0 +1,4 @@
+# C# NuGet packages for Groq STT
+Newtonsoft.Json
+System.Net.Http
+Microsoft.Extensions.Http
