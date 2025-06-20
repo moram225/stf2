@@ -402,6 +402,10 @@ tmp/
 chunk_*.wav
 chunk_*.mp3
 chunk_*.flac
+mic_chunk_*.wav
+
+# Audio recordings folder
+recordings/
 
 # API keys and sensitive data
 appsettings.local.json
