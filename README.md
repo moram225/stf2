@@ -41,8 +41,9 @@ When you run the application, you'll see:
 1. File transcription (chunked)
 2. Real-time microphone transcription
 3. LLaMA chat (text generation)
+4. Generate form JSON files
 
-Choose option (1, 2, or 3):
+Choose option (1, 2, 3, or 4):
 ```
 
 ### Option 1: File Transcription
@@ -71,6 +72,16 @@ Interactive chat using Groq's LLaMA-4-Scout model:
 - **System Prompt**: Configurable assistant behavior
 - Type your messages and get AI responses
 - Type 'quit' or 'exit' to end the conversation
+
+### Option 4: Generate Form JSON Files
+
+Converts CSV form analysis data into structured JSON files:
+- **Source**: Reads from `forms labels/detailed_fields_analysis.csv`
+- **Output**: Creates individual JSON files in `forms/` folder
+- **Structure**: Each form gets its own JSON file with complete field definitions
+- **Metadata**: Includes generation timestamp and source information
+- **Field Details**: Field names, IDs, types, classes, values, and validation flags
+- Automatically parses 100+ forms from the CSV data
 
 ## Configuration
 

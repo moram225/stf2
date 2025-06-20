@@ -7,8 +7,9 @@ class Program
         Console.WriteLine("1. File transcription (chunked)");
         Console.WriteLine("2. Real-time microphone transcription");
         Console.WriteLine("3. LLaMA chat (text generation)");
+        Console.WriteLine("4. Generate form JSON files");
         Console.WriteLine();
-        Console.Write("Choose option (1, 2, or 3): ");
+        Console.Write("Choose option (1, 2, 3, or 4): ");
         
         var choice = Console.ReadLine();
         
@@ -22,6 +23,9 @@ class Program
                 break;
             case "3":
                 await LlamaExample.RunAsync();
+                break;
+            case "4":
+                await FormJsonGenerator.GenerateFormsAsync();
                 break;
             default:
                 Console.WriteLine("Invalid choice. Running file transcription...");

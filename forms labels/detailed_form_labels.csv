@@ -1,0 +1,2470 @@
+form_id,label,label_length,is_common
+admittance,locatie,7,False
+admittance,hok / stal,10,False
+admittance,vrije tekst,11,False
+admittance,einddatum,9,False
+admittance,datumeinddatumhok / stallocatievrije tekst,42,False
+admittance,datum,5,True
+attachment,Alle bijlagen zullen dezelfde categorie en beschrijving hebben,62,False
+attachment,beschrijving,12,False
+attachment,datumcategoriebijlagenbeschrijvingAlle bijlagen zullen dezelfde categorie en beschrijving hebben,96,False
+attachment,categorie,9,False
+attachment,datum,5,True
+attachment,bijlagen,8,False
+client_order,toeslag inc,11,False
+client_order,korting%,8,False
+client_order,totaal inc,10,False
+client_order,prijs inc,9,False
+client_order,korting %:,10,False
+client_order,datummedewerkerafleverlocatieopmerkingenclient gebeldLijst met klantorders bekijkenkorting %:,93,False
+client_order,afdruk etiket adres 1,21,False
+client_order,afgerond,8,False
+client_order,opmerkingen,11,False
+client_order,afleverlocatie,14,False
+client_order,Lijst met klantorders bekijken,30,False
+client_order,naam,4,False
+client_order,besteld,7,False
+client_order,medewerker,10,False
+client_order,datum,5,True
+client_order,client gebeld,13,False
+custom_5804de7bd15de7303fcc5c32,Andere reden,12,False
+custom_5804de7bd15de7303fcc5c32,Onderbouwing derde keuze antibioticum,37,False
+custom_5804de7bd15de7303fcc5c32,Indicatie / Diagnose:,21,False
+custom_5804de7bd15de7303fcc5c32,Dierenarts,10,True
+custom_5804de7bd15de7303fcc5c32,Uitslag antibiogram,19,False
+custom_5804de7bd15de7303fcc5c32,Datum,5,True
+custom_5e8599a7ee8ef226a932f53d,Indicatie / Diagnose,20,False
+custom_5e8599a7ee8ef226a932f53d,Andere reden:,13,False
+custom_5e8599a7ee8ef226a932f53d,Dierenarts,10,True
+custom_5e8599a7ee8ef226a932f53d,Onderbouwing,12,False
+custom_5e8599a7ee8ef226a932f53d,Datum,5,True
+custom_5ebba5afee8ef20da1f9d22b,Indicatie / Diagnose,20,False
+custom_5ebba5afee8ef20da1f9d22b,Andere reden,12,False
+custom_5ebba5afee8ef20da1f9d22b,Dierenarts,10,True
+custom_5ebba5afee8ef20da1f9d22b,Onderbouwing,12,False
+custom_5ebba5afee8ef20da1f9d22b,Datum,5,True
+custom_5ed0ffdfee8ef2535c29d1e8,Gedrag:,7,False
+custom_5ed0ffdfee8ef2535c29d1e8,Herhalingsrecept:,17,False
+custom_5ed0ffdfee8ef2535c29d1e8,Laatste aanpassing op:,22,False
+custom_5ed0ffdfee8ef2535c29d1e8,Chipregistratie:,16,False
+custom_5ed0ffdfee8ef2535c29d1e8,Buitenlandanamnese:,19,False
+custom_5ed0ffdfee8ef2535c29d1e8,Te bespreken bij volgende bezoek!,33,False
+custom_5ed0ffdfee8ef2535c29d1e8,Streefgewicht:,14,False
+custom_5ed0ffdfee8ef2535c29d1e8,Vaste arts:,11,False
+custom_5ed0ffdfee8ef2535c29d1e8,Voeding:,8,False
+custom_5ed0ffdfee8ef2535c29d1e8,"Zorgplan, gemaakte afspraken (incl. datum en initialen):",56,False
+custom_5ed0ffdfee8ef2535c29d1e8,Opmerkingen algemeen:,21,False
+custom_5ed0ffdfee8ef2535c29d1e8,Door:,5,False
+custom_5ed0ffdfee8ef2535c29d1e8,Overgevoelig voor:,18,False
+custom_5ed0ffdfee8ef2535c29d1e8,Kat >7jr: bloeddrukmeting besproken / gemeten (incl. datum),59,False
+custom_5ed0ffdfee8ef2535c29d1e8,Chronische aandoening:,22,False
+custom_5ff5aa3d61394959805b7e9d,Datum toediening:,17,False
+custom_5ff5aa3d61394959805b7e9d,RoodGroen,9,False
+custom_5ff5aa3d61394959805b7e9d,Bevindingen:,12,False
+custom_5ff5aa3d61394959805b7e9d,Controle door:,14,False
+custom_5ff5aa3d61394959805b7e9d,text,4,False
+custom_5ff5aa3d61394959805b7e9d,Toegediend door:,16,False
+custom_5ff5aa3d61394959805b7e9d,Toegediend middel:,18,False
+custom_5ff5aa3d61394959805b7e9d,Datum controle:,15,False
+custom_606dbe4261394952775a7fa6,Let op!,7,False
+custom_606dbe4261394952775a7fa6,datum,5,True
+custom_606dbe4261394952775a7fa6,datumLet op!,12,False
+custom_6076c9316139494931b38e04,LET OP:,7,False
+custom_60a4c1d16139492b541fb3ed,Heeft dier DZP?,15,False
+custom_60a4c1d16139492b541fb3ed,Cremeren/begraven/etc.,22,False
+custom_60a4c1d16139492b541fb3ed,Vervoer,7,False
+custom_60a4c1d16139492b541fb3ed,Keuze uitvaartzorg,18,False
+custom_60a4c1d16139492b541fb3ed,Klant geattendeerd op afmelden chip?,36,False
+custom_60a4c1d16139492b541fb3ed,Klant geattendeerd op afmelden hondenbelasting?,47,False
+custom_60a4c1d16139492b541fb3ed,JaNeen.v.t.,11,False
+custom_60a4c1d16139492b541fb3ed,DZP afgemeld?,13,False
+custom_60a4c1d16139492b541fb3ed,JaNeeN.v.t. (geen zorgplan),27,False
+custom_60a4c1d16139492b541fb3ed,Klant geattendeerd op afmelden verzekering?,43,False
+custom_61eac886758b130180224c44,Omschrijving:,13,False
+custom_61eac886758b130180224c44,Evaluatie:,10,False
+custom_61eac886758b130180224c44,Scores:,7,False
+custom_61eac886758b130180224c44,Doelstelling:,13,False
+custom_61f2a2e5758b1312eb3f4814,Indicatie / Diagnose,20,False
+custom_61f2a2e5758b1312eb3f4814,Andere reden,12,False
+custom_61f2a2e5758b1312eb3f4814,Dierenarts,10,True
+custom_61f2a2e5758b1312eb3f4814,Onderbouwing,12,False
+custom_61f2a2e5758b1312eb3f4814,Datum,5,True
+custom_61fb9d19758b13075c2befec,Chipnummer,10,False
+custom_61fb9d19758b13075c2befec,Naam product,12,False
+custom_61fb9d19758b13075c2befec,Doseringsschema,15,False
+custom_61fb9d19758b13075c2befec,Werkzame stof(fen),18,False
+custom_61fb9d19758b13075c2befec,Naam patient,12,False
+custom_61fb9d19758b13075c2befec,Adres eigenaar,14,False
+custom_61fb9d19758b13075c2befec,Naam eigenaar,13,False
+custom_61fb9d19758b13075c2befec,Famaceutische form,18,False
+custom_61fb9d19758b13075c2befec,Sterkte,7,False
+custom_61fb9d19758b13075c2befec,Handtekening dierenarts,23,False
+custom_61fb9d19758b13075c2befec,CIBG,4,False
+custom_61fb9d19758b13075c2befec,Contact gegevens kliniek,24,False
+custom_61fb9d19758b13075c2befec,Datum beoordeling dierenarts,28,False
+custom_61fb9d19758b13075c2befec,Telefoonnummer eigenaar,23,False
+custom_61fb9d19758b13075c2befec,Dierenarts,10,True
+custom_61fb9d19758b13075c2befec,Waarschuwing bij gebruik,24,False
+custom_61fb9d21758b13075c2befee,Chipnummer,10,False
+custom_61fb9d21758b13075c2befee,Naam product,12,False
+custom_61fb9d21758b13075c2befee,Doseringsschema,15,False
+custom_61fb9d21758b13075c2befee,Werkzame stof(fen),18,False
+custom_61fb9d21758b13075c2befee,Naam patient,12,False
+custom_61fb9d21758b13075c2befee,Adres eigenaar,14,False
+custom_61fb9d21758b13075c2befee,Naam eigenaar,13,False
+custom_61fb9d21758b13075c2befee,Famaceutische form,18,False
+custom_61fb9d21758b13075c2befee,Sterkte,7,False
+custom_61fb9d21758b13075c2befee,Handtekening dierenarts,23,False
+custom_61fb9d21758b13075c2befee,CIBG,4,False
+custom_61fb9d21758b13075c2befee,Contact gegevens kliniek,24,False
+custom_61fb9d21758b13075c2befee,Datum beoordeling dierenarts,28,False
+custom_61fb9d21758b13075c2befee,Telefoonnummer eigenaar,23,False
+custom_61fb9d21758b13075c2befee,Dierenarts,10,True
+custom_61fb9d21758b13075c2befee,Waarschuwing bij gebruik,24,False
+custom_61fb9d21758b13075c2befee,Wachttijd,9,False
+custom_61fbdb77758b13075c2bf934,1 seconde1-2 seconden> 2 seconden,33,False
+custom_61fbdb77758b13075c2bf934,Buikpalpatie,12,False
+custom_61fbdb77758b13075c2bf934,Schildklierpalpatie (kat),25,False
+custom_61fbdb77758b13075c2bf934,Pols:,5,False
+custom_61fbdb77758b13075c2bf934,Kleur slijmvliezen,18,False
+custom_61fbdb77758b13075c2bf934,Temperatuur,11,True
+custom_61fbdb77758b13075c2bf934,Hartfrequentie per minuut,25,False
+custom_61fbdb77758b13075c2bf934,Auscultatie hart en longen,26,False
+custom_61fbdb77758b13075c2bf934,Geen afwijkingenAfwijkingen,27,False
+custom_61fbdb77758b13075c2bf934,Rectaal onderzoek,17,False
+custom_61fbdb77758b13075c2bf934,BCS (uit 9),11,False
+custom_61fbdb77758b13075c2bf934,Indien opgezet welke?,21,False
+custom_61fbdb77758b13075c2bf934,LichtrozeRozeBleekGeel,22,False
+custom_61fbdb77758b13075c2bf934,Vochtigheid slijmvliezen,24,False
+custom_61fbdb77758b13075c2bf934,KrachtigRegelmatigZwakOnregelmatig,34,False
+custom_61fbdb77758b13075c2bf934,C.R.T.,6,False
+custom_61fbdb77758b13075c2bf934,Perifere lymfeknopen,20,False
+custom_61fbdb77758b13075c2bf934,Geen afwijkingenAfwijkingen hartAfwijkingen longenAfwijkingen hart en longen,76,False
+custom_61fbdb77758b13075c2bf934,PlakkerigVochtigDroog,21,False
+custom_61fbdb77758b13075c2bf934,Ademhalingsfrequentie per minuut,32,False
+custom_61fbdb77758b13075c2bf934,Niet opgezetOpgezet,19,False
+custom_61fbdb77758b13075c2bf934,"Indien afwijkingen, welke?",26,False
+custom_61fbdb77758b13075c2bf934,"Indien er afwijkingen zijn, welke?",34,False
+custom_620bb4a9758b1303c0d464ae,Heeft het dier een andere medische voorgeschiedenis?,52,False
+custom_620bb4a9758b1303c0d464ae,Wanneer zijn de klachten begonnen?,34,False
+custom_620bb4a9758b1303c0d464ae,Wordt het dier op de correcte momenten gevaccineerd en ontwormd?,64,False
+custom_620bb4a9758b1303c0d464ae,Heeft het dier deze klachten ooit eerder gehad?,47,False
+custom_620bb4a9758b1303c0d464ae,"Zo ja, welke medische voorgeschiedenis heeft het dier?",54,False
+custom_620bb4a9758b1303c0d464ae,"JaNee, geleidelijk",18,False
+custom_620bb4a9758b1303c0d464ae,"Zo ja, welke medicatie en hoe lang krijgt het dier deze medicatie al?",69,False
+custom_620bb4a9758b1303c0d464ae,Welke voeding krijgt het dier?,30,False
+custom_620bb4a9758b1303c0d464ae,Zijn de klachten plotseling ontstaan?,37,False
+custom_620bb4a9758b1303c0d464ae,"Is het dier ooit mee geweest in het buitenland? Zo ja, waar?",60,False
+custom_620bb4a9758b1303c0d464ae,Is er recent van voeding veranderd?,35,False
+custom_620bb4a9758b1303c0d464ae,Kan het dier iets giftigs of een vreemd voorwerp hebben opgegeten?,66,False
+custom_620bb4a9758b1303c0d464ae,Heeft iets aanleiding gegeven tot ontstaan van de klachten?,59,False
+custom_620bb4a9758b1303c0d464ae,Wat zijn de klachten?,21,False
+custom_620bb4a9758b1303c0d464ae,Wordt het dier wel eens gebeten door een teken?,47,False
+custom_620bb4a9758b1303c0d464ae,Wordt het dier momenteel behandeld met medicatie?,49,False
+custom_620bb4a9758b1303c0d464ae,Wanneer was de laatste ontworming?,34,False
+custom_620bb4a9758b1303c0d464ae,"Zo ja, wat heeft aanleiding gegeven tot ontstaan van deze klachten?",67,False
+custom_620bc591758b1303c0d466a4,Hoe vaak braakt het dier?,25,False
+custom_620bc591758b1303c0d466a4,Is dit gerelateerd aan voeding?,31,False
+custom_620bc591758b1303c0d466a4,Braken of regurgiteren?,23,False
+custom_620bc591758b1303c0d466a4,Overige informatie,18,False
+custom_620bc591758b1303c0d466a4,Wat komt er bij het braken naar buiten?,39,False
+custom_620bc591758b1303c0d466a4,Kan het dier iets opgegeten hebben?,35,False
+custom_620bc80e758b1303c0d466b8,Zit er vers bloed of slijm bij de ontlasting?,45,False
+custom_620bc80e758b1303c0d466b8,Consistentie van de ontlasting,30,False
+custom_620bc80e758b1303c0d466b8,Heeft het dier vaker ontlasting dan normaal?,44,False
+custom_620bc80e758b1303c0d466b8,Overige informatie,18,False
+custom_620bc80e758b1303c0d466b8,Vers bloedSlijmGeen van beide,29,False
+custom_620bc80e758b1303c0d466b8,Perst het dier op de ontlasting?,32,False
+custom_620bc80e758b1303c0d466b8,Kleur van de ontlasting,23,False
+custom_620bc80e758b1303c0d466b8,Zijn het grote of kleine hoeveelheden ontlasting?,49,False
+custom_620bc9e9758b1303c0d466dd,Anders:,7,False
+custom_620bc9e9758b1303c0d466dd,Hoe vaak hoest het dier?,24,False
+custom_620bc9e9758b1303c0d466dd,Is de hoest productief?,23,False
+custom_620bc9e9758b1303c0d466dd,Overige informatie,18,False
+custom_620bc9e9758b1303c0d466dd,Hoe klinkt het hoesten?,23,False
+custom_620bc9e9758b1303c0d466dd,Is de hoest geassocieerd met inspanning of bepaalde activiteiten?,65,False
+custom_620bc9e9758b1303c0d466dd,"Zo ja, wat komt er mee naar buiten?",35,False
+custom_620caa28758b1366f52ee7ab,Verliest het dier urine of ontlasting tijdens de aanval?,56,False
+custom_620caa28758b1366f52ee7ab,Verliest het dier zijn bewustzijn?,34,False
+custom_620caa28758b1366f52ee7ab,NeeBlaffenhuilenMiauwenAnders:,30,False
+custom_620caa28758b1366f52ee7ab,Wordt het dier stijf of maakt het fietsbewegingen?,50,False
+custom_620caa28758b1366f52ee7ab,Overige informatie,18,False
+custom_620caa28758b1366f52ee7ab,Reageert het dier als je zijn/haar naam roept?,46,False
+custom_620caa28758b1366f52ee7ab,Begint het dier te speekselen tijdens de aanval?,48,False
+custom_620caa28758b1366f52ee7ab,Namelijk:,9,False
+custom_620caa28758b1366f52ee7ab,Maakt het dier geluid tijdens de aanval?,40,False
+custom_620caa28758b1366f52ee7ab,Worden de slijmvliezen blauw van kleur?,39,False
+custom_620caa28758b1366f52ee7ab,Hoeveel aanvallen heeft het dier reeds gehad?,45,False
+custom_620caa28758b1366f52ee7ab,Hoe lang duren de aanvallen ongeveer?,37,False
+custom_620cac83758b1366f52ee7c0,Wanneer heeft het dier het opgegeten?,37,False
+custom_620cac83758b1366f52ee7c0,Hoeveel heeft het dier ongeveer opgegeten?,42,False
+custom_620cac83758b1366f52ee7c0,Overige informatie,18,False
+custom_620cac83758b1366f52ee7c0,Wat heeft het dier exact opgegeten?,35,False
+custom_620cac83758b1366f52ee7c0,Heeft u het dier al iets gegeven om het te doen braken?,55,False
+custom_620cad9a758b1366f52ee7d0,Wanneer heeft u het dier voor het laatst zien plassen?,54,False
+custom_620cad9a758b1366f52ee7d0,Heeft u bloed bij de urine gezien?,34,False
+custom_620cad9a758b1366f52ee7d0,Is het de eerste keer dat het dier deze klachten vertoont?,58,False
+custom_620cad9a758b1366f52ee7d0,"Wanneer het dier probeert te plassen, komt er dan urine naar buiten of helemaal niet?",85,False
+custom_620cad9a758b1366f52ee7d0,Overige informatie,18,False
+custom_620cad9a758b1366f52ee7d0,Hoe lang plast het dier al moeilijk?,36,False
+custom_623b3dd6758b13581c888082,Glucose-waarde in mmol/l,24,False
+custom_623b3dd6758b13581c888082,ToegenomenVerminderdHetzelfde als de vorige controle,52,False
+custom_623b3dd6758b13581c888082,ToegenomenAfgenomenHetzelfde als de vorige controle,51,False
+custom_623b3dd6758b13581c888082,1 seconde2 secondes2-3 secondes,31,False
+custom_623b3dd6758b13581c888082,Wateropname per dag (ml),24,False
+custom_623b3dd6758b13581c888082,Buikpalpatie,12,False
+custom_623b3dd6758b13581c888082,Schildklierpalpatie (kat),25,False
+custom_623b3dd6758b13581c888082,Licht rozeRozeBleek,19,False
+custom_623b3dd6758b13581c888082,Kleur slijmvliezen,18,False
+custom_623b3dd6758b13581c888082,Volgende controle-moment,24,False
+custom_623b3dd6758b13581c888082,Met welk insuline preparaat wordt de patient behandeld?,55,False
+custom_623b3dd6758b13581c888082,Gewichtsverandering in gr (+ of -),34,False
+custom_623b3dd6758b13581c888082,Controle-tijdstip,17,False
+custom_623b3dd6758b13581c888082,JaNee,5,False
+custom_623b3dd6758b13581c888082,Temperatuur,11,True
+custom_623b3dd6758b13581c888082,JaNeeOnbekend,13,False
+custom_623b3dd6758b13581c888082,Fructosamines (in µmol/l),25,False
+custom_623b3dd6758b13581c888082,Huidige voeding,15,False
+custom_623b3dd6758b13581c888082,Systolische bloeddruk,21,False
+custom_623b3dd6758b13581c888082,Geen afwijkingenAfwijkingen,27,False
+custom_623b3dd6758b13581c888082,Auscultatie hart en longen,26,False
+custom_623b3dd6758b13581c888082,Andere bloedonderzoeken uitgevoerd?,35,False
+custom_623b3dd6758b13581c888082,Dosering insuline in eenheden,29,False
+custom_623b3dd6758b13581c888082,ToegenomenAfgenomenHetzelfde als bij de vorige controle,55,False
+custom_623b3dd6758b13581c888082,Rectaal onderzoek,17,False
+custom_623b3dd6758b13581c888082,Voedselopname tov de laatste consultatie,40,False
+custom_623b3dd6758b13581c888082,Ketonen,7,False
+custom_623b3dd6758b13581c888082,OpgezetNiet opgezet,19,False
+custom_623b3dd6758b13581c888082,Witte bloedcellen,17,False
+custom_623b3dd6758b13581c888082,Adem freq.,10,False
+custom_623b3dd6758b13581c888082,BCS (uit 9),11,False
+custom_623b3dd6758b13581c888082,Indien opgezet welke?,21,False
+custom_623b3dd6758b13581c888082,Dieetadvies,11,False
+custom_623b3dd6758b13581c888082,Hoeveel eenheden insuline krijgt de patient per dag?,52,False
+custom_623b3dd6758b13581c888082,Voedeselinname per dag (gram),29,False
+custom_623b3dd6758b13581c888082,Afwijkingen hartAfwijkingen longenGeen afwijkingen,50,False
+custom_623b3dd6758b13581c888082,Pols,4,False
+custom_623b3dd6758b13581c888082,Heeft de patient deze ochtend goed gegeten?,43,False
+custom_623b3dd6758b13581c888082,Vochtigheid slijmvliezen,24,False
+custom_623b3dd6758b13581c888082,Activiteit in vergelijking met de laatste consultatie,53,False
+custom_623b3dd6758b13581c888082,Uitgevoerd door,15,False
+custom_623b3dd6758b13581c888082,Behandelend arts,16,False
+custom_623b3dd6758b13581c888082,C.R.T.,6,False
+custom_623b3dd6758b13581c888082,Rode bloedcellen,16,False
+custom_623b3dd6758b13581c888082,CaninsulinVetsulinGlargineProzincDetemirAndere:,47,False
+custom_623b3dd6758b13581c888082,Eiwitten,8,False
+custom_623b3dd6758b13581c888082,Algemene indruk,15,True
+custom_623b3dd6758b13581c888082,Glucose-waarde,14,False
+custom_623b3dd6758b13581c888082,"Indien andere, welke?",21,False
+custom_623b3dd6758b13581c888082,Soortelijk gewicht,18,False
+custom_623b3dd6758b13581c888082,+-,2,False
+custom_623b3dd6758b13581c888082,Hart freq.,10,False
+custom_623b3dd6758b13581c888082,Glucose,7,False
+custom_623b3dd6758b13581c888082,"Indien ja, welke?",17,False
+custom_623b3dd6758b13581c888082,Advies na overleg met dierenarts,32,False
+custom_623b3dd6758b13581c888082,BeterMinder goedHetzelfde als de vorige controle,48,False
+custom_623b3dd6758b13581c888082,Perifere lymfeknopen,20,False
+custom_623b3dd6758b13581c888082,Wanneer heeft de patient de laatste keer insuline gekregen?,59,False
+custom_623b3dd6758b13581c888082,Wateropname tov de laatste consultatie,38,False
+custom_623b3dd6758b13581c888082,Huidige gewicht in kg,21,False
+custom_623b3dd6758b13581c888082,Geconstateerde afwijkingen,26,False
+custom_623b3dd6758b13581c888082,KrachtigZwakOnregelmatig,24,False
+custom_623b3dd6758b13581c888082,PlakkerigVochtigDroog,21,False
+custom_623b3dd6758b13581c888082,Urineonderzoek,14,False
+custom_623b3dd6758b13581c888082,"Indien andere hoeveelheid, hoeveel?",35,False
+custom_623b3dd6758b13581c888082,"Indien afwijkingen, welke?",26,False
+custom_623b3dd6758b13581c888082,Opmerkingen,11,True
+custom_623b3dd6758b13581c888082,Datum,5,True
+custom_62baf9ba758b133446d753c0,Dosering,8,False
+custom_62baf9ba758b133446d753c0,ProductDoseringDatum voorschrijvenDatum verval voorschrift,58,False
+custom_62baf9ba758b133446d753c0,Datum voorschrijven,19,False
+custom_62baf9ba758b133446d753c0,Datum verval voorschrift,24,False
+custom_62baf9ba758b133446d753c0,Product,7,False
+custom_62f362c6758b133d6a89cda4,Chipregistratie,15,False
+custom_62f362c6758b133d6a89cda4,Body condition score,20,False
+custom_62f362c6758b133d6a89cda4,Basis vaccinaties compleetRabiës vaccinatiePaspoort gecontroleerd (lamineren etc.)Antiparasitica,96,False
+custom_62f362c6758b133d6a89cda4,"LET OP: Controleren in basisprotocol, indien nodig aanpassen.",61,False
+custom_62f362c6758b133d6a89cda4,Checks,6,False
+custom_62f362c6758b133d6a89cda4,Laatste bloedonderzoek,22,False
+custom_62f362c6758b133d6a89cda4,Wil de klant anti-parasitica mee?,33,False
+custom_62f362c6758b133d6a89cda4,Chip controle,13,False
+custom_62f362c6758b133d6a89cda4,Bijzonderheden voor dierenarts,30,False
+custom_62f362c6758b133d6a89cda4,Veranderd van medicatie?,24,False
+custom_62f362c6758b133d6a89cda4,Aanvinken wanneer gecontroleerd:,32,False
+custom_62f362c6758b133d6a89cda4,Gebruiker,9,False
+custom_62f362c6758b133d6a89cda4,Duur vakantie (ivm antiparasitica),34,False
+custom_62f362c6758b133d6a89cda4,Bevindingen gewicht,19,False
+custom_62f362c6758b133d6a89cda4,Veranderd van voeding?,22,False
+custom_62f362c6758b133d6a89cda4,Welk land?,10,False
+custom_62f362c6758b133d6a89cda4,Controle bloedonderzoek nodig?,30,False
+custom_62f362c6758b133d6a89cda4,Bijzonderheden,14,False
+custom_62f362c6758b133d6a89cda4,LET OP: Gewicht invoeren in patiëntenkaart,42,False
+custom_62f362c6758b133d6a89cda4,Controle gegevens klant,23,False
+custom_62f362c6758b133d6a89cda4,Laatste toediening anti-worm,28,False
+custom_62f362c6758b133d6a89cda4,DZP - Dierenzorgplan (winkelmand)Verzekering (patiëntdata),58,False
+custom_62f362c6758b133d6a89cda4,"Is er sprake van een vakantie naar het buitenland? Zo ja, wanneer?",66,False
+custom_62f362c6758b133d6a89cda4,AdresTelefoonnummerse-mailadres,31,False
+custom_62f362c6758b133d6a89cda4,Laatste toediening anti-vlo,27,False
+custom_62f362c6758b133d6a89cda4,Datum,5,True
+custom_62f362c6758b133d6a89cda4,Aanvinken als gecontroleerd:,28,False
+custom_62fbf048758b132b67c2d283,Hypermobiel,11,False
+custom_62fbf048758b132b67c2d283,Voedingsadvies,14,False
+custom_62fbf048758b132b67c2d283,Gingivitis,10,False
+custom_62fbf048758b132b67c2d283,Antibiotica meegegeven,22,False
+custom_62fbf048758b132b67c2d283,Tandsteen,9,False
+custom_62fbf048758b132b67c2d283,Pre-anaesthetisch bloedonderzoek,32,False
+custom_62fbf048758b132b67c2d283,Ontbrekend > Links onder,24,False
+custom_62fbf048758b132b67c2d283,Ontbrekend > Rechts boven,25,False
+custom_62fbf048758b132b67c2d283,Bevindingen röntgenfoto's,25,False
+custom_62fbf048758b132b67c2d283,Ontbrekend > Rechts onder,25,False
+custom_62fbf048758b132b67c2d283,Advies en opmerkingen,21,False
+custom_62fbf048758b132b67c2d283,Anamnese,8,True
+custom_62fbf048758b132b67c2d283,Behandeling,11,False
+custom_62fbf048758b132b67c2d283,Gebitscontrole oproep,21,False
+custom_62fbf048758b132b67c2d283,Dierenarts,10,True
+custom_62fbf048758b132b67c2d283,Ontbrekend > Links boven,24,False
+custom_62fbf048758b132b67c2d283,Bijzonderheden,14,False
+custom_62fbf048758b132b67c2d283,Lichamelijk onderzoek,21,False
+custom_62fbf048758b132b67c2d283,Pijnstilling meegegeven,23,False
+custom_62fbf048758b132b67c2d283,Datum behandeling,17,False
+custom_62fbf048758b132b67c2d283,Extractie > Rechts onder,24,False
+custom_62fbf048758b132b67c2d283,Mondspoeling meegegeven,23,False
+custom_62fbf048758b132b67c2d283,Extractie > Rechts boven,24,False
+custom_62fbf048758b132b67c2d283,Extractie > Links boven,23,False
+custom_62fbf048758b132b67c2d283,Extractie > Links onder,23,False
+custom_62fbf048758b132b67c2d283,Paraveterinair,14,False
+custom_63184949758b136c82f40432,"Heeft moeite met ontlasting (veel persen, erg droge ontlasting)",63,False
+custom_63184949758b136c82f40432,Ziet slechter (b.v. tijdens het uitlaten 's avonds),51,False
+custom_63184949758b136c82f40432,Namelijk,8,False
+custom_63184949758b136c82f40432,"Is onrustig (b.v. slapeloosheid, doelloos rondlopen of meer blaffen",67,False
+custom_63184949758b136c82f40432,Vertoont agressief of angstig gedrag,36,False
+custom_63184949758b136c82f40432,Heeft een of meerdere bulten op het lichaam,43,False
+custom_63184949758b136c82f40432,"Hoest regelmatig (zo ja wanneer, b.v. bij opwinding of in de ochtend)",69,False
+custom_63184949758b136c82f40432,"Zit minder goed in zijn vacht (b.v. dof, schilferig, stinkt, haarlverlies)",74,False
+custom_63184949758b136c82f40432,"Loopt stram, kreupel of zwalkend",32,False
+custom_63184949758b136c82f40432,"Drinkt meer (gaat vaker naar de waterbak, waterbak is eerder leeg)",66,False
+custom_63184949758b136c82f40432,Braakt regelmatig,17,False
+custom_63184949758b136c82f40432,Is snel vermoeid tijdens het uitlaten / wil minder graag uit,60,False
+custom_63184949758b136c82f40432,Is niet meer zindelijk (plast of poept in huis) of verliest ongemerkt urine,75,False
+custom_63184949758b136c82f40432,Heeft moeite met kauwen (b.v. eten uit de bek laten vallen),59,False
+custom_63184949758b136c82f40432,Lijkt slechter te horen,23,False
+custom_63184949758b136c82f40432,Bijt of likt zichzelf overmatig,31,False
+custom_63184949758b136c82f40432,Staat op seniorenvoeding,24,False
+custom_63184949758b136c82f40432,"Plast meer, vaker en / of langer dan normaal",44,False
+custom_63184949758b136c82f40432,Eetlust,7,False
+custom_63184949758b136c82f40432,Komt moeilijk overeind,22,False
+custom_63184949758b136c82f40432,Stinkt uit de bek,17,False
+custom_63184949758b136c82f40432,Heeft diarree of wisselende ontlasting,38,False
+custom_63184949758b136c82f40432,"Slaapt meer, zondert zich af of is afwezig",42,False
+custom_63184949758b136c82f40432,Jankt bij sommige bewegingen of bij aanraking,45,False
+custom_63184949758b136c82f40432,Heeft problemen met traplopen en / of springen (b.v. in de auto),64,False
+custom_63184949758b136c82f40432,Staat op medicatie of voedingssupplement,40,False
+custom_63184949758b136c82f40432,Gewicht,7,True
+custom_63ad77a1758b1371a45d9f1b,Laatste aanpassing opChronische aandoeningHerhalingsreceptVoedingVaccinatie,75,False
+custom_63ad77a1758b1371a45d9f1b,Chronische aandoening,21,False
+custom_63ad77a1758b1371a45d9f1b,Laatste aanpassing op,21,False
+custom_63ad77a1758b1371a45d9f1b,Herhalingsrecept,16,False
+custom_63ad77a1758b1371a45d9f1b,Vaccinatie,10,False
+custom_63ad77a1758b1371a45d9f1b,Voeding,7,False
+custom_64632d07758b130b4e41e941,Datum:,6,False
+custom_64632d07758b130b4e41e941,Andere reden:,13,False
+custom_64632d07758b130b4e41e941,Onderbouwing:,13,False
+custom_64632d07758b130b4e41e941,Indicatie / Diagnose:,21,False
+custom_64632d07758b130b4e41e941,Dierenarts:,11,False
+custom_64c8ec3f7b978a3924d44a09,"Uitslag (gemiddelde van meting 2,3 en 4)",40,False
+custom_64c8ec3f7b978a3924d44a09,<1 maand2-3 maanden3-6 maanden6-12 maanden> 1 jaardat doe ik nooit,66,False
+custom_64c8ec3f7b978a3924d44a09,geenhoestenkuchenniezen,23,False
+custom_64c8ec3f7b978a3924d44a09,"normaalabnormaal, zie uitslag in kaart",38,False
+custom_64c8ec3f7b978a3924d44a09,ADVIES,6,False
+custom_64c8ec3f7b978a3924d44a09,natvoerbrokvers vlees,21,False
+custom_64c8ec3f7b978a3924d44a09,medicatiesupplementenniets,26,False
+custom_64c8ec3f7b978a3924d44a09,Hoeveel maanden geleden laatste antivlo/-teek,45,False
+custom_64c8ec3f7b978a3924d44a09,Kleur slijmvliezen,18,False
+custom_64c8ec3f7b978a3924d44a09,BIJZONDERHEDEN,14,False
+custom_64c8ec3f7b978a3924d44a09,geen afwijkingendoffe vachtschilfers of korstenrode huidkaalheidverkleuring vachtdikte in de huid,97,False
+custom_64c8ec3f7b978a3924d44a09,Uitslag bloedonderzoek biochemie,32,False
+custom_64c8ec3f7b978a3924d44a09,normaalabnormaal (souffle)twijfel,33,False
+custom_64c8ec3f7b978a3924d44a09,Harttonen,9,False
+custom_64c8ec3f7b978a3924d44a09,Welk antivlo/-teek middel?,26,False
+custom_64c8ec3f7b978a3924d44a09,Temperatuur,11,True
+custom_64c8ec3f7b978a3924d44a09,Tandvlees en gebit,18,False
+custom_64c8ec3f7b978a3924d44a09,Nuchter,7,False
+custom_64c8ec3f7b978a3924d44a09,Hartritme,9,False
+custom_64c8ec3f7b978a3924d44a09,bevindingen urinewegen en geslachtsapparaat,43,False
+custom_64c8ec3f7b978a3924d44a09,janee,5,False
+custom_64c8ec3f7b978a3924d44a09,TIPS en ADVIEZEN over het huisdier,34,False
+custom_64c8ec3f7b978a3924d44a09,bevindingen skelet en poten,27,False
+custom_64c8ec3f7b978a3924d44a09,schoon en helderstaarhoornvliesschadeanders,43,False
+custom_64c8ec3f7b978a3924d44a09,EINDUITSLAG,11,False
+custom_64c8ec3f7b978a3924d44a09,OscilometrischDopplerNVT (hond)niet gelukt,42,False
+custom_64c8ec3f7b978a3924d44a09,normaal (≤ 1 sec)abnormaal (> 1 sec),36,False
+custom_64c8ec3f7b978a3924d44a09,schoonoorsmeer (cerumen)roodheidoorsmeer en roodheidoormijt,59,False
+custom_64c8ec3f7b978a3924d44a09,Ademfrequentie,14,False
+custom_64c8ec3f7b978a3924d44a09,Neusuitvloeiing,15,False
+custom_64c8ec3f7b978a3924d44a09,Geen zichtbare afwijkingen en niet te gestresst,47,False
+custom_64c8ec3f7b978a3924d44a09,normaalbloedeiwit,17,False
+custom_64c8ec3f7b978a3924d44a09,0-3 maanden3-6 maanden6-12 maandenlanger dan 1 jaar geleden,59,False
+custom_64c8ec3f7b978a3924d44a09,normaaltestes afwijkend,23,False
+custom_64c8ec3f7b978a3924d44a09,Krijgt het dier medicatie en of supplementen?,45,False
+custom_64c8ec3f7b978a3924d44a09,"normaalabnormaal, zie uitslag kaart",35,False
+custom_64c8ec3f7b978a3924d44a09,oren bevindingen,16,False
+custom_64c8ec3f7b978a3924d44a09,normaalabnormaal,16,False
+custom_64c8ec3f7b978a3924d44a09,Bijgeluiden ademhaling,22,False
+custom_64c8ec3f7b978a3924d44a09,strip urine,11,False
+custom_64c8ec3f7b978a3924d44a09,Merk voeding,12,False
+custom_64c8ec3f7b978a3924d44a09,Aantal slagen per minuut (hartfrequentie),41,False
+custom_64c8ec3f7b978a3924d44a09,Krijgt seniorvoeding,20,False
+custom_64c8ec3f7b978a3924d44a09,pH urine,8,False
+custom_64c8ec3f7b978a3924d44a09,Type voeding,12,False
+custom_64c8ec3f7b978a3924d44a09,huid en vacht bevindingen,25,False
+custom_64c8ec3f7b978a3924d44a09,Uitslag bloedonderzoek haematologie,35,False
+custom_64c8ec3f7b978a3924d44a09,regematigonregelmatig,21,False
+custom_64c8ec3f7b978a3924d44a09,neeja,5,False
+custom_64c8ec3f7b978a3924d44a09,Welk ontwormingsmiddel?,23,False
+custom_64c8ec3f7b978a3924d44a09,CRT,3,False
+custom_64c8ec3f7b978a3924d44a09,normaalkreupelheidzwelling(en)spieratrofieanders,48,False
+custom_64c8ec3f7b978a3924d44a09,Bevestiging fitte senior door dierenarts,40,False
+custom_64c8ec3f7b978a3924d44a09,Ademhalingstype,15,False
+custom_64c8ec3f7b978a3924d44a09,Hill'sPurinaRoyal CaninOverig,29,False
+custom_64c8ec3f7b978a3924d44a09,normaalgespannen/pijnlijktoegenomen buikomvang,46,False
+custom_64c8ec3f7b978a3924d44a09,Ademhalingsfrequentie per minuut,32,False
+custom_64c8ec3f7b978a3924d44a09,normaalverhoogdverlaagd,23,False
+custom_64c8ec3f7b978a3924d44a09,Hoeveel maanden geleden laatste ontworming?,43,False
+custom_64c8ec3f7b978a3924d44a09,BCS,3,False
+custom_64c8ec3f7b978a3924d44a09,rosebleekroodpaars,18,False
+custom_64c8ec3f7b978a3924d44a09,bevindingen buik,16,False
+custom_64c8ec3f7b978a3924d44a09,geen afwijkingen gevondenwel afwijking(en) gevonden,51,False
+custom_64c8ec3f7b978a3924d44a09,Methode,7,False
+custom_64c8ec3f7b978a3924d44a09,ogen bevindingen,16,False
+custom_64c8ec3f7b978a3924d44a09,s.g. urine,10,False
+custom_64c8ec3f7b978a3924d44a09,Welke voedingssupplementen?,27,False
+custom_64c8ec3f7b978a3924d44a09,Datum,5,True
+custom_64c8ec3f7b978a3924d44a09,Paraveterinair,14,False
+custom_64c8ec3f7b978a3924d44a09,OVER 1 JAAR SCREENING HERHALENCONSULT BIJ DIERENARTS,52,False
+custom_651426aa7b978a340f7fc4c7,Petflex pootje verwijderd,25,False
+custom_651426aa7b978a340f7fc4c7,Nabehandeling/opmerkingen,25,False
+custom_651426aa7b978a340f7fc4c7,Vaccinatieplan,14,False
+custom_651426aa7b978a340f7fc4c7,JaNVT,5,False
+custom_651426aa7b978a340f7fc4c7,Kraag/mps besproken,19,False
+custom_651426aa7b978a340f7fc4c7,Afspraak hhv,12,False
+custom_651426aa7b978a340f7fc4c7,(indicatie) Operatie,20,False
+custom_651426aa7b978a340f7fc4c7,ssssk(i)ssp(i)amp(i)mmp(i),26,False
+custom_651426aa7b978a340f7fc4c7,Narcose verloop,15,False
+custom_651426aa7b978a340f7fc4c7,"Ja, advies Pro PlanJa, advies HillsJa, andersNee, niet besproken",64,False
+custom_651426aa7b978a340f7fc4c7,(Aangepaste) voeding besproken,30,False
+custom_651426aa7b978a340f7fc4c7,Tube maat,9,False
+custom_651426aa7b978a340f7fc4c7,Medicatie meegegeven,20,False
+custom_651426aa7b978a340f7fc4c7,Pre-anesthetisch onderzoek,26,False
+custom_651426aa7b978a340f7fc4c7,Vanmorgen reeds gedaanVanmiddag alsnog gedaan,45,False
+custom_651426aa7b978a340f7fc4c7,Afwijkingen bloedonderzoek,26,False
+custom_651426aa7b978a340f7fc4c7,"Geen bijzonderheden, uitslag (per mail) naar client gestuurdNiet uitgevoerdAfwijkend",84,False
+custom_651426aa7b978a340f7fc4c7,Uitvoering operatie,19,False
+custom_651426aa7b978a340f7fc4c7,Chirurg,7,False
+custom_651426aa7b978a340f7fc4c7,Assistent,9,False
+custom_651426aa7b978a340f7fc4c7,Patient is meegegeven door,26,False
+custom_651426aa7b978a340f7fc4c7,Recovery,8,False
+custom_651426aa7b978a340f7fc4c7,Vaccinatiestatus,16,False
+custom_651426aa7b978a340f7fc4c7,Narcose,7,False
+custom_651426aa7b978a340f7fc4c7,voeding anders,14,False
+custom_651426aa7b978a340f7fc4c7,Nazorgformulier verstuurd,25,False
+custom_651426aa7b978a340f7fc4c7,"JaNee, duidelijk uitgelegd het thuis te doenNVT",47,False
+custom_651426aa7b978a340f7fc4c7,Aanvullend,10,False
+custom_651426aa7b978a340f7fc4c7,"IngeplandNVTEigenaar maakt zelf afspraak, online aangebodenControle combineren met vaccinatie",93,False
+custom_651426aa7b978a340f7fc4c7,Infuus(snelheid),16,False
+custom_651426aa7b978a340f7fc4c7,"Bekend en herinnering aanwezigVerlopen, bespreken met clientOnbekend, bespreken met client",90,False
+custom_651426aa7b978a340f7fc4c7,(Aanvullende) Anamnese,22,False
+custom_651426aa7b978a340f7fc4c7,Pre-anesthetisch Bloedonderzoek,31,False
+custom_651426aa7b978a340f7fc4c7,Datum,5,True
+custom_651427c47b978a340f7fc4f4,tijd,4,False
+custom_651427c47b978a340f7fc4f4,Aanpassingen voor volgende behandeling(en),42,False
+custom_651427c47b978a340f7fc4f4,Indicatie,9,False
+custom_651427c47b978a340f7fc4f4,Te behandelen oppervlakte (cm2),31,False
+custom_651427c47b978a340f7fc4f4,Power (Watt),12,False
+custom_651427c47b978a340f7fc4f4,Behandeling,11,False
+custom_651427c47b978a340f7fc4f4,Totale behandeltijd (sec),25,False
+custom_651427c47b978a340f7fc4f4,Contactechniek,14,False
+custom_651427c47b978a340f7fc4f4,gebruiker,9,True
+custom_651427c47b978a340f7fc4f4,Totale dosering per behandeling (Joule),39,False
+custom_651427c47b978a340f7fc4f4,Dosering (Joule/cm2),20,False
+custom_651427c47b978a340f7fc4f4,Overige opmerkingen,19,False
+custom_651427c47b978a340f7fc4f4,datum,5,True
+custom_651427c47b978a340f7fc4f4,Techniek,8,False
+custom_651427f87b978a340f7fc506,Opmerking indicatie/EOS,23,False
+custom_651427f87b978a340f7fc506,Houding van het dier,20,False
+custom_651427f87b978a340f7fc506,Opmerking controle,18,False
+custom_651427f87b978a340f7fc506,Hartfrequentie,14,False
+custom_651427f87b978a340f7fc506,Classificatie,13,False
+custom_651427f87b978a340f7fc506,Ernstige hypertensie (>180mmHg),31,False
+custom_651427f87b978a340f7fc506,2e meting,9,False
+custom_651427f87b978a340f7fc506,7e meting,9,False
+custom_651427f87b978a340f7fc506,GeenAmlodipineTelmirsartanBenazeprilDosering verhogenDosering verlagenOverige,77,False
+custom_651427f87b978a340f7fc506,Normotensie (<140mmHg),22,False
+custom_651427f87b978a340f7fc506,Hypertensie (160-179mmHg),25,False
+custom_651427f87b978a340f7fc506,Linker voorpootRechter voorpootLinker achterpootRechter achterpootStaart,72,False
+custom_651427f87b978a340f7fc506,Behandelend dierenarts,22,False
+custom_651427f87b978a340f7fc506,BP verhoging situationeel,25,False
+custom_651427f87b978a340f7fc506,Trend BP,8,False
+custom_651427f87b978a340f7fc506,Indicatie bloeddrukmeting,25,False
+custom_651427f87b978a340f7fc506,Apparatuur,10,False
+custom_651427f87b978a340f7fc506,Stressniveau dier,17,False
+custom_651427f87b978a340f7fc506,Controle BP,11,False
+custom_651427f87b978a340f7fc506,Verder aanwezig,15,False
+custom_651427f87b978a340f7fc506,Anamnese,8,True
+custom_651427f87b978a340f7fc506,Uitgevoerd door,15,False
+custom_651427f87b978a340f7fc506,Indien EOS,10,False
+custom_651427f87b978a340f7fc506,Volgende controle ingepland,27,False
+custom_651427f87b978a340f7fc506,1e meting,9,False
+custom_651427f87b978a340f7fc506,Huidige andere medicatie,24,False
+custom_651427f87b978a340f7fc506,Behandeling,11,False
+custom_651427f87b978a340f7fc506,4e meting,9,False
+custom_651427f87b978a340f7fc506,6e meting,9,False
+custom_651427f87b978a340f7fc506,Positie cuff,12,False
+custom_651427f87b978a340f7fc506,Huidige BP medicatie,20,False
+custom_651427f87b978a340f7fc506,5e meting,9,False
+custom_651427f87b978a340f7fc506,3e meting,9,False
+custom_651427f87b978a340f7fc506,Pre-hypertensie (140-159mmHg),29,False
+custom_651427f87b978a340f7fc506,Locatie (ruimte),16,False
+custom_651427f87b978a340f7fc506,Gemiddelde systolische BP van bruikbare waarden,47,False
+custom_651427f87b978a340f7fc506,Vorige meting (Classificatie / mmHg),36,False
+custom_651427f87b978a340f7fc506,Hulpmiddelen verlagen stressniveau gebruikt,43,False
+custom_651427f87b978a340f7fc506,Cuff maat,9,False
+custom_651430da7b978a340f7fc6be,Petflex pootje verwijderd,25,False
+custom_651430da7b978a340f7fc6be,Nabehandeling/opmerkingen,25,False
+custom_651430da7b978a340f7fc6be,Vaccinatieplan,14,False
+custom_651430da7b978a340f7fc6be,JaNVT,5,False
+custom_651430da7b978a340f7fc6be,Voeding anders,14,False
+custom_651430da7b978a340f7fc6be,Kraag/mps besproken,19,False
+custom_651430da7b978a340f7fc6be,Afspraak hhv,12,False
+custom_651430da7b978a340f7fc6be,ssssk(i)ssp(i)amp(i)mmp(i),26,False
+custom_651430da7b978a340f7fc6be,Narcose verloop,15,False
+custom_651430da7b978a340f7fc6be,"Ja, advies Pro PlanJa, advies HillsJa, andersNee, niet besproken",64,False
+custom_651430da7b978a340f7fc6be,Tube maat,9,False
+custom_651430da7b978a340f7fc6be,(Aangepaste) voeding besproken,30,False
+custom_651430da7b978a340f7fc6be,Medicatie meegegeven,20,False
+custom_651430da7b978a340f7fc6be,Pre-anesthetisch onderzoek,26,False
+custom_651430da7b978a340f7fc6be,Vanmorgen reeds gedaanVanmiddag alsnog gedaan,45,False
+custom_651430da7b978a340f7fc6be,Operatie,8,False
+custom_651430da7b978a340f7fc6be,Afwijkingen bloedonderzoek,26,False
+custom_651430da7b978a340f7fc6be,"Geen bijzonderheden, uitslag (per mail) naar client gestuurdNiet uitgevoerdAfwijkend",84,False
+custom_651430da7b978a340f7fc6be,Chirurg,7,False
+custom_651430da7b978a340f7fc6be,Assistent,9,False
+custom_651430da7b978a340f7fc6be,Uitvoering castratie reu,24,False
+custom_651430da7b978a340f7fc6be,Patient is meegegeven door,26,False
+custom_651430da7b978a340f7fc6be,Recovery,8,False
+custom_651430da7b978a340f7fc6be,Vaccinatiestatus,16,False
+custom_651430da7b978a340f7fc6be,Narcose,7,False
+custom_651430da7b978a340f7fc6be,Uitvoering (lap)sterilisatie/castratie,38,False
+custom_651430da7b978a340f7fc6be,Nazorgformulier verstuurd,25,False
+custom_651430da7b978a340f7fc6be,"JaNee, duidelijk uitgelegd het thuis te doenNVT",47,False
+custom_651430da7b978a340f7fc6be,Pre-anesthetisch Bloedonderzoek,31,False
+custom_651430da7b978a340f7fc6be,Aanvullend,10,False
+custom_651430da7b978a340f7fc6be,"IngeplandNVTEigenaar maakt zelf afspraak, online aangebodenControle combineren met vaccinatie",93,False
+custom_651430da7b978a340f7fc6be,Infuus(snelheid),16,False
+custom_651430da7b978a340f7fc6be,"Bekend en herinnering aanwezigVerlopen, bespreken met clientOnbekend, bespreken met client",90,False
+custom_651430da7b978a340f7fc6be,(Aanvullende) Anamnese,22,False
+custom_651430da7b978a340f7fc6be,Indicatie operatie,18,False
+custom_651430da7b978a340f7fc6be,Datum,5,True
+custom_651436287b978a340f7fc7bd,Ph,2,False
+custom_651436287b978a340f7fc7bd,Glucose,7,False
+custom_651436287b978a340f7fc7bd,ThoraxAbdomen,13,False
+custom_651436287b978a340f7fc7bd,Interpretatie vloeistof,23,False
+custom_651436287b978a340f7fc7bd,Sg,2,False
+custom_651436287b978a340f7fc7bd,Soort punctie,13,False
+custom_651436287b978a340f7fc7bd,g/100ml,7,False
+custom_651436807b978a340f7fc7c6,Mederwerker,11,False
+custom_651436807b978a340f7fc7c6,Anamnese,8,True
+custom_651436807b978a340f7fc7c6,LibrelaSolensiaCytopoint,24,False
+custom_651436807b978a340f7fc7c6,Huid / vacht,12,False
+custom_651436807b978a340f7fc7c6,Injectie over 4 weken herhalen (bij PV)controle bij dierenarts plannen,70,False
+custom_651436807b978a340f7fc7c6,Advies,6,False
+custom_651436807b978a340f7fc7c6,Geen bijzonderhedenRoodheidKale plekkenZie opmerkingen,54,False
+custom_651436807b978a340f7fc7c6,1/92/93/94/95/96/97/98/99/9,27,False
+custom_651436807b978a340f7fc7c6,Oorschelpen,11,False
+custom_651436807b978a340f7fc7c6,Injectie over 4 weken herhalen (bij PV )Controle bij dierenarts plannen,71,False
+custom_651436807b978a340f7fc7c6,Vlooien(poepjes),16,False
+custom_651436807b978a340f7fc7c6,Injectie,8,False
+custom_651436807b978a340f7fc7c6,Opmerkingen,11,True
+custom_651436807b978a340f7fc7c6,Injectie over 4 weken herhalen (bij PV)Controle bij dierenarts plannen,70,False
+custom_651436807b978a340f7fc7c6,Voedingstoestand,16,False
+custom_651436807b978a340f7fc7c6,Gewicht,7,True
+custom_651436877b978a340f7fc7c8,Anamnese,8,True
+custom_651436877b978a340f7fc7c8,tijd,4,False
+custom_651436877b978a340f7fc7c8,Plan van aanpak,15,False
+custom_651436877b978a340f7fc7c8,Volgende controle,17,False
+custom_651436877b978a340f7fc7c8,BCS,3,False
+custom_651436877b978a340f7fc7c8,gebruiker,9,True
+custom_651436877b978a340f7fc7c8,Bevindingen feedwise,20,False
+custom_651436877b978a340f7fc7c8,Overige opmerkingen,19,False
+custom_651436877b978a340f7fc7c8,datum,5,True
+custom_651436f67b978a340f7fc7cb,sskisskmkpimmpiampi,19,False
+custom_651436f67b978a340f7fc7cb,Nabehandeling/opmerkingen,25,False
+custom_651436f67b978a340f7fc7cb,JaNVT,5,False
+custom_651436f67b978a340f7fc7cb,Voeding anders,14,False
+custom_651436f67b978a340f7fc7cb,Kraag/mps besproken,19,False
+custom_651436f67b978a340f7fc7cb,Petflex pootje verwijdert,25,False
+custom_651436f67b978a340f7fc7cb,Afspraak hhv,12,False
+custom_651436f67b978a340f7fc7cb,(indicatie) Operatie,20,False
+custom_651436f67b978a340f7fc7cb,Narcose verloop,15,False
+custom_651436f67b978a340f7fc7cb,(Aangepaste) voeding besproken,30,False
+custom_651436f67b978a340f7fc7cb,Medicatie meegegeven,20,False
+custom_651436f67b978a340f7fc7cb,Vanmorgen reeds gedaanVanmiddag alsnog gedaan,45,False
+custom_651436f67b978a340f7fc7cb,Pre-anesthetisch onderzoek,26,False
+custom_651436f67b978a340f7fc7cb,Uitvoering operatie,19,False
+custom_651436f67b978a340f7fc7cb,Chirurg,7,False
+custom_651436f67b978a340f7fc7cb,Patient is meegegeven door,26,False
+custom_651436f67b978a340f7fc7cb,datum,5,True
+custom_651436f67b978a340f7fc7cb,Recovery,8,False
+custom_651436f67b978a340f7fc7cb,Narcose,7,False
+custom_651436f67b978a340f7fc7cb,"Ja, advies Pro PlanJa, advies Royal CaninJa, andersNee niet besproken",69,False
+custom_651436f67b978a340f7fc7cb,Nazorgformulier verstuurt,25,False
+custom_651436f67b978a340f7fc7cb,"JaNee, duidelijk uitgelegd het thuis te doenNVT",47,False
+custom_651436f67b978a340f7fc7cb,Aanvullend,10,False
+custom_651436f67b978a340f7fc7cb,Infuus(snelheid),16,False
+custom_651436f67b978a340f7fc7cb,(Aanvullende) Anamnese,22,False
+custom_651436f67b978a340f7fc7cb,"IngeplandNVTEigenaar maakt zelf afspraak, online aangeboden",59,False
+custom_651436f67b978a340f7fc7cb,input,5,False
+custom_651436f67b978a340f7fc7cb,Assistent,9,False
+custom_651437577b978a340f7fc7ce,Ogen,4,False
+custom_651437577b978a340f7fc7ce,StabielAangekomenAfgevallen,27,False
+custom_651437577b978a340f7fc7ce,Attent en AlertAngstigDrukApatisch/sloomNerveusLeuk & vriendelijkLeuke nieuwsgierige diertje,92,False
+custom_651437577b978a340f7fc7ce,Gingivitis,10,False
+custom_651437577b978a340f7fc7ce,Dier en Zorg Plan,17,False
+custom_651437577b978a340f7fc7ce,Oorschelpen,11,False
+custom_651437577b978a340f7fc7ce,(Voedings)advies,16,False
+custom_651437577b978a340f7fc7ce,BASISINFORMATIE controleren: voeding/medicijn gebruik etc,57,False
+custom_651437577b978a340f7fc7ce,*Overige opmerkingen,20,False
+custom_651437577b978a340f7fc7ce,Aanvullend gebit:,17,False
+custom_651437577b978a340f7fc7ce,Gebit mate van tandsteen,24,False
+custom_651437577b978a340f7fc7ce,Anaalklieren,12,False
+custom_651437577b978a340f7fc7ce,"Schone, heldere ogenTraansstreep > ADVIES > schoonhouden met (malacetic) doekjes",80,False
+custom_651437577b978a340f7fc7ce,GekniptHerhaalafspraak?,23,False
+custom_651437577b978a340f7fc7ce,datum,5,True
+custom_651437577b978a340f7fc7ce,Vlooien en tekenbestrijding voldoenAdvies gedurende het hele jaar,65,False
+custom_651437577b978a340f7fc7ce,Adviezen,8,False
+custom_651437577b978a340f7fc7ce,Uw paraveterinair,17,False
+custom_651437577b978a340f7fc7ce,Algemene indruk,15,True
+custom_651437577b978a340f7fc7ce,Instructies Paraveterinairen,28,False
+custom_651437577b978a340f7fc7ce,Voedingstoestand,16,False
+custom_651437577b978a340f7fc7ce,Ontworming,10,False
+custom_651437577b978a340f7fc7ce,Anamnese/klachten,17,False
+custom_651437577b978a340f7fc7ce,Huid / vacht,12,False
+custom_651437577b978a340f7fc7ce,Nagels,6,False
+custom_651437577b978a340f7fc7ce,Opmerkingen AO,14,False
+custom_651437577b978a340f7fc7ce,Geef het GEWICHT in in Animana,30,False
+custom_651437577b978a340f7fc7ce,Vlooien / teken,15,False
+custom_651437577b978a340f7fc7ce,Opmerkingen,11,True
+custom_651437577b978a340f7fc7ce,Gewicht,7,True
+custom_6514378d7b978a340f7fc7fa,"Inspectie, palpatie, pass. bewegingen welverkolom/romp",54,False
+custom_6514378d7b978a340f7fc7fa,Extensor carpi radialis reflex rechts,37,False
+custom_6514378d7b978a340f7fc7fa,Overige opmerkingen,19,False
+custom_6514378d7b978a340f7fc7fa,Vraagstelling / iatrotroop probleem,35,False
+custom_6514378d7b978a340f7fc7fa,Gedrag en bewustzijnsniveau,27,False
+custom_6514378d7b978a340f7fc7fa,- linksachter,13,False
+custom_6514378d7b978a340f7fc7fa,Bevindingen algemeen lichamelijk onderzoek,42,False
+custom_6514378d7b978a340f7fc7fa,Anusreflex,10,False
+custom_6514378d7b978a340f7fc7fa,Correctie dubbeltreden rechtsvoor,33,False
+custom_6514378d7b978a340f7fc7fa,Kniepees reflex rechts,22,False
+custom_6514378d7b978a340f7fc7fa,Reactie op sensorische input/pijn,33,False
+custom_6514378d7b978a340f7fc7fa,Stand,5,False
+custom_6514378d7b978a340f7fc7fa,- links,7,False
+custom_6514378d7b978a340f7fc7fa,Hinkelen rechtsvoor,19,False
+custom_6514378d7b978a340f7fc7fa,Tactiele plaatsing,18,False
+custom_6514378d7b978a340f7fc7fa,Interpretatie,13,False
+custom_6514378d7b978a340f7fc7fa,Dierenarts,10,True
+custom_6514378d7b978a340f7fc7fa,Plan,4,False
+custom_6514378d7b978a340f7fc7fa,Inspectie en palpatie,21,False
+custom_6514378d7b978a340f7fc7fa,- rechtsachter,14,False
+custom_6514378d7b978a340f7fc7fa,Locomotie,9,False
+custom_6514378d7b978a340f7fc7fa,- linksvoor,11,False
+custom_6514378d7b978a340f7fc7fa,Optische plaatsing,18,False
+custom_6514378d7b978a340f7fc7fa,Dreigreflex rechts,18,False
+custom_6514378d7b978a340f7fc7fa,Slik- en hoestreflex,20,False
+custom_6514378d7b978a340f7fc7fa,Ooglidreflex rechts,19,False
+custom_6514378d7b978a340f7fc7fa,Pupilreflex rechts,18,False
+custom_6514378d7b978a340f7fc7fa,Opmerkingen,11,True
+custom_6514378d7b978a340f7fc7fa,Terugtrekreflex rechtsvoor,26,False
+custom_6514378d7b978a340f7fc7fa,Datum,5,True
+custom_6514383e7b978a340f7fc817,Gepoept?,8,False
+custom_6514383e7b978a340f7fc817,Gedronken?,10,False
+custom_6514383e7b978a340f7fc817,Geplast?,8,False
+custom_6514383e7b978a340f7fc817,"JaNeeNiet gekeken, advies wel te doen",37,False
+custom_6514383e7b978a340f7fc817,JaN.V.T.Eigenaar belt nog,25,False
+custom_6514383e7b978a340f7fc817,Opmerkingen:,12,False
+custom_6514383e7b978a340f7fc817,JaNee,5,False
+custom_6514383e7b978a340f7fc817,Wond schoon? droog? rustig?,27,False
+custom_6514383e7b978a340f7fc817,IVT medicatie geven gelukt?,27,False
+custom_6514383e7b978a340f7fc817,JaEigenaar belt nog,19,False
+custom_6514383e7b978a340f7fc817,Aan de wond gezeten?,20,False
+custom_6514383e7b978a340f7fc817,Gebruiker,9,False
+custom_6514383e7b978a340f7fc817,Hoe is de nacht gegaan?,23,False
+custom_6514383e7b978a340f7fc817,Gebitsbehandeling,17,False
+custom_6514383e7b978a340f7fc817,Controle/HHV ingepland?,23,False
+custom_6514383e7b978a340f7fc817,Controle ingepland?,19,False
+custom_6514383e7b978a340f7fc817,IVT ingeven van medicatie gelukt?,33,False
+custom_6514383e7b978a340f7fc817,Opmerkingen,11,True
+custom_6514383e7b978a340f7fc817,Gegeten?,8,False
+custom_6514388f7b978a340f7fc829,Lichtverteerbare voeding,24,False
+custom_6514388f7b978a340f7fc829,Anamnese,8,True
+custom_6514388f7b978a340f7fc829,diagnose,8,False
+custom_6514388f7b978a340f7fc829,"Geadviseerd en ingeplandGeadviseerd, eigenaar plant zelf in (advies online)NVT",78,False
+custom_6514388f7b978a340f7fc829,Vaccinatie status,17,False
+custom_6514388f7b978a340f7fc829,bevindingen,11,False
+custom_6514388f7b978a340f7fc829,gebruiker,9,True
+custom_6514388f7b978a340f7fc829,Controle afspraak,17,False
+custom_6514388f7b978a340f7fc829,Tips & Adviezen,15,False
+custom_6514388f7b978a340f7fc829,advies/therapie,15,False
+custom_6514388f7b978a340f7fc829,AanwezigOnbekend en ingeadviseerdNiets mee gedaan,49,False
+custom_651438be7b978a340f7fc833,datum voorval,13,False
+custom_651438be7b978a340f7fc833,diersoort,9,False
+custom_651438be7b978a340f7fc833,diersoort overig,16,False
+custom_651438be7b978a340f7fc833,betrokken dierenarts,20,False
+custom_651438be7b978a340f7fc833,betrokken paraveterinair,24,False
+custom_651438be7b978a340f7fc833,indeling COMPLICATIE/INCIDENT,29,False
+custom_651438be7b978a340f7fc833,datum evalutatie verbetermaatregelen,36,False
+custom_651438be7b978a340f7fc833,"omschrijving [wat, waar, hoe?]",30,False
+custom_651438be7b978a340f7fc833,indeling KLACHT,15,False
+custom_651438be7b978a340f7fc833,betreft,7,False
+custom_651438be7b978a340f7fc833,locatie Evi dierenartsen,24,False
+custom_651438be7b978a340f7fc833,VERBETERMAATREGEL 2,19,False
+custom_651438be7b978a340f7fc833,datum afhandeling klacht,24,False
+custom_651438be7b978a340f7fc833,signalering door medewerker,27,False
+custom_651438be7b978a340f7fc833,verwachting cli�nt,18,False
+custom_651438be7b978a340f7fc833,VERBETERMAATREGEL 3,19,False
+custom_651438be7b978a340f7fc833,afgesproken met cli�nt,22,False
+custom_651438be7b978a340f7fc833,afhandeling/gezien klacht door,30,False
+custom_651438be7b978a340f7fc833,CLIENT NAAM EN PATIENT NAAM,27,False
+custom_651438be7b978a340f7fc833,VERBETERMAATREGEL 1,19,False
+custom_651438fa7b978a340f7fc846,Naslagwerk nascholing te vinden in,34,False
+custom_651438fa7b978a340f7fc846,Nascholingsinstantie,20,False
+custom_651438fa7b978a340f7fc846,Nascholing,10,False
+custom_651438fa7b978a340f7fc846,gebruiker,9,True
+custom_651438fa7b978a340f7fc846,Afgetekend/gelezen,18,False
+custom_651438fa7b978a340f7fc846,Datum,5,True
+custom_651438fa7b978a340f7fc846,Nascholingspunten,17,False
+custom_651439e67b978a340f7fc869,P/C,3,False
+custom_651439e67b978a340f7fc869,ErythrocytenLeucocytenPlaveiselepitheelcellenOvergangsepitheelcellenNierepitheelcellenGeen cellen,97,False
+custom_651439e67b978a340f7fc869,Cellen,6,False
+custom_651439e67b978a340f7fc869,CR,2,False
+custom_651439e67b978a340f7fc869,GLU,3,False
+custom_651439e67b978a340f7fc869,URO,3,False
+custom_651439e67b978a340f7fc869,PRO,3,False
+custom_651439e67b978a340f7fc869,BLD,3,False
+custom_651439e67b978a340f7fc869,Spontane urine (midstream)KatheterPer punctie (steriel),55,False
+custom_651439e67b978a340f7fc869,A/C,3,False
+custom_651439e67b978a340f7fc869,Uitgevoerd,10,False
+custom_651439e67b978a340f7fc869,pH,2,False
+custom_651439e67b978a340f7fc869,MA,2,False
+custom_651439e67b978a340f7fc869,Soortelijk gewicht,18,False
+custom_651439e67b978a340f7fc869,BIL,3,False
+custom_651439e67b978a340f7fc869,opmerkingen,11,False
+custom_651439e67b978a340f7fc869,Nitriet,7,False
+custom_651439e67b978a340f7fc869,Leu,3,False
+custom_651439e67b978a340f7fc869,KET,3,False
+custom_651439e67b978a340f7fc869,Opmerkingen,11,True
+custom_651439e67b978a340f7fc869,Urine via,9,False
+custom_65143a627b978a340f7fc89f,Poepen,6,False
+custom_65143a627b978a340f7fc89f,Pijnscore,9,False
+custom_65143a627b978a340f7fc89f,Opname vorm,11,False
+custom_65143a627b978a340f7fc89f,Infuus (snelheid ml/h),22,False
+custom_65143a627b978a340f7fc89f,"Ja, normaalJa, diarreeNee",25,False
+custom_65143a627b978a340f7fc89f,JaNee,5,False
+custom_65143a627b978a340f7fc89f,Ingevuld door:,14,False
+custom_65143a627b978a340f7fc89f,Temperatuur,11,True
+custom_65143a627b978a340f7fc89f,JaNeeOnbekend,13,False
+custom_65143a627b978a340f7fc89f,Gewicht ingevuld,16,False
+custom_65143a627b978a340f7fc89f,Pols frequentie p/min,21,False
+custom_65143a627b978a340f7fc89f,Plassen,7,False
+custom_65143a627b978a340f7fc89f,Braken,6,False
+custom_65143a627b978a340f7fc89f,Algemeen onderzoek,18,False
+custom_65143a627b978a340f7fc89f,Eten,4,False
+custom_65143a627b978a340f7fc89f,Reden van opname,16,False
+custom_65143a627b978a340f7fc89f,Contact eigenaar via:,21,False
+custom_65143a627b978a340f7fc89f,Opmerking EDPP,14,False
+custom_65143a627b978a340f7fc89f,Drinken,7,True
+custom_65143a627b978a340f7fc89f,DDX,3,False
+custom_65143a627b978a340f7fc89f,Algemene indruk,15,True
+custom_65143a627b978a340f7fc89f,Plan,4,False
+custom_65143a627b978a340f7fc89f,ZelfstandigZelfstandig matigNietNiet krijgt dwangvoedingNiet gehad,66,False
+custom_65143a627b978a340f7fc89f,Bijzonderheden,14,False
+custom_65143a627b978a340f7fc89f,Ademhalings frequentie p/min,28,False
+custom_65143a627b978a340f7fc89f,Kosten genoemd/besproken,24,False
+custom_65143a627b978a340f7fc89f,Opmerkingen,11,True
+custom_65143a7d7b978a340f7fc8a2,"niet zichtbaargbroodperforatiebomberendanders, namelijk:",56,False
+custom_65143a7d7b978a340f7fc8a2,algemeen onderzoek,18,False
+custom_65143a7d7b978a340f7fc8a2,oor/oren spoelen,16,False
+custom_65143a7d7b978a340f7fc8a2,r�ntgen onderzoek bullae,24,False
+custom_65143a7d7b978a340f7fc8a2,BO/ABG,6,False
+custom_65143a7d7b978a340f7fc8a2,Opmerkingen:,12,False
+custom_65143a7d7b978a340f7fc8a2,orale medicatie,15,False
+custom_65143a7d7b978a340f7fc8a2,localisatie,11,False
+custom_65143a7d7b978a340f7fc8a2,doorverwijzing,14,False
+custom_65143a7d7b978a340f7fc8a2,opwerken allergie,17,False
+custom_65143a7d7b978a340f7fc8a2,zo ja: hoe?,11,False
+custom_65143a7d7b978a340f7fc8a2,janee,5,False
+custom_65143a7d7b978a340f7fc8a2,namelijk,8,False
+custom_65143a7d7b978a340f7fc8a2,Therapie COE:,13,False
+custom_65143a7d7b978a340f7fc8a2,oormedicatie,12,False
+custom_65143a7d7b978a340f7fc8a2,oor uitwendig,13,False
+custom_65143a7d7b978a340f7fc8a2,gbafwijkende houding/gangscheve kopstandverminderd gehoorveranderd exploratief gedrag,85,False
+custom_65143a7d7b978a340f7fc8a2,controle datum,14,False
+custom_65143a7d7b978a340f7fc8a2,"erytheemvernauwde gehoorganglichenificatiepuskrablesiesveel haar in gehoorganganders, namelijk:",95,False
+custom_65143a7d7b978a340f7fc8a2,anamnese,8,False
+custom_65143a7d7b978a340f7fc8a2,uitslag:,8,False
+custom_65143a7d7b978a340f7fc8a2,otoscopie,9,False
+custom_65143a7d7b978a340f7fc8a2,namelijk:,9,False
+custom_65143a7d7b978a340f7fc8a2,aanwijzingen voor allergie,26,False
+custom_65143a7d7b978a340f7fc8a2,acute otitis externa,20,False
+custom_65143a7d7b978a340f7fc8a2,algemeen onderzoek wbt oor,26,False
+custom_65143a7d7b978a340f7fc8a2,"zo nee, waarom niet?",20,False
+custom_65143a7d7b978a340f7fc8a2,"neeja, namelijk:",16,False
+custom_65143a7d7b978a340f7fc8a2,diagnose acuut,14,False
+custom_65143a7d7b978a340f7fc8a2,probleemlijst,13,False
+custom_65143a7d7b978a340f7fc8a2,krabbenschudden met de kop/ klapperen met orenschuren over de grondooruitvloeiingpijnlijke oren,95,False
+custom_65143a7d7b978a340f7fc8a2,bijzonderheden,14,False
+custom_65143a7d7b978a340f7fc8a2,controle na 10 dagen geadviseerd?,33,False
+custom_65143a7d7b978a340f7fc8a2,diagnose chronisch,18,False
+custom_65143a7d7b978a340f7fc8a2,"ja: duur langer dan 3 wekenja, recidief < 3 mndnee (dan hoeft Richtlijn COE niet te worden gevolgd)",99,False
+custom_65143a7d7b978a340f7fc8a2,trommelvlies,12,False
+custom_65143a7d7b978a340f7fc8a2,cytologie,9,False
+custom_65143a7d7b978a340f7fc8a2,huidonderzoek,13,False
+custom_65143a7d7b978a340f7fc8a2,sprake van chronische otitis ext,32,False
+custom_65143a7d7b978a340f7fc8a2,algemene indruk oor,19,False
+custom_65143a7d7b978a340f7fc8a2,"easoticauribioticsurolanneotriamneonystatriamdermielrecicortoticortanders, namelijk:",84,False
+custom_65143a7d7b978a340f7fc8a2,zwemmen,7,False
+custom_65143a7d7b978a340f7fc8a2,"indien ja, doorverwijzing voor:",31,False
+custom_651451d57b978a340f7fcb40,Advies mbt gewicht (voeding!):,30,False
+custom_651451d57b978a340f7fcb40,Anamnese,8,True
+custom_651451d57b978a340f7fcb40,GoedWijkt een beetje,20,False
+custom_651451d57b978a340f7fcb40,Overige opmerkingen:,20,False
+custom_651451d57b978a340f7fcb40,Sterilisatie/castratieBultje verwijderenAnders,46,False
+custom_651451d57b978a340f7fcb40,StabielAangekomenAfgevallen,27,False
+custom_651451d57b978a340f7fcb40,Verdikt,7,False
+custom_651451d57b978a340f7fcb40,gebruiker,9,True
+custom_651451d57b978a340f7fcb40,Vervolg controle?,17,False
+custom_651451d57b978a340f7fcb40,Opmerkingen,11,True
+custom_651451d57b978a340f7fcb40,Sluiting,8,False
+custom_651451d57b978a340f7fcb40,JaNee,5,False
+custom_651451d57b978a340f7fcb40,Pijnlijk,8,False
+custom_651451d57b978a340f7fcb40,Gewicht,7,True
+custom_651451d57b978a340f7fcb40,Operatie,8,False
+custom_651452047b978a340f7fcb42,Controle,8,False
+custom_651452047b978a340f7fcb42,CanineParvoVirus,16,False
+custom_651452047b978a340f7fcb42,Advies,6,False
+custom_651452047b978a340f7fcb42,TiterenControleCanineAdenoVirusCanineParvoVirusCanineDistemperVirusAdvies mbt opnieuw titerenAdvies,99,False
+custom_651452047b978a340f7fcb42,CanineAdenoVirus,16,False
+custom_651452047b978a340f7fcb42,Advies mbt opnieuw titeren,26,False
+custom_651452047b978a340f7fcb42,CanineDistemperVirus,20,False
+custom_651452d87b978a340f7fcb4a,Petflex pootje verwijderd,25,False
+custom_651452d87b978a340f7fcb4a,"Ja, advies Pro PlanJa, advies HillsNee, niet besproken",54,False
+custom_651452d87b978a340f7fcb4a,Vaccinatieplan,14,False
+custom_651452d87b978a340f7fcb4a,JaNVT,5,False
+custom_651452d87b978a340f7fcb4a,Voeding anders,14,False
+custom_651452d87b978a340f7fcb4a,Kraag/mps besproken,19,False
+custom_651452d87b978a340f7fcb4a,Complicaties,12,False
+custom_651452d87b978a340f7fcb4a,"Slijmvliezen, tong, kaakomslag",30,False
+custom_651452d87b978a340f7fcb4a,Afspraak hhv,12,False
+custom_651452d87b978a340f7fcb4a,Narcose verloop,15,False
+custom_651452d87b978a340f7fcb4a,Tube maat,9,False
+custom_651452d87b978a340f7fcb4a,Behandelend dierenarts,22,False
+custom_651452d87b978a340f7fcb4a,Extractie(s),12,False
+custom_651452d87b978a340f7fcb4a,Afwezige elementen,18,False
+custom_651452d87b978a340f7fcb4a,Pre-anesthetisch onderzoek,26,False
+custom_651452d87b978a340f7fcb4a,Medicatie meegegeven,20,False
+custom_651452d87b978a340f7fcb4a,Kat sskiKat mmpiKat ampiHond sspiHond mmpiHond ampiKat mkpiHond sski,68,False
+custom_651452d87b978a340f7fcb4a,Vanmorgen reeds gedaanVanmiddag alsnog gedaan,45,False
+custom_651452d87b978a340f7fcb4a,Afwijkingen bloedonderzoek,26,False
+custom_651452d87b978a340f7fcb4a,"Geen bijzonderheden, uitslag (per mail) naar client gestuurdNiet uitgevoerdAfwijkend",84,False
+custom_651452d87b978a340f7fcb4a,(aangepaste) voeding besproken,30,False
+custom_651452d87b978a340f7fcb4a,VastSpelingLos,14,False
+custom_651452d87b978a340f7fcb4a,Assistent,9,False
+custom_651452d87b978a340f7fcb4a,Patient is meegegeven door,26,False
+custom_651452d87b978a340f7fcb4a,Recovery,8,False
+custom_651452d87b978a340f7fcb4a,Vaccinatiestatus,16,False
+custom_651452d87b978a340f7fcb4a,Narcose,7,False
+custom_651452d87b978a340f7fcb4a,Reinigingsadvies/Dental gebruik,31,False
+custom_651452d87b978a340f7fcb4a,Tandsteen/gingivitis,20,False
+custom_651452d87b978a340f7fcb4a,Nazorgformulier verstuurd,25,False
+custom_651452d87b978a340f7fcb4a,"JaNee, duidelijk uitgelegd het thuis te doenNVT",47,False
+custom_651452d87b978a340f7fcb4a,Controle,8,False
+custom_651452d87b978a340f7fcb4a,(aanvullende) Anamnese,22,False
+custom_651452d87b978a340f7fcb4a,Aanvullend,10,False
+custom_651452d87b978a340f7fcb4a,"IngeplandNVTEigenaar maakt zelf afspraak, online aangebodenControle combineren met vaccinatie",93,False
+custom_651452d87b978a340f7fcb4a,Infuus(snelheid),16,False
+custom_651452d87b978a340f7fcb4a,"Bekend en herinnering aanwezigVerlopen, bespreken met clientOnbekend, bespreken met client",90,False
+custom_651452d87b978a340f7fcb4a,Dentale r�ntgenfoto�s,21,False
+custom_651452d87b978a340f7fcb4a,Opmerkingen,11,True
+custom_651452d87b978a340f7fcb4a,Pre-anesthetisch Bloedonderzoek,31,False
+custom_651452d87b978a340f7fcb4a,Symfysis onderkaak,18,False
+custom_651453017b978a340f7fcb4c,Petflex pootje verwijderd,25,False
+custom_651453017b978a340f7fcb4c,JaNeeNVT,8,False
+custom_651453017b978a340f7fcb4c,Aanvullend,10,False
+custom_651453017b978a340f7fcb4c,"Ja, advies Pro PlanJa, advies Royal CaninJa, andersNee, niet besproken",70,False
+custom_651453017b978a340f7fcb4c,Voeding anders,14,False
+custom_651453017b978a340f7fcb4c,"IngeplandNVTEigenaar maakt zelf afspraak, online aangebodenControle combineren met vaccinatie",93,False
+custom_651453017b978a340f7fcb4c,Nazorgformulier verstuurd,25,False
+custom_651453017b978a340f7fcb4c,Afspraak hhv,12,False
+custom_651453017b978a340f7fcb4c,"JaNee, duidelijk uitgelegd het thuis te doenNVT",47,False
+custom_651453017b978a340f7fcb4c,Kraag/mps bespoken,18,False
+custom_651453017b978a340f7fcb4c,Medicatie meegegeven,20,False
+custom_651453017b978a340f7fcb4c,(Aangepaste) voeding besproken,30,False
+custom_651453017b978a340f7fcb4c,Vanmorgen reeds gedaanVanmiddag alsnog gedaan,45,False
+custom_651453017b978a340f7fcb4c,Patient is meegegeven door,26,False
+custom_653bb9cd7b978a3480e7cd9b,Is er gingivitis zichtbaar?,27,False
+custom_653bb9cd7b978a3480e7cd9b,ADVIES,6,False
+custom_653bb9cd7b978a3480e7cd9b,Zijn de mandibulaire lymfeknopen vergroot?,42,False
+custom_653bb9cd7b978a3480e7cd9b,Kruis aan als het dier last heeft van:,38,False
+custom_653bb9cd7b978a3480e7cd9b,Is er tandsteen zichtbaar?,26,False
+custom_653bb9cd7b978a3480e7cd9b,OPMERKINGEN,11,False
+custom_653bb9cd7b978a3480e7cd9b,BrokNatvoerBrok en natvoerVers vleesKauwstavenTreats/belonings snoepjes,71,False
+custom_653bb9cd7b978a3480e7cd9b,Is de bek gemakkeijk te openen tijdens het onderzoek?,53,False
+custom_653bb9cd7b978a3480e7cd9b,datum,5,True
+custom_653bb9cd7b978a3480e7cd9b,Doet de eigenaar aan homecare van het gebit?,44,False
+custom_653bb9cd7b978a3480e7cd9b,Merk voeding,12,False
+custom_653bb9cd7b978a3480e7cd9b,"Indien stinken, hoe lang is dit al zo?",38,False
+custom_653bb9cd7b978a3480e7cd9b,< 1 week1 week-1 maand1-2 maanden2-6 maandenlanger dan 6 maanden,64,False
+custom_653bb9cd7b978a3480e7cd9b,Is de kop symmetrisch?,22,False
+custom_653bb9cd7b978a3480e7cd9b,Type voeding,12,False
+custom_653bb9cd7b978a3480e7cd9b,"Zijn er afwijkende weke delen zichtbaar, zoals een tumor?",57,False
+custom_653bb9cd7b978a3480e7cd9b,Zijn er losse gebitselementen zichtbaar?,40,False
+custom_653bb9cd7b978a3480e7cd9b,text,4,False
+custom_653bb9cd7b978a3480e7cd9b,gebruiker,9,True
+custom_653bb9cd7b978a3480e7cd9b,Is het gebit op het eerste gezicht volledig?,44,False
+custom_653bb9cd7b978a3480e7cd9b,Kwijlen?Moeite met kauwen?Pijnuitingen bij het gebruik van de bek?Stinken uit de bek?,85,False
+custom_653bb9cd7b978a3480e7cd9b,PurinaHill'sRoyal CaninOverig,29,False
+custom_653bb9cd7b978a3480e7cd9b,EINDUITSLAG,11,False
+custom_655cc4ff7b978a6b7e76e904,Chipnummer,10,False
+custom_655cc4ff7b978a6b7e76e904,Huisnummer extra (optioneel),28,False
+custom_655cc4ff7b978a6b7e76e904,Naam,4,False
+custom_655cc4ff7b978a6b7e76e904,CIBG aanmelder,14,False
+custom_655cc4ff7b978a6b7e76e904,Geboortedatum,13,False
+custom_655cc4ff7b978a6b7e76e904,Paspoort startdatum,19,False
+custom_655cc4ff7b978a6b7e76e904,Bedrijfsnaam (optioneel),24,False
+custom_655cc4ff7b978a6b7e76e904,Postcode,8,False
+custom_655cc4ff7b978a6b7e76e904,Mobiel nummer,13,False
+custom_655cc4ff7b978a6b7e76e904,Huisnummer,10,False
+custom_655cc4ff7b978a6b7e76e904,Aanmelder,9,False
+custom_655cc4ff7b978a6b7e76e904,Alternatief telefoonnummer (optioneel),38,False
+custom_655cc4ff7b978a6b7e76e904,Datum inbrengen chip,20,False
+custom_655cc4ff7b978a6b7e76e904,Email,5,False
+custom_655cc4ff7b978a6b7e76e904,Paspoortnummer,14,False
+custom_655cc4ff7b978a6b7e76e904,Straatnaam,10,False
+custom_655cc4ff7b978a6b7e76e904,Woonplaats,10,False
+custom_655cc4ff7b978a6b7e76e904,UBN (bij registratie hond),26,False
+custom_655cc4ff7b978a6b7e76e904,Geslacht,8,False
+custom_655cc4ff7b978a6b7e76e904,Telefoonnummer,14,False
+custom_655cc4ff7b978a6b7e76e904,Diersoort,9,False
+custom_655cc4ff7b978a6b7e76e904,input,5,False
+custom_6572f5097b978a2c596e3bbb,Algemeen,8,False
+custom_6572f5097b978a2c596e3bbb,Gewicht en basis-informatie bijwerken.,38,False
+custom_6572f5097b978a2c596e3bbb,Ogen,4,False
+custom_6572f5097b978a2c596e3bbb,Buikpalpatie,12,False
+custom_6572f5097b978a2c596e3bbb,Senioren,8,False
+custom_6572f5097b978a2c596e3bbb,Lymfeklieren,12,True
+custom_6572f5097b978a2c596e3bbb,Heldere harttonen en normaal ritmeHartruis aanwezigAbnormaal hartritme aanwezigZie opmerkingen,94,False
+custom_6572f5097b978a2c596e3bbb,Aanvullende vaccinaties,23,False
+custom_6572f5097b978a2c596e3bbb,Neus,4,False
+custom_6572f5097b978a2c596e3bbb,Longen,6,False
+custom_6572f5097b978a2c596e3bbb,Slijmvliezen,12,True
+custom_6572f5097b978a2c596e3bbb,Chip,4,False
+custom_6572f5097b978a2c596e3bbb,Gingivitis/paradontitis,23,False
+custom_6572f5097b978a2c596e3bbb,BrokkenBlikvoerVers vleesFeedwise geadviseerd,45,False
+custom_6572f5097b978a2c596e3bbb,Opmerkingen gebit,17,False
+custom_6572f5097b978a2c596e3bbb,Hart,4,False
+custom_6572f5097b978a2c596e3bbb,Algemene indruk,15,True
+custom_6572f5097b978a2c596e3bbb,B.C.S.,6,False
+custom_6572f5097b978a2c596e3bbb,Voeding,7,False
+custom_6572f5097b978a2c596e3bbb,Conclusie,9,False
+custom_6572f5097b978a2c596e3bbb,Buitenland plannen,18,False
+custom_6572f5097b978a2c596e3bbb,Dier en Zorg PlanVerzekeringOntwormen/ontvlooien,48,False
+custom_6572f5097b978a2c596e3bbb,Opmerkingen algemeen onderzoek,30,False
+custom_6572f5097b978a2c596e3bbb,Anamnese/klachten,17,False
+custom_6572f5097b978a2c596e3bbb,Gebit,5,True
+custom_6572f5097b978a2c596e3bbb,Huid / vacht,12,False
+custom_6572f5097b978a2c596e3bbb,Aanvullende adviezen,20,False
+custom_6572f5097b978a2c596e3bbb,Oren,4,True
+custom_6572f5097b978a2c596e3bbb,Denk bij afwijkingen aan het protocol 'Gebit Screening H/K',59,False
+custom_6572f5097b978a2c596e3bbb,Bewegingsapparaat,17,False
+custom_6572f5097b978a2c596e3bbb,Besproken met eigenaar,22,False
+custom_6572f5097b978a2c596e3bbb,Rabies vaccinatieKennelhoest/Bordatella vaccinatieBooster vaccinatie nodig,74,False
+custom_6572f5097b978a2c596e3bbb,Opmerkingen,11,True
+custom_6572f5097b978a2c596e3bbb,Gewicht,7,True
+custom_659e707a7b978a29c05e32df,Reden geen actie klant,22,False
+custom_659e707a7b978a29c05e32df,Gebeld door,11,False
+custom_659e707a7b978a29c05e32df,Opmerking,9,False
+custom_659e707a7b978a29c05e32df,Contact met klant,17,False
+custom_65ce1e447b978a55d1612968,Classificatie complicatie:,26,False
+custom_65ce1e447b978a55d1612968,Opmerkingen:,12,False
+custom_65ce7efc7b978a55d1612d6e,input,5,False
+custom_65ce7f897b978a55d1612d8e,input,5,False
+custom_65dce0617b978a3dbdbf4058,input,5,False
+custom_65dce0bd7b978a3dbdbf4060,input,5,False
+custom_65dce1f27b978a3dbdbf4062,input,5,False
+custom_65df397c7b978a7f446424dd,Vaccinatieplan,14,False
+custom_65df397c7b978a7f446424dd,Ogen afwijkend,14,False
+custom_65df397c7b978a7f446424dd,Ogen,4,False
+custom_65df397c7b978a7f446424dd,Voedingsadvies,14,False
+custom_65df397c7b978a7f446424dd,StabielAangekomenAfgevallen,27,False
+custom_65df397c7b978a7f446424dd,Buikpalpatie,12,False
+custom_65df397c7b978a7f446424dd,Controle advies,15,False
+custom_65df397c7b978a7f446424dd,Temperatuur,11,True
+custom_65df397c7b978a7f446424dd,Lymfeklieren,12,True
+custom_65df397c7b978a7f446424dd,Longen/Ademhaling,17,False
+custom_65df397c7b978a7f446424dd,*Overige opmerkingen,20,False
+custom_65df397c7b978a7f446424dd,Maagdarmstelsel,15,False
+custom_65df397c7b978a7f446424dd,Attent en alertAngstigDrukNerveusLeuke vriendelijke katLeuk nieuwsgierig kitten,79,False
+custom_65df397c7b978a7f446424dd,Neurologisch,12,False
+custom_65df397c7b978a7f446424dd,Neus,4,False
+custom_65df397c7b978a7f446424dd,Bekinspectie/gebit,18,False
+custom_65df397c7b978a7f446424dd,datum,5,True
+custom_65df397c7b978a7f446424dd,Kostenraming,12,False
+custom_65df397c7b978a7f446424dd,Pols,4,False
+custom_65df397c7b978a7f446424dd,Vaccinatiestatus,16,False
+custom_65df397c7b978a7f446424dd,Slijmvliezen,12,True
+custom_65df397c7b978a7f446424dd,Uw dierenarts,13,False
+custom_65df397c7b978a7f446424dd,Huid afwijkend,14,False
+custom_65df397c7b978a7f446424dd,Oren afwijkend,14,False
+custom_65df397c7b978a7f446424dd,Aanvullingen preventieve zorg,29,False
+custom_65df397c7b978a7f446424dd,"Bekend en herinnering aanwezigVerlopen/onbekend, advies op te pakken als beter is",81,False
+custom_65df397c7b978a7f446424dd,Aanvullend (bloed)onderzoek,27,False
+custom_65df397c7b978a7f446424dd,Turgor,6,False
+custom_65df397c7b978a7f446424dd,Geslachtsapparaat,17,False
+custom_65df397c7b978a7f446424dd,(waarschijnlijkheids)DIAGNOSE,29,False
+custom_65df397c7b978a7f446424dd,Roze CRT < 1Bleek/Roze CRT < 1Bleek CRT > 1GeelPetechienRoodTe Rood,67,False
+custom_65df397c7b978a7f446424dd,Hart,4,False
+custom_65df397c7b978a7f446424dd,Algemene indruk,15,True
+custom_65df397c7b978a7f446424dd,Voedingstoestand,16,False
+custom_65df397c7b978a7f446424dd,Anamnese/klachten,17,False
+custom_65df397c7b978a7f446424dd,Overige opmerkingen AO,22,False
+custom_65df397c7b978a7f446424dd,Huid / vacht,12,False
+custom_65df397c7b978a7f446424dd,Plan van aanpak,15,False
+custom_65df397c7b978a7f446424dd,Oren,4,True
+custom_65df397c7b978a7f446424dd,Bewegingsapparaat,17,False
+custom_65df397c7b978a7f446424dd,Geef het GEWICHT in in Animana,30,False
+custom_65df397c7b978a7f446424dd,Gewicht,7,True
+custom_65e9a2877b978a6d166df801,Afvallen,8,False
+custom_65e9a2877b978a6d166df801,Ademfrequentie/min.,19,False
+custom_65e9a2877b978a6d166df801,tijd,4,False
+custom_65e9a2877b978a6d166df801,Kosten(schatting),17,False
+custom_65e9a2877b978a6d166df801,Medicatie,9,False
+custom_65e9a2877b978a6d166df801,Body condition score,20,False
+custom_65e9a2877b978a6d166df801,Type ademhaling,15,False
+custom_65e9a2877b978a6d166df801,Pijnscore,9,False
+custom_65e9a2877b978a6d166df801,Braken/regurgiteren,19,False
+custom_65e9a2877b978a6d166df801,Andere huisdieren,17,False
+custom_65e9a2877b978a6d166df801,Lymfeknoop,10,False
+custom_65e9a2877b978a6d166df801,Vaccinatie,10,False
+custom_65e9a2877b978a6d166df801,Waarmee/Wanneer,15,False
+custom_65e9a2877b978a6d166df801,Polsfrequentie/min.,19,False
+custom_65e9a2877b978a6d166df801,Plan/Advies,11,False
+custom_65e9a2877b978a6d166df801,Ontwormen,9,False
+custom_65e9a2877b978a6d166df801,Ddx,3,False
+custom_65e9a2877b978a6d166df801,Werkdiagnose,12,False
+custom_65e9a2877b978a6d166df801,Klacht:,7,False
+custom_65e9a2877b978a6d166df801,Datum,5,True
+custom_65e9a2877b978a6d166df801,Capilary Refill Time,20,False
+custom_65e9a2877b978a6d166df801,Eten,4,False
+custom_65e9a2877b978a6d166df801,Slijmvliezen,12,True
+custom_65e9a2877b978a6d166df801,Aanvullend lichamelijk onderzoek,32,False
+custom_65e9a2877b978a6d166df801,"Huid, beharing, hoornigestructuren",34,False
+custom_65e9a2877b978a6d166df801,Voorgeschiedenis,16,False
+custom_65e9a2877b978a6d166df801,Behandeling,11,False
+custom_65e9a2877b978a6d166df801,Verloop,7,False
+custom_65e9a2877b978a6d166df801,Binnen/buiten,13,False
+custom_65e9a2877b978a6d166df801,Duur,4,False
+custom_65e9a2877b978a6d166df801,Drinken,7,True
+custom_65e9a2877b978a6d166df801,Kreupel,7,False
+custom_65e9a2877b978a6d166df801,Algemene indruk,15,True
+custom_65e9a2877b978a6d166df801,Temperatuur in �C,17,False
+custom_65e9a2877b978a6d166df801,Voeding,7,False
+custom_65e9a2877b978a6d166df801,Hoesten/niezen,14,False
+custom_65e9a2877b978a6d166df801,Faeces,6,False
+custom_65e9a2877b978a6d166df801,Buitenland,10,False
+custom_65e9a2877b978a6d166df801,Ontvlooien,10,False
+custom_65e9a2877b978a6d166df801,Probleemlijst,13,False
+custom_65e9a2877b978a6d166df801,Intoxicatie,11,False
+custom_65e9a2877b978a6d166df801,Afspraken met eigenaar,22,False
+custom_65e9a2877b978a6d166df801,Pols kwaliteit,14,False
+custom_65e9a2877b978a6d166df801,gebruiker,9,True
+custom_65e9a2877b978a6d166df801,Type voeding/dieet,18,False
+custom_65e9a2877b978a6d166df801,Opmerkingen,11,True
+custom_65e9a2877b978a6d166df801,Urineren,8,False
+custom_65e9a2877b978a6d166df801,Aanvullend onderzoek,20,False
+custom_65e9df317b978a6d166e0441,Nog even nadenken hoe die het handigst erin staat,49,False
+custom_65e9df317b978a6d166e0441,tijd,4,False
+custom_65e9df317b978a6d166e0441,Stagering,9,False
+custom_65e9df317b978a6d166e0441,stagering,9,False
+custom_65e9df317b978a6d166e0441,substagering proteinurie,24,False
+custom_65e9df317b978a6d166e0441,substagering bloeddruk,22,False
+custom_65e9df317b978a6d166e0441,datum,5,True
+custom_65e9df317b978a6d166e0441,Bloeddrukmeting,15,False
+custom_65e9df317b978a6d166e0441,Turgor,6,False
+custom_65e9df317b978a6d166e0441,zonder proteinurie (<0.2)borderline proteinurie (0.2-0.4)proteïnurie (>0.4)Onbekend,83,False
+custom_65e9df317b978a6d166e0441,Huidige behandeling,19,False
+custom_65e9df317b978a6d166e0441,Toelichting,11,False
+custom_65e9df317b978a6d166e0441,Soortelijk gewicht,18,False
+custom_65e9df317b978a6d166e0441,Substagering proteïnurie,24,False
+custom_65e9df317b978a6d166e0441,Substagering bloeddruk,22,False
+custom_65e9df317b978a6d166e0441,normotensie (<140)Pre-hypertensie (140-159)Hypertensie (160-179)Ernstige hypertensie (>180),91,False
+custom_65e9df317b978a6d166e0441,Lichamelijk onderzoek,21,False
+custom_65e9df317b978a6d166e0441,Sediment,8,False
+custom_65e9df317b978a6d166e0441,multi option,12,False
+custom_65e9df317b978a6d166e0441,gebruiker,9,True
+custom_65e9df317b978a6d166e0441,UPC,3,False
+custom_65f05f137b978a123334ff6f,Anamnese,8,True
+custom_65f05f137b978a123334ff6f,"Zo ja, uitslag",14,False
+custom_65f05f137b978a123334ff6f,tijd,4,False
+custom_65f05f137b978a123334ff6f,"Zo ja, hoeveel (mmHg)",21,False
+custom_65f05f137b978a123334ff6f,Huidige dosering medicatie,26,False
+custom_65f05f137b978a123334ff6f,Bloeddruk gemeten?,18,False
+custom_65f05f137b978a123334ff6f,Schildklier voelbaar?,21,False
+custom_65f05f137b978a123334ff6f,Aanpassen medicatie?,20,False
+custom_65f05f137b978a123334ff6f,Extra/ nieuwe medicatie nodig?,30,False
+custom_65f05f137b978a123334ff6f,"Zo ja, nieuwe dosering?",23,False
+custom_65f05f137b978a123334ff6f,Welke medicatie en dosering,27,False
+custom_65f05f137b978a123334ff6f,Andere adviezen/opmerkingen?,28,False
+custom_65f05f137b978a123334ff6f,gebruiker,9,True
+custom_65f05f137b978a123334ff6f,Bloed geprikt?,14,False
+custom_65f05f137b978a123334ff6f,datum,5,True
+custom_65f05f137b978a123334ff6f,Gewicht,7,True
+custom_65f05f817b978a123334ff77,Anamnese,8,True
+custom_65f05f817b978a123334ff77,Lichamelijk onderzoek,21,False
+custom_65f05f817b978a123334ff77,datum,5,True
+custom_65f05f817b978a123334ff77,Huidige dosering medicatie,26,False
+custom_65f05f817b978a123334ff77,Behandelplan,12,False
+custom_65f05f817b978a123334ff77,Aanpassen medicatie?,20,False
+custom_65f05f817b978a123334ff77,gebruiker,9,True
+custom_65f05f817b978a123334ff77,Hoeveelheid bloeddruk (mmHg),28,False
+custom_65f05f817b978a123334ff77,Wenst de eigenaar een herinnering?,34,False
+custom_65f05f817b978a123334ff77,Laatste medicatie gift,22,False
+custom_65f05f817b978a123334ff77,"Zo ja, nieuwe dosering:",23,False
+custom_65f05fe67b978a123334ff90,tijd,4,False
+custom_65f05fe67b978a123334ff90,"Zo ja, nieuwe dosering?",23,False
+custom_65f05fe67b978a123334ff90,"Zo ja, Welke?",13,False
+custom_65f05fe67b978a123334ff90,Huidige hoeveelheid insuline (IE),33,False
+custom_65f05fe67b978a123334ff90,"Zo ja, Hoeveel?",15,False
+custom_65f05fe67b978a123334ff90,Wenst de eigenaar een herinnering?,34,False
+custom_65f05fe67b978a123334ff90,Behandelplan:,13,False
+custom_65f05fe67b978a123334ff90,Laatste insuline gift,21,False
+custom_65f05fe67b978a123334ff90,datum,5,True
+custom_65f05fe67b978a123334ff90,Anamnese,8,True
+custom_65f05fe67b978a123334ff90,Glucosewaarde (mmol/l),22,False
+custom_65f05fe67b978a123334ff90,"Zo ja, hoeveel (mmHg)?",22,False
+custom_65f05fe67b978a123334ff90,Afgevallen?,11,False
+custom_65f05fe67b978a123334ff90,Lichamelijk onderzoek,21,False
+custom_65f05fe67b978a123334ff90,Bloeddruk gemeten?,18,False
+custom_65f05fe67b978a123334ff90,PU/PD?,6,False
+custom_65f05fe67b978a123334ff90,Aanpassing insuline?,20,False
+custom_65f05fe67b978a123334ff90,gebruiker,9,True
+custom_65f05fe67b978a123334ff90,Dieetvoeding?,13,False
+custom_65fa9ffd7b978a789d351c98,tijd,4,False
+custom_65fa9ffd7b978a789d351c98,Ademhaling,10,False
+custom_65fa9ffd7b978a789d351c98,Aanvulling gedrag,17,False
+custom_65fa9ffd7b978a789d351c98,Aanvullende informatie,22,False
+custom_65fa9ffd7b978a789d351c98,Toelichting slijmvliezen,24,False
+custom_65fa9ffd7b978a789d351c98,Buikpalpatie,12,False
+custom_65fa9ffd7b978a789d351c98,IHOSKA,6,False
+custom_65fa9ffd7b978a789d351c98,Toelichting buikpalpatie,24,False
+custom_65fa9ffd7b978a789d351c98,Toelichting Ademhaling,22,False
+custom_65fa9ffd7b978a789d351c98,Toelichting Pols,16,False
+custom_65fa9ffd7b978a789d351c98,Temperatuur,11,True
+custom_65fa9ffd7b978a789d351c98,Lymfeklieren,12,True
+custom_65fa9ffd7b978a789d351c98,NeutraalEnthousiastVoorzichtig/nieuwsgierigAngstig(Angst)AgressieAnders - zie opmerking,87,False
+custom_65fa9ffd7b978a789d351c98,Toelichting HBH,15,False
+custom_65fa9ffd7b978a789d351c98,Ziektegeschiedenis/huidige medicatie,36,False
+custom_65fa9ffd7b978a789d351c98,datum,5,True
+custom_65fa9ffd7b978a789d351c98,Pols,4,False
+custom_65fa9ffd7b978a789d351c98,Anamnese,8,True
+custom_65fa9ffd7b978a789d351c98,Vaccinatiestatus,16,False
+custom_65fa9ffd7b978a789d351c98,Slijmvliezen,12,True
+custom_65fa9ffd7b978a789d351c98,Turgor,6,False
+custom_65fa9ffd7b978a789d351c98,Voeding,7,False
+custom_65fa9ffd7b978a789d351c98,Ontworming,10,False
+custom_65fa9ffd7b978a789d351c98,Gedrag,6,False
+custom_65fa9ffd7b978a789d351c98,Gebit,5,True
+custom_65fa9ffd7b978a789d351c98,Oren,4,True
+custom_65fa9ffd7b978a789d351c98,Nagels,6,False
+custom_65fa9ffd7b978a789d351c98,Toelichting gebit,17,False
+custom_65fa9ffd7b978a789d351c98,Huid en vacht,13,False
+custom_65fa9ffd7b978a789d351c98,BCS,3,False
+custom_65fa9ffd7b978a789d351c98,Toelichting Slijmvliezen,24,False
+custom_65fa9ffd7b978a789d351c98,gebruiker,9,True
+custom_65fa9ffd7b978a789d351c98,Bewustzijnsniveau,17,False
+custom_65fa9ffd7b978a789d351c98,Ontvlooiing,11,False
+custom_65fa9ffd7b978a789d351c98,Gewicht,7,True
+custom_6603e5577b978a5ca7edea43,Voorplanting,12,False
+custom_6603e5577b978a5ca7edea43,Ademhaling,10,False
+custom_6603e5577b978a5ca7edea43,Auscultatie longen,18,False
+custom_6603e5577b978a5ca7edea43,Buikpalpatie,12,False
+custom_6603e5577b978a5ca7edea43,IHOSKA,6,False
+custom_6603e5577b978a5ca7edea43,Vacht en Huid,13,False
+custom_6603e5577b978a5ca7edea43,Toelichting bevindingen gebit,29,False
+custom_6603e5577b978a5ca7edea43,Temperatuur,11,True
+custom_6603e5577b978a5ca7edea43,Lymfeklieren,12,True
+custom_6603e5577b978a5ca7edea43,Body Condition Score (BCS,25,False
+custom_6603e5577b978a5ca7edea43,Eventuele aanvulling,20,False
+custom_6603e5577b978a5ca7edea43,Palpatie hals,13,False
+custom_6603e5577b978a5ca7edea43,Advies vaccinatie,17,False
+custom_6603e5577b978a5ca7edea43,Ademfrequentie,14,False
+custom_6603e5577b978a5ca7edea43,Gewichtsverloop,15,False
+custom_6603e5577b978a5ca7edea43,Pols,4,False
+custom_6603e5577b978a5ca7edea43,Anamnese,8,True
+custom_6603e5577b978a5ca7edea43,Vaccinatiestatus,16,False
+custom_6603e5577b978a5ca7edea43,Behandeling endoparasieten,26,False
+custom_6603e5577b978a5ca7edea43,Slijmvliezen,12,True
+custom_6603e5577b978a5ca7edea43,Buitenland anamnese,19,False
+custom_6603e5577b978a5ca7edea43,Auscultatie hart,16,False
+custom_6603e5577b978a5ca7edea43,Verloop laatste cyclus,22,False
+custom_6603e5577b978a5ca7edea43,Aanvullende informatie betreffende het algemene onderzoek,57,False
+custom_6603e5577b978a5ca7edea43,Voeding,7,False
+custom_6603e5577b978a5ca7edea43,Behandeling ectoparasieten,26,False
+custom_6603e5577b978a5ca7edea43,Polsfrequentie,14,False
+custom_6603e5577b978a5ca7edea43,Ziektegeschiedenis en huidige medicatie,39,False
+custom_6603e5577b978a5ca7edea43,Gebit,5,True
+custom_6603e5577b978a5ca7edea43,Oren,4,True
+custom_6603e5577b978a5ca7edea43,Nagels,6,False
+custom_6603e5577b978a5ca7edea43,Bewustzijnsniveau,17,False
+custom_6603e5577b978a5ca7edea43,Risicofactoren,14,False
+custom_6603e5577b978a5ca7edea43,Veranderingen ten opzichte van het vorige bezoek,48,False
+custom_6603e5577b978a5ca7edea43,Huisvesting,11,False
+custom_6603e5577b978a5ca7edea43,Contact met andere dieren,25,False
+custom_6617ac167b978a30bab690b4,Anamnese,8,True
+custom_6617ac167b978a30bab690b4,1: af en toe jeuk2: lichte jeuk3: regelmatig jeuk4: ernstige jeuk5: extreme jeuk,80,False
+custom_6617ac167b978a30bab690b4,Verdere testen,14,False
+custom_6617ac167b978a30bab690b4,Afkrabsel,9,False
+custom_6617ac167b978a30bab690b4,Jeukscore,9,False
+custom_6617ac167b978a30bab690b4,Follow up,9,False
+custom_6617ac167b978a30bab690b4,Diagnose,8,False
+custom_6617ac167b978a30bab690b4,Algemeen onderzoek,18,False
+custom_6617ac167b978a30bab690b4,Cytologisch onderzoek,21,False
+custom_6617ac167b978a30bab690b4,Plan,4,False
+custom_6617ac167b978a30bab690b4,datum,5,True
+custom_6617ac167b978a30bab690b4,Bevindingen Huid,16,False
+custom_6617ac987b978a30bab690ea,Lip(randen),11,False
+custom_6617ac987b978a30bab690ea,Voedingsadvies,14,False
+custom_6617ac987b978a30bab690ea,Overige opmerkingen en adviezen,31,False
+custom_6617ac987b978a30bab690ea,BorstelenLaten trimmenWassen,28,False
+custom_6617ac987b978a30bab690ea,Mooi glanzendDroogPigmentverliesAfwijkend oppervlakRoodKlovenKorstjesNeusuitvloeiingZie opmerkingen,99,False
+custom_6617ac987b978a30bab690ea,Oksels/buik/liezen,18,False
+custom_6617ac987b978a30bab690ea,Normaal aspectKale plekkenRoodPigmentatieWondjesSchilfersKorstenVoorhuidontstekingZie opmerkingen,97,False
+custom_6617ac987b978a30bab690ea,Oorschelpen,11,False
+custom_6617ac987b978a30bab690ea,Mooi dicht behaardKale plek(ken)RoodWondjesSchilfersKorstenZie opmerkingen,74,False
+custom_6617ac987b978a30bab690ea,Perineum,8,False
+custom_6617ac987b978a30bab690ea,Ondervoeten,11,False
+custom_6617ac987b978a30bab690ea,Normaal aspectRoodKlovenSchilfersPussig beslagKorstenSterke geurZie opmerkingen,79,False
+custom_6617ac987b978a30bab690ea,KeurigBruin verkleurdKale plekkenRoodWondjesVeel harenZie opmerkingen,69,False
+custom_6617ac987b978a30bab690ea,Staart,6,False
+custom_6617ac987b978a30bab690ea,Normaal aspectVerkleurdBroosAfgebrokkeldLos zittendSchuin afgesletenLangZie opmerkingen,87,False
+custom_6617ac987b978a30bab690ea,Overige opmerkingen n.a.v. lichamelijk onderzoek,48,False
+custom_6617ac987b978a30bab690ea,Ogen en oogslijmvlies,21,False
+custom_6617ac987b978a30bab690ea,Neus(spiegel),13,False
+custom_6617ac987b978a30bab690ea,HelderDroogRode slijmvliezenWaterigPussige uitvloeiingZie opmerkingen,69,False
+custom_6617ac987b978a30bab690ea,U bent geholpen door,20,False
+custom_6617ac987b978a30bab690ea,Verzorgingsadvies,17,False
+custom_6617ac987b978a30bab690ea,Geen afwijkingenKale plekkenRoodWondjesSchilfersKorstenZie opmerkingen,70,False
+custom_6617ac987b978a30bab690ea,Gehoorgangen,12,False
+custom_6617ac987b978a30bab690ea,Huid rondom ogen,16,False
+custom_6617ac987b978a30bab690ea,Afspraak maken dermatologisch consultJaarlijkse gezondheidscontrole,67,False
+custom_6617ac987b978a30bab690ea,Nagels,6,False
+custom_6617ac987b978a30bab690ea,Huid en vacht,13,False
+custom_6617ac987b978a30bab690ea,Parasietenbestrijding,21,False
+custom_6617ac987b978a30bab690ea,Rug,3,False
+custom_6617ac987b978a30bab690ea,Medisch advies,14,False
+custom_6617acbf7b978a30bab690ec,Factoren waardoor oorontsteking makkelijker ontstaat,52,False
+custom_6617acbf7b978a30bab690ec,Primaire oorzaken van oorontsteking,35,False
+custom_6617acbf7b978a30bab690ec,Bacteri�le overgroei / infectieGist-overgroeiGeenZie opmerkingen,64,False
+custom_6617acbf7b978a30bab690ec,M.b.t. secundaire oorzaken van oorontsteking,44,False
+custom_6617acbf7b978a30bab690ec,Bij,3,False
+custom_6617acbf7b978a30bab690ec,M.b.t. onderhoudende factoren van oorontsteking,47,False
+custom_6617acbf7b978a30bab690ec,M.b.t. primaire oorzaken van oorontsteking,42,False
+custom_6617acbf7b978a30bab690ec,Dierenarts,10,True
+custom_6617acbf7b978a30bab690ec,Opmerkingen,11,True
+custom_6617acbf7b978a30bab690ec,Secundaire oorzaken van oorontsteking,37,False
+custom_6617acbf7b978a30bab690ec,Datum,5,True
+custom_6617acbf7b978a30bab690ec,M.b.t. factoren waardoor oorontsteking makkelijker ontstaat,59,False
+custom_6617acbf7b978a30bab690ec,Onderhoudende factoren van oorontsteking,40,False
+custom_6617accd7b978a30bab690ee,diagnose,8,False
+custom_6617accd7b978a30bab690ee,Anamnese Otitis patient,23,False
+custom_6617accd7b978a30bab690ee,bevindingen,11,False
+custom_6617accd7b978a30bab690ee,Anamnese algemeen,17,False
+custom_6617accd7b978a30bab690ee,gebruiker,9,True
+custom_6617accd7b978a30bab690ee,Controle afspraak,17,False
+custom_6617accd7b978a30bab690ee,advies/therapie,15,False
+custom_6617ad907b978a30bab69145,Anamnese,8,True
+custom_6617ad907b978a30bab69145,Wat,3,False
+custom_6617ad907b978a30bab69145,oormijt,7,False
+custom_6617ad907b978a30bab69145,Mate ontsteking,15,False
+custom_6617ad907b978a30bab69145,kweek ingezet,13,False
+custom_6617ad907b978a30bab69145,trommelvlies,12,False
+custom_6617ad907b978a30bab69145,Links Cerumen:,14,False
+custom_6617ad907b978a30bab69145,Rechts Cerumen,14,False
+custom_6617ad907b978a30bab69145,Gespoeld,8,False
+custom_6617ad907b978a30bab69145,Andere huidlesies,17,False
+custom_6617ad907b978a30bab69145,gespoeld,8,False
+custom_6617ad907b978a30bab69145,CA?,3,False
+custom_6617ad907b978a30bab69145,controleafspraak maken,22,False
+custom_6617ad907b978a30bab69145,Hoe,3,False
+custom_6617ad907b978a30bab69145,Voeding,7,False
+custom_6617ad907b978a30bab69145,Algemeen onderzoek,18,False
+custom_6617ae017b978a30bab6914c,Algemene gezondheid,19,False
+custom_6617ae017b978a30bab6914c,Ontstaan/verloop,16,False
+custom_6617ae017b978a30bab6914c,Opmerkingen,11,True
+custom_6617ae017b978a30bab6914c,Body condition score,20,False
+custom_6617ae017b978a30bab6914c,Vachtverzorging,15,False
+custom_6617ae017b978a30bab6914c,Medicatie,9,False
+custom_6617ae017b978a30bab6914c,Voeding / dieet,15,False
+custom_6617ae017b978a30bab6914c,Algemeen onderzoek (incl. BCS 1-9),34,False
+custom_6617ae017b978a30bab6914c,Wanneer zijn de symptomen het duidelijkst,41,False
+custom_6617ae017b978a30bab6914c,Is er al eerder behandeld voor huidproblemen?,45,False
+custom_6617ae017b978a30bab6914c,Controle afspraak,17,False
+custom_6617ae017b978a30bab6914c,Verloop sinds vorige bezoek (incl. jeukverloop),47,False
+custom_6617ae017b978a30bab6914c,Afkrabsel diep,14,False
+custom_6617ae017b978a30bab6914c,Wanneer begonnen de klachten?,29,False
+custom_6617ae017b978a30bab6914c,Ecto-/endoparasieten bestrijding,32,False
+custom_6617ae017b978a30bab6914c,"AcuutChronischSeizoensgebondenAnders, zie anamnese",50,False
+custom_6617ae017b978a30bab6914c,Huisvesting/omgeving,20,False
+custom_6617ae017b978a30bab6914c,Afkrabsel oppervlakkig,22,False
+custom_6617ae017b978a30bab6914c,"Allergietest, serumtest, positief voor",38,False
+custom_6617ae017b978a30bab6914c,"Aanvullend bloedonderzoek, wat/uitslag",38,False
+custom_6617ae017b978a30bab6914c,Niet uitgevoerdNegatiefPositief,31,False
+custom_6617ae017b978a30bab6914c,jeuk score,10,False
+custom_6617ae017b978a30bab6914c,Huidaandoeningen bij nest- en huisgenoten (dieren/mensen),57,False
+custom_6617ae017b978a30bab6914c,Waar is de meeste jeuk?,23,False
+custom_6617ae017b978a30bab6914c,Vlooienkam,10,False
+custom_6617ae017b978a30bab6914c,Algemene indruk,15,True
+custom_6617ae017b978a30bab6914c,Trial therapie,14,False
+custom_6617ae017b978a30bab6914c,Toelichting,11,False
+custom_6617ae017b978a30bab6914c,Probleemstelling (hoofdprobleem voor eigenaar),46,False
+custom_6617ae017b978a30bab6914c,Verder onderzoek - Mycologie/bioptname etc,42,False
+custom_6617ae017b978a30bab6914c,Overgvoeligheid reactieVlooien allergieVoedsel allergieAtopische dermatitisZie toelichting,90,False
+custom_6617ae017b978a30bab6914c,Mogelijke primaire/secundaire oorzaken en predisponerende en perpetuerende factoren,83,False
+custom_6617ae017b978a30bab6914c,Oren,4,True
+custom_6617ae017b978a30bab6914c,Huidige voeding incl. tussendoortjes en supplementen,52,False
+custom_6617ae017b978a30bab6914c,Trichogram,10,False
+custom_6617ae017b978a30bab6914c,Ecto-endoparasieten bestrijding (incl. wanneer en middel),57,False
+custom_6617ae017b978a30bab6914c,Voorgeschiedenis/behandelingen,30,False
+custom_6617ae017b978a30bab6914c,"Dermatologisch onderzoek: huid, vacht, mucosa, hoornige structuren",66,False
+custom_6617ae017b978a30bab6914c,Cytologie (huid/oren),21,False
+custom_6617ae017b978a30bab6914c,Verblijf buitenland,19,False
+custom_6617ae017b978a30bab6914c,Ander vervolgonderzoek,22,False
+custom_6617ae017b978a30bab6914c,"Allegtietest, intra-dermaal, positief voor",42,False
+custom_6617aea87b978a30bab69185,Algemene gezondheid,19,False
+custom_6617aea87b978a30bab69185,Opmerkingen,11,True
+custom_6617aea87b978a30bab69185,Vachtverzorging,15,False
+custom_6617aea87b978a30bab69185,Bij,3,False
+custom_6617aea87b978a30bab69185,Voeding / dieet,15,False
+custom_6617aea87b978a30bab69185,Algemeen onderzoek (incl. BCS 1-9),34,False
+custom_6617aea87b978a30bab69185,Basis-informatie bijgewerkt,27,False
+custom_6617aea87b978a30bab69185,Allergische (drug) reactieVlooienallergieAdverse food reactionAtopische dermatitisZie toelichting,97,False
+custom_6617aea87b978a30bab69185,Controle afspraak,17,False
+custom_6617aea87b978a30bab69185,Afkrabsel diep,14,False
+custom_6617aea87b978a30bab69185,Voorgeschiedenis (ook m.b.t oren),33,False
+custom_6617aea87b978a30bab69185,Afspraken correct uitgevoerd,28,False
+custom_6617aea87b978a30bab69185,Overige vragen eigenaar,23,False
+custom_6617aea87b978a30bab69185,"Borstelen, wassen, trimmen/(r), oren reinigen (op welke wijze)",62,False
+custom_6617aea87b978a30bab69185,Jeuk,4,False
+custom_6617aea87b978a30bab69185,Ecto-/endoparasieten bestrijding,32,False
+custom_6617aea87b978a30bab69185,Ontlasting,10,False
+custom_6617aea87b978a30bab69185,Ontstaan(sverloop),18,False
+custom_6617aea87b978a30bab69185,Oorproblemen,12,False
+custom_6617aea87b978a30bab69185,Vaccinatiestatus (incl. datum laatste),38,False
+custom_6617aea87b978a30bab69185,% binnen-buiten (klachtgerelateerdheid ?) / ligplaats / zwemmen,63,False
+custom_6617aea87b978a30bab69185,Huisvesting/omgeving,20,False
+custom_6617aea87b978a30bab69185,Medicatie (oraal/lokaal),24,False
+custom_6617aea87b978a30bab69185,Afkrabsel oppervlakkig,22,False
+custom_6617aea87b978a30bab69185,"Allergietest, serumtest, positief voor",38,False
+custom_6617aea87b978a30bab69185,"Aanvullend bloedonderzoek, wat/uitslag",38,False
+custom_6617aea87b978a30bab69185,"Meegegeven informatie (achtergrond, opties, kosten etc.)",56,False
+custom_6617aea87b978a30bab69185,Huidaandoeningen bij nest- en huisgenoten (dieren/mensen),57,False
+custom_6617aea87b978a30bab69185,Vlooienkam,10,False
+custom_6617aea87b978a30bab69185,Trial therapie,14,False
+custom_6617aea87b978a30bab69185,"Krabben, schuren, hoofd schudden, pijnlijkheid, kopstand; wanneer?",66,False
+custom_6617aea87b978a30bab69185,Probleemstelling (hoofdprobleem voor eigenaar),46,False
+custom_6617aea87b978a30bab69185,Toelichting,11,False
+custom_6617aea87b978a30bab69185,Oorzaken en factoren besproken,30,False
+custom_6617aea87b978a30bab69185,Evt. massa,10,False
+custom_6617aea87b978a30bab69185,Mogelijke primaire/secundaire oorzaken en predisponerende en perpetuerende factoren,83,False
+custom_6617aea87b978a30bab69185,"Gehoor / geur / inspectie, palpatie: pinnae, gehoorgang, trommelvlies",69,False
+custom_6617aea87b978a30bab69185,Oren,4,True
+custom_6617aea87b978a30bab69185,Huidige voeding incl. tussendoortjes en supplementen,52,False
+custom_6617aea87b978a30bab69185,Trichogram,10,False
+custom_6617aea87b978a30bab69185,Ecto-endoparasieten bestrijding (incl. wanneer en middel),57,False
+custom_6617aea87b978a30bab69185,"Dermatologisch onderzoek: huid, vacht, mucosae, hoornige structuren",67,False
+custom_6617aea87b978a30bab69185,Verloop sinds vorige bezoek (incl. jeukverloop m.b.v. NRS),58,False
+custom_6617aea87b978a30bab69185,Cytologie (huid/oren),21,False
+custom_6617aea87b978a30bab69185,Verblijf buitenland,19,False
+custom_6617aea87b978a30bab69185,"Consistentie, melena (bijv. t.g.v histamine), frequentie, braken, boeren, flatulentie, bobo�s",93,False
+custom_6617aea87b978a30bab69185,Ander vervolgonderzoek,22,False
+custom_6617aea87b978a30bab69185,"Allegtietest, intra-dermaal, positief voor",42,False
+custom_6617d3f97b978a30bab69809,Cytologie LINKER oor,20,False
+custom_6617d3f97b978a30bab69809,Andere huidafwijkingen?,23,False
+custom_6617d3f97b978a30bab69809,Onderhoudende factoren,22,False
+custom_6617d3f97b978a30bab69809,Huidige voeding,15,False
+custom_6617d3f97b978a30bab69809,Otoscopie,9,False
+custom_6617d3f97b978a30bab69809,Toelichting behandeling,23,False
+custom_6617d3f97b978a30bab69809,Trommelvlies,12,False
+custom_6617d3f97b978a30bab69809,Secundaire factoren,19,False
+custom_6617d3f97b978a30bab69809,Klachten,8,False
+custom_6617d3f97b978a30bab69809,Predisponerende factoren,24,False
+custom_6617d3f97b978a30bab69809,Primaire factoren,17,False
+custom_6617d3f97b978a30bab69809,Onderzoek oorschelp,19,False
+custom_6617d3f97b978a30bab69809,Bevindingen algemeen onderzoek,30,False
+custom_6617d3f97b978a30bab69809,Diagnose,8,False
+custom_6617d3f97b978a30bab69809,Overige anamnese,16,False
+custom_6617d3f97b978a30bab69809,Behandeling LINKER oor,22,False
+custom_6617d3f97b978a30bab69809,Dit protocol volgt de richtlijn otitis externa van de KNMVD en de flowchart otitis externa op EVI.,98,False
+custom_6617d3f97b978a30bab69809,Klachten aanwezig sinds,23,False
+custom_6617d3f97b978a30bab69809,Recidiverend,12,False
+custom_6617d3f97b978a30bab69809,Huidige therapie,16,False
+custom_6617d3f97b978a30bab69809,Het onderzoek voor het linker en rechteroor is hetzelfde,56,False
+custom_6617d3f97b978a30bab69809,Controle,8,False
+custom_6617d3f97b978a30bab69809,Om meerdere opties aan te vinken kan CTRL ingedrukt gehouden worden.,68,False
+custom_6617d3f97b978a30bab69809,Eventuele opmerking nav ooronderzoek,36,False
+custom_6617d3f97b978a30bab69809,Cytologie RECHTER oor,21,False
+custom_6617d3f97b978a30bab69809,Eventueel aanvullend behandeling,32,False
+custom_6617d3f97b978a30bab69809,Aanvullende opmerkingen,23,False
+custom_6617d3f97b978a30bab69809,Vervolgstappen,14,False
+custom_6617d3f97b978a30bab69809,Het onderzoek van het linker en rechteroor is hetzelfde,55,False
+custom_6617d3f97b978a30bab69809,Behandeling RECHTER oor,23,False
+custom_6627a7377b978a7f24336868,Anamnese,8,True
+custom_6627a7377b978a7f24336868,NAW correct in animana,22,False
+custom_6627a7377b978a7f24336868,Behandelduur,12,False
+custom_6627a7377b978a7f24336868,WeggooienRetour eigenaar,24,False
+custom_6627a7377b978a7f24336868,Welke test,10,False
+custom_6627a7377b978a7f24336868,Vervolg,7,False
+custom_6627a7377b978a7f24336868,Antiparasitica,14,False
+custom_6627a7377b978a7f24336868,Voeradvies,10,False
+custom_6627a7377b978a7f24336868,Toestemming opsturen ontlasting,31,False
+custom_6627a7377b978a7f24336868,Ontlastingspotje,16,False
+custom_6627a7377b978a7f24336868,Wormeieren:,11,False
+custom_6627a7377b978a7f24336868,Uitslag doorgeven op:,21,False
+custom_6627a7377b978a7f24336868,Omgevingshygiëne,16,False
+custom_6627a7377b978a7f24336868,Uitslag,7,False
+custom_6627a7377b978a7f24336868,JaNee,5,False
+custom_6627a7377b978a7f24336868,Uitslag VETMED,14,False
+custom_6627a7377b978a7f24336868,Aanvullende ondersteuning,25,False
+custom_663106bc7b978a6d07adf1bc,Ademhaling,10,False
+custom_663106bc7b978a6d07adf1bc,Frequentie en afwijkingen,25,False
+custom_663106bc7b978a6d07adf1bc,Toegenomen frequentieTenesmusFlatulentie/borrelbuikMet bloedMet slijm,69,False
+custom_663106bc7b978a6d07adf1bc,NormaalWisselendSteviger dan andersBreiig(Water)dunAfwijkend van kleur,70,False
+custom_663106bc7b978a6d07adf1bc,IHOSKA,6,False
+custom_663106bc7b978a6d07adf1bc,Rontgen,7,False
+custom_663106bc7b978a6d07adf1bc,Controle advies,15,False
+custom_663106bc7b978a6d07adf1bc,Temperatuur,11,True
+custom_663106bc7b978a6d07adf1bc,Lymfeklieren,12,True
+custom_663106bc7b978a6d07adf1bc,Gebruikte middel(en),20,False
+custom_663106bc7b978a6d07adf1bc,"Roze, vochtig, CRT <1Zie opmerking",34,False
+custom_663106bc7b978a6d07adf1bc,Overige bevindingen,19,False
+custom_663106bc7b978a6d07adf1bc,Echo,4,False
+custom_663106bc7b978a6d07adf1bc,Dieet,5,False
+custom_663106bc7b978a6d07adf1bc,Plassen,7,False
+custom_663106bc7b978a6d07adf1bc,Flotatie,8,False
+custom_663106bc7b978a6d07adf1bc,Abdomen,7,False
+custom_663106bc7b978a6d07adf1bc,Ontlasting,10,False
+custom_663106bc7b978a6d07adf1bc,Braken,6,False
+custom_663106bc7b978a6d07adf1bc,Anamnese,8,True
+custom_663106bc7b978a6d07adf1bc,Vaccinatiestatus,16,False
+custom_663106bc7b978a6d07adf1bc,Behandeling endoparasieten,26,False
+custom_663106bc7b978a6d07adf1bc,Slijmvliezen,12,True
+custom_663106bc7b978a6d07adf1bc,Giardiasnaptest,15,False
+custom_663106bc7b978a6d07adf1bc,EchoRontgenColoscopie met bioptenGastroduodeno scopie met bioptenOverig,71,False
+custom_663106bc7b978a6d07adf1bc,Buitenlandanamnese,18,False
+custom_663106bc7b978a6d07adf1bc,Mogelijke oorzaak,17,False
+custom_663106bc7b978a6d07adf1bc,Niet vergoot of pijnlijkAfwijkend,33,False
+custom_663106bc7b978a6d07adf1bc,Anus en omgeving,16,False
+custom_663106bc7b978a6d07adf1bc,Behandeling,11,False
+custom_663106bc7b978a6d07adf1bc,Prijsindicatie,14,False
+custom_663106bc7b978a6d07adf1bc,Infectierisico,14,False
+custom_663106bc7b978a6d07adf1bc,"Huid, beharing en hoornige structuren",37,False
+custom_663106bc7b978a6d07adf1bc,Eetlust,7,False
+custom_663106bc7b978a6d07adf1bc,Klachten aanwezig sinds,23,False
+custom_663106bc7b978a6d07adf1bc,Drinken,7,True
+custom_663106bc7b978a6d07adf1bc,Eliminatiedieet,15,False
+custom_663106bc7b978a6d07adf1bc,Toelichting,11,False
+custom_663106bc7b978a6d07adf1bc,Hals en Slokdarm,16,False
+custom_663106bc7b978a6d07adf1bc,Behandeling ectoparasieten,26,False
+custom_663106bc7b978a6d07adf1bc,Pols en hart,12,False
+custom_663106bc7b978a6d07adf1bc,Ziektegeschiedenis en huidige medicatie,39,False
+custom_663106bc7b978a6d07adf1bc,Gebit,5,True
+custom_663106bc7b978a6d07adf1bc,Probleemlijst,13,False
+custom_663106bc7b978a6d07adf1bc,Toelichting oorzaak,19,False
+custom_663106bc7b978a6d07adf1bc,(waarschijnlijkheids) Diagnose,30,False
+custom_663106bc7b978a6d07adf1bc,Prijsindicatie aanvullend onderzoek besproken,45,False
+custom_663106bc7b978a6d07adf1bc,Bloedonderzoek,14,False
+custom_663106bc7b978a6d07adf1bc,Beeldvorming,12,False
+custom_663106bc7b978a6d07adf1bc,Afwijkingen,11,False
+custom_663106bc7b978a6d07adf1bc,BCS / 9,7,False
+custom_663106bc7b978a6d07adf1bc,ZelfbereidZ/D Hill'sHypoallergenic ProPlanOverig,48,False
+custom_663106bc7b978a6d07adf1bc,Rectaal toucher,15,False
+custom_663106bc7b978a6d07adf1bc,Ontlastingsonderzoek,20,False
+custom_663106bc7b978a6d07adf1bc,Kop,3,False
+custom_663106bc7b978a6d07adf1bc,Toevoeging ontlasting,21,False
+custom_663106bc7b978a6d07adf1bc,Gewicht,7,True
+custom_663106bc7b978a6d07adf1bc,Heldere harttonen en regelmatigKrachtige polsHartruis aanwezigAritmieZie opmerking,82,False
+custom_663348cc7b978a6b0b4bef0c,Ademhaling,10,False
+custom_663348cc7b978a6b0b4bef0c,Frequentie en afwijkingen,25,False
+custom_663348cc7b978a6b0b4bef0c,IHOSKA,6,False
+custom_663348cc7b978a6b0b4bef0c,Vulva/penis,11,False
+custom_663348cc7b978a6b0b4bef0c,BO/ABGCytologie blaaswandOverig,31,False
+custom_663348cc7b978a6b0b4bef0c,Controle advies,15,False
+custom_663348cc7b978a6b0b4bef0c,Temperatuur,11,True
+custom_663348cc7b978a6b0b4bef0c,Lymfeklieren,12,True
+custom_663348cc7b978a6b0b4bef0c,Gebruikte middel(en),20,False
+custom_663348cc7b978a6b0b4bef0c,"Roze, vochtig, CRT <1Zie opmerking",34,False
+custom_663348cc7b978a6b0b4bef0c,Overige bevindingen,19,False
+custom_663348cc7b978a6b0b4bef0c,Echo,4,False
+custom_663348cc7b978a6b0b4bef0c,Dieet,5,False
+custom_663348cc7b978a6b0b4bef0c,Plassen,7,False
+custom_663348cc7b978a6b0b4bef0c,Abdomen,7,False
+custom_663348cc7b978a6b0b4bef0c,Blaas,5,False
+custom_663348cc7b978a6b0b4bef0c,Overig,6,False
+custom_663348cc7b978a6b0b4bef0c,Braken,6,False
+custom_663348cc7b978a6b0b4bef0c,"Grote check-up, inclusief hematologie en elektrolyten in huisCytologie prostaatOverig",85,False
+custom_663348cc7b978a6b0b4bef0c,Anamnese,8,True
+custom_663348cc7b978a6b0b4bef0c,Vaccinatiestatus,16,False
+custom_663348cc7b978a6b0b4bef0c,Behandeling endoparasieten,26,False
+custom_663348cc7b978a6b0b4bef0c,Slijmvliezen,12,True
+custom_663348cc7b978a6b0b4bef0c,Buitenlandanamnese,18,False
+custom_663348cc7b978a6b0b4bef0c,Mogelijke oorzaak,17,False
+custom_663348cc7b978a6b0b4bef0c,Niet vergoot of pijnlijkAfwijkend,33,False
+custom_663348cc7b978a6b0b4bef0c,Behandeling,11,False
+custom_663348cc7b978a6b0b4bef0c,Rontgenfoto,11,False
+custom_663348cc7b978a6b0b4bef0c,Testikels,9,False
+custom_663348cc7b978a6b0b4bef0c,Infectierisico,14,False
+custom_663348cc7b978a6b0b4bef0c,"Huid, beharing en hoornige structuren",37,False
+custom_663348cc7b978a6b0b4bef0c,Prijsindicatie,14,False
+custom_663348cc7b978a6b0b4bef0c,Eetlust,7,False
+custom_663348cc7b978a6b0b4bef0c,Klachten aanwezig sinds,23,False
+custom_663348cc7b978a6b0b4bef0c,Drinken,7,True
+custom_663348cc7b978a6b0b4bef0c,Toelichting,11,False
+custom_663348cc7b978a6b0b4bef0c,Behandeling ectoparasieten,26,False
+custom_663348cc7b978a6b0b4bef0c,Rectaal toucher (prostaat),26,False
+custom_663348cc7b978a6b0b4bef0c,Aantal kattenbakken per kat,27,False
+custom_663348cc7b978a6b0b4bef0c,Ziektegeschiedenis en huidige medicatie,39,False
+custom_663348cc7b978a6b0b4bef0c,Pols en hart,12,False
+custom_663348cc7b978a6b0b4bef0c,Gebit,5,True
+custom_663348cc7b978a6b0b4bef0c,Probleemlijst,13,False
+custom_663348cc7b978a6b0b4bef0c,(waarschijnlijkheids) Diagnose,30,False
+custom_663348cc7b978a6b0b4bef0c,Toelichting oorzaak,19,False
+custom_663348cc7b978a6b0b4bef0c,Prijsindicatie aanvullend onderzoek besproken,45,False
+custom_663348cc7b978a6b0b4bef0c,Bloedonderzoek,14,False
+custom_663348cc7b978a6b0b4bef0c,Urineonderzoek,14,False
+custom_663348cc7b978a6b0b4bef0c,Beeldvorming,12,False
+custom_663348cc7b978a6b0b4bef0c,Afwijkingen,11,False
+custom_663348cc7b978a6b0b4bef0c,BCS / 9,7,False
+custom_663348cc7b978a6b0b4bef0c,EchoRontgenContrast-studieUrethrascopieOverig,45,False
+custom_663348cc7b978a6b0b4bef0c,Ontlasting,10,False
+custom_663348cc7b978a6b0b4bef0c,Gewicht,7,True
+custom_663348cc7b978a6b0b4bef0c,Heldere harttonen en regelmatigKrachtige polsHartruis aanwezigAritmieZie opmerking,82,False
+custom_66337f917b978a6b0b4bfcc8,Verwijzing,10,False
+custom_66337f917b978a6b0b4bfcc8,Afdeling,8,False
+custom_66337f917b978a6b0b4bfcc8,Toelichting verwijzing,22,False
+custom_66337f917b978a6b0b4bfcc8,Indien beeldvorming,19,False
+custom_66337f917b978a6b0b4bfcc8,VerwijzingVerwijzingAfdelingIndien beeldvormingToelichting verwijzingIndien extern,82,False
+custom_66337f917b978a6b0b4bfcc8,Indien extern,13,False
+custom_663385e07b978a6b0b4bfdba,Ademhaling,10,False
+custom_663385e07b978a6b0b4bfdba,Frequentie en afwijkingen,25,False
+custom_663385e07b978a6b0b4bfdba,Oogheelkunde,12,False
+custom_663385e07b978a6b0b4bfdba,IHOSKA,6,False
+custom_663385e07b978a6b0b4bfdba,Luchtwegen en hart,18,False
+custom_663385e07b978a6b0b4bfdba,Rontgen,7,False
+custom_663385e07b978a6b0b4bfdba,Controle advies,15,False
+custom_663385e07b978a6b0b4bfdba,Temperatuur,11,True
+custom_663385e07b978a6b0b4bfdba,Lymfeklieren,12,True
+custom_663385e07b978a6b0b4bfdba,Gebruikte middel(en),20,False
+custom_663385e07b978a6b0b4bfdba,"Roze, vochtig, CRT <1Zie opmerking",34,False
+custom_663385e07b978a6b0b4bfdba,Overige bevindingen,19,False
+custom_663385e07b978a6b0b4bfdba,Urogenitaalstelsel,18,False
+custom_663385e07b978a6b0b4bfdba,Echo,4,False
+custom_663385e07b978a6b0b4bfdba,Dieet,5,False
+custom_663385e07b978a6b0b4bfdba,Plassen,7,False
+custom_663385e07b978a6b0b4bfdba,Onderzoek bij onvoldoende verbetering,37,False
+custom_663385e07b978a6b0b4bfdba,Overig,6,False
+custom_663385e07b978a6b0b4bfdba,Braken,6,False
+custom_663385e07b978a6b0b4bfdba,Anamnese,8,True
+custom_663385e07b978a6b0b4bfdba,Vaccinatiestatus,16,False
+custom_663385e07b978a6b0b4bfdba,Behandeling endoparasieten,26,False
+custom_663385e07b978a6b0b4bfdba,Slijmvliezen,12,True
+custom_663385e07b978a6b0b4bfdba,Buitenlandanamnese,18,False
+custom_663385e07b978a6b0b4bfdba,Orthopedie,10,False
+custom_663385e07b978a6b0b4bfdba,Mogelijke oorzaak,17,False
+custom_663385e07b978a6b0b4bfdba,Niet vergoot of pijnlijkAfwijkend,33,False
+custom_663385e07b978a6b0b4bfdba,Behandeling,11,False
+custom_663385e07b978a6b0b4bfdba,Prijsindicatie,14,False
+custom_663385e07b978a6b0b4bfdba,Infectierisico,14,False
+custom_663385e07b978a6b0b4bfdba,"Huid, beharing en hoornige structuren",37,False
+custom_663385e07b978a6b0b4bfdba,Eetlust,7,False
+custom_663385e07b978a6b0b4bfdba,Klachten aanwezig sinds,23,False
+custom_663385e07b978a6b0b4bfdba,Drinken,7,True
+custom_663385e07b978a6b0b4bfdba,Toelichting,11,False
+custom_663385e07b978a6b0b4bfdba,Hoesten/niezen,14,False
+custom_663385e07b978a6b0b4bfdba,Neurologie,10,False
+custom_663385e07b978a6b0b4bfdba,Behandeling ectoparasieten,26,False
+custom_663385e07b978a6b0b4bfdba,Pols en hart,12,False
+custom_663385e07b978a6b0b4bfdba,Ziektegeschiedenis en huidige medicatie,39,False
+custom_663385e07b978a6b0b4bfdba,Probleemlijst,13,False
+custom_663385e07b978a6b0b4bfdba,Prijsindicatie aanvullend onderzoek besproken,45,False
+custom_663385e07b978a6b0b4bfdba,(waarschijnlijkheids) Diagnose,30,False
+custom_663385e07b978a6b0b4bfdba,Bloedonderzoek,14,False
+custom_663385e07b978a6b0b4bfdba,Urineonderzoek,14,False
+custom_663385e07b978a6b0b4bfdba,Afwijkingen,11,False
+custom_663385e07b978a6b0b4bfdba,BCS / 9,7,False
+custom_663385e07b978a6b0b4bfdba,Maag-darmstelsel,16,False
+custom_663385e07b978a6b0b4bfdba,Ontlasting,10,False
+custom_663385e07b978a6b0b4bfdba,Gewicht,7,True
+custom_663385e07b978a6b0b4bfdba,Heldere harttonen en regelmatigKrachtige polsHartruis aanwezigAritmieZie opmerking,82,False
+custom_663391d17b978a6b0b4bffd5,datum,5,True
+custom_6633924a7b978a6b0b4bfff2,datum,5,True
+custom_665dc9cb7b978a0f4289585c,Naam,4,False
+custom_665dc9cb7b978a0f4289585c,Extra info geleider,19,False
+custom_665dc9cb7b978a0f4289585c,6- cijferig youforce nummer,27,False
+custom_665dc9cb7b978a0f4289585c,Extra info hond,15,False
+custom_665dc9cb7b978a0f4289585c,Chronische aandoening/Medicatie,31,False
+custom_665dc9cb7b978a0f4289585c,Regio,5,False
+custom_665dc9cb7b978a0f4289585c,Dieetvoeding,12,False
+custom_667163487b978a285c201b85,Anamnese:,9,False
+custom_667163487b978a285c201b85,Inspectie oor:,14,False
+custom_667163487b978a285c201b85,Tijd,4,False
+custom_667163487b978a285c201b85,Aanvullend onderzoek en behandelplan:,37,False
+custom_667163487b978a285c201b85,Therapie en opvolging:,22,False
+custom_667163487b978a285c201b85,Gebruiker,9,False
+custom_667163487b978a285c201b85,Algemene indruk:,16,False
+custom_667163487b978a285c201b85,Lichamelijk onderzoek:,22,False
+custom_667163487b978a285c201b85,Diagnose:,9,False
+custom_667163487b978a285c201b85,Datum,5,True
+custom_667163747b978a285c201b87,Anamnese:,9,False
+custom_667163747b978a285c201b87,Tijd,4,False
+custom_667163747b978a285c201b87,gebruiker,9,True
+custom_667163747b978a285c201b87,Lichamelijk onderzoek:,22,False
+custom_667163747b978a285c201b87,Aanvullend onderzoek:,21,False
+custom_667163747b978a285c201b87,Opvolging:,10,False
+custom_667163747b978a285c201b87,Datum,5,True
+custom_667163747b978a285c201b87,Diagnose + behandelplan:,24,False
+custom_667163e77b978a285c201b8b,Diagnose:,9,False
+custom_667163e77b978a285c201b8b,Advies:,7,False
+custom_667163e77b978a285c201b8b,Anamnese:,9,False
+custom_667163e77b978a285c201b8b,Echo/röntgenfoto/catheterisatie (incl. antibiotica)/infuus.,59,False
+custom_667163e77b978a285c201b8b,Tijd,4,False
+custom_667163e77b978a285c201b8b,Gebruiker,9,False
+custom_667163e77b978a285c201b8b,Lichamelijk onderzoek:,22,False
+custom_667163e77b978a285c201b8b,Aanvullend onderzoek:,21,False
+custom_667163e77b978a285c201b8b,Datum,5,True
+custom_6671644a7b978a285c201b95,Diagnose:,9,False
+custom_6671644a7b978a285c201b95,Advies:,7,False
+custom_6671644a7b978a285c201b95,Anamnese:,9,False
+custom_6671644a7b978a285c201b95,Echo/röntgenfoto/catheterisatie (incl. antibiotica)/infuus.,59,False
+custom_6671644a7b978a285c201b95,Tijd,4,False
+custom_6671644a7b978a285c201b95,Gebruiker,9,False
+custom_6671644a7b978a285c201b95,Lichamelijk onderzoek:,22,False
+custom_6671644a7b978a285c201b95,Aanvullend onderzoek:,21,False
+custom_6671644a7b978a285c201b95,Datum,5,True
+custom_667164527b978a285c201b97,Anamnese:,9,False
+custom_667164527b978a285c201b97,Tijd,4,False
+custom_667164527b978a285c201b97,gebruiker,9,True
+custom_667164527b978a285c201b97,Lichamelijk onderzoek:,22,False
+custom_667164527b978a285c201b97,Aanvullend onderzoek:,21,False
+custom_667164527b978a285c201b97,Opvolging:,10,False
+custom_667164527b978a285c201b97,Datum,5,True
+custom_667164527b978a285c201b97,Diagnose + behandelplan:,24,False
+custom_667164ad7b978a285c201b9b,Diagnose:,9,False
+custom_667164ad7b978a285c201b9b,Advies:,7,False
+custom_667164ad7b978a285c201b9b,Anamnese:,9,False
+custom_667164ad7b978a285c201b9b,Echo/röntgenfoto/catheterisatie (incl. antibiotica)/infuus.,59,False
+custom_667164ad7b978a285c201b9b,Tijd,4,False
+custom_667164ad7b978a285c201b9b,Gebruiker,9,False
+custom_667164ad7b978a285c201b9b,Lichamelijk onderzoek:,22,False
+custom_667164ad7b978a285c201b9b,Aanvullend onderzoek:,21,False
+custom_667164ad7b978a285c201b9b,Datum,5,True
+custom_667164b17b978a285c201b9d,Anamnese:,9,False
+custom_667164b17b978a285c201b9d,Tijd,4,False
+custom_667164b17b978a285c201b9d,gebruiker,9,True
+custom_667164b17b978a285c201b9d,Lichamelijk onderzoek:,22,False
+custom_667164b17b978a285c201b9d,Aanvullend onderzoek:,21,False
+custom_667164b17b978a285c201b9d,Opvolging:,10,False
+custom_667164b17b978a285c201b9d,Datum,5,True
+custom_667164b17b978a285c201b9d,Diagnose + behandelplan:,24,False
+custom_667165987b978a285c201ba4,Gewichtstoename/-afname (+ of -),32,False
+custom_667165987b978a285c201ba4,Overgeven en/of diarree,23,False
+custom_667165987b978a285c201ba4,Ingevuld door,13,False
+custom_667165987b978a285c201ba4,Wordt er wel eens een dosering vergeten,39,False
+custom_667165987b978a285c201ba4,Uitslagen,9,False
+custom_667165987b978a285c201ba4,Wanneer voor het laatst gehad,29,False
+custom_667165987b978a285c201ba4,Plassen,7,False
+custom_667165987b978a285c201ba4,Algemeen plezier in het leven,29,False
+custom_667165987b978a285c201ba4,Andere problemen,16,False
+custom_667165987b978a285c201ba4,Behandeling,11,False
+custom_667165987b978a285c201ba4,Drinken,7,True
+custom_667165987b978a285c201ba4,Eetlust,7,False
+custom_667165987b978a285c201ba4,Huidige behandeling,19,False
+custom_667165987b978a285c201ba4,Klinisch onderzoek,18,False
+custom_667165987b978a285c201ba4,Activiteit,10,False
+custom_667165987b978a285c201ba4,Volgende controle,17,False
+custom_667165987b978a285c201ba4,Andere medicatie op dit moment,30,False
+custom_667165987b978a285c201ba4,Dosering Vetoryl (aantal keer per dag en dosering),50,False
+custom_667165987b978a285c201ba4,Huid en vacht,13,False
+custom_667165987b978a285c201ba4,Totaalbeeld,11,False
+custom_667165987b978a285c201ba4,Opmerkingen,11,True
+custom_667165987b978a285c201ba4,Datum,5,True
+custom_667165987b978a285c201ba4,Aanvullend onderzoek,20,False
+custom_667a64967b978a0b381e5cc5,algemeen onderzoek2,19,False
+custom_667a64967b978a0b381e5cc5,Orgaangericht onderzoek,23,False
+custom_667a64967b978a0b381e5cc5,Verwijzing,10,False
+custom_667a64967b978a0b381e5cc5,Advies/behandeling,18,False
+custom_667a64967b978a0b381e5cc5,Leefomstandigheden/Geschiedenis,31,False
+custom_667a64967b978a0b381e5cc5,algemeen onderzoek3,19,False
+custom_667a64967b978a0b381e5cc5,algemeen onderzoek1,19,False
+custom_667a64967b978a0b381e5cc5,Kosten besproken,16,False
+custom_667a64967b978a0b381e5cc5,Vervolgafspraken,16,False
+custom_667a64967b978a0b381e5cc5,Toelichting indien afwijking cascade,36,False
+custom_667a64967b978a0b381e5cc5,Klinische anamnese,18,False
+custom_667a64967b978a0b381e5cc5,algemeen onderzoek4,19,False
+custom_667a64967b978a0b381e5cc5,Patiëntgegevens volledig in animana?,36,False
+custom_667a64967b978a0b381e5cc5,Diagnose,8,False
+custom_667a64967b978a0b381e5cc5,Prijsindicatie,14,False
+custom_667a64967b978a0b381e5cc5,Algemene Indruk,15,False
+custom_667a64967b978a0b381e5cc5,BCS / 9,7,False
+custom_667a64967b978a0b381e5cc5,input,5,False
+custom_667a64967b978a0b381e5cc5,Aanvullend onderzoek,20,False
+custom_667ab11a7b978a0b381e6bfc,"Onderzoek van kop, wervels en ledematen",39,False
+custom_667ab11a7b978a0b381e6bfc,wDDx,4,False
+custom_667ab11a7b978a0b381e6bfc,Algemeen Onderzoek,18,False
+custom_667ab11a7b978a0b381e6bfc,Toelichting algemene indruk,27,False
+custom_667ab11a7b978a0b381e6bfc,Vraagstelling / iatrotroop probleem,35,False
+custom_667ab11a7b978a0b381e6bfc,Advies/behandeling,18,False
+custom_667ab11a7b978a0b381e6bfc,Onderzoek bij onvoldoende verbetering,37,False
+custom_667ab11a7b978a0b381e6bfc,Kosten besproken,16,False
+custom_667ab11a7b978a0b381e6bfc,Spinale reflexen,16,False
+custom_667ab11a7b978a0b381e6bfc,Vervolgafspraken,16,False
+custom_667ab11a7b978a0b381e6bfc,Anamnese,8,True
+custom_667ab11a7b978a0b381e6bfc,Monsteren,9,False
+custom_667ab11a7b978a0b381e6bfc,Diepe pijnperceptie,19,False
+custom_667ab11a7b978a0b381e6bfc,Houding,7,False
+custom_667ab11a7b978a0b381e6bfc,Prijsindicatie,14,False
+custom_667ab11a7b978a0b381e6bfc,Dierenarts,10,True
+custom_667ab11a7b978a0b381e6bfc,Algemene indruk,15,True
+custom_667ab11a7b978a0b381e6bfc,Conclusie,9,False
+custom_667ab11a7b978a0b381e6bfc,Gedrag,6,False
+custom_667ab11a7b978a0b381e6bfc,Cerebrale reflexen,18,False
+custom_667ab11a7b978a0b381e6bfc,Bewustzijnsniveau,17,False
+custom_667ab11a7b978a0b381e6bfc,Houdingsreacties,16,False
+custom_667ab11a7b978a0b381e6bfc,Datum,5,True
+custom_667ab11a7b978a0b381e6bfc,Aanvullend onderzoek,20,False
+custom_6683a6df7b978a2da8f15118,5. Algemene indruk,18,False
+custom_6683a6df7b978a2da8f15118,"ja, per instructie DAnee, per instructie DA",43,False
+custom_6683a6df7b978a2da8f15118,Opmerking,9,False
+custom_6683a6df7b978a2da8f15118,Aanpassing,10,False
+custom_6683a6df7b978a2da8f15118,6. Hond is,10,False
+custom_6683a6df7b978a2da8f15118,"3. Haal de hond, aan de riem, uit de kennel. Beoordeel hoe de hond opstaat en beweegt.",86,False
+custom_6683a6df7b978a2da8f15118,Score/20-24,11,False
+custom_6683a6df7b978a2da8f15118,Tijd,4,False
+custom_6683a6df7b978a2da8f15118,2. Hond (in kennel),19,False
+custom_6683a6df7b978a2da8f15118,4. Reactie op druk. Hond,24,False
+custom_6683a6df7b978a2da8f15118,Beoordeeld door,15,False
+custom_6683a6df7b978a2da8f15118,Pijnstilling,12,False
+custom_6683a6df7b978a2da8f15118,1. Hond (in kennel),19,False
+custom_6683ae977b978a2da8f152a4,Adjustment,10,False
+custom_6683ae977b978a2da8f152a4,2. Dog (in kennel) is,21,False
+custom_6683ae977b978a2da8f152a4,Remark,6,False
+custom_6683ae977b978a2da8f152a4,3. Take dog on leash out of kennel. How does the dog rise/walk,62,False
+custom_6683ae977b978a2da8f152a4,Scored by,9,False
+custom_6683ae977b978a2da8f152a4,4. Response to applied pressure,31,False
+custom_6683ae977b978a2da8f152a4,Score/20-24,11,False
+custom_6683ae977b978a2da8f152a4,Analgesia,9,False
+custom_6683ae977b978a2da8f152a4,Time,4,False
+custom_6683ae977b978a2da8f152a4,1. Dog (in kennel) is,21,False
+custom_6683ae977b978a2da8f152a4,"yes, as instructed by Vetno, as instructed by Vet",49,False
+custom_6683ae977b978a2da8f152a4,5. General impression,21,False
+custom_6683ae977b978a2da8f152a4,6. Dog is,9,False
+custom_669f6b797b978a64845c66ab,gebruikerBetreftBevindingenClassificatieAdvies / Therapie,57,False
+custom_669f6b797b978a64845c66ab,Classificatie,13,False
+custom_669f6b797b978a64845c66ab,Bevindingen,11,False
+custom_669f6b797b978a64845c66ab,Advies / Therapie,17,False
+custom_669f6b797b978a64845c66ab,Betreft,7,False
+custom_669f6b797b978a64845c66ab,gebruiker,9,True
+custom_66a2633b7b978a3bb86aa1f0,Anamnese,8,True
+custom_66a2633b7b978a3bb86aa1f0,Lichamelijk onderzoek,21,False
+custom_66a2633b7b978a3bb86aa1f0,"Zo ja, hoeveel (mmHg)",21,False
+custom_66a2633b7b978a3bb86aa1f0,Huidige dosering medicatie,26,False
+custom_66a2633b7b978a3bb86aa1f0,Behandelplan,12,False
+custom_66a2633b7b978a3bb86aa1f0,Bloeddruk gemeten?,18,False
+custom_66a2633b7b978a3bb86aa1f0,Schildklier voelbaar?,21,False
+custom_66a2633b7b978a3bb86aa1f0,Aanpassen medicatie?,20,False
+custom_66a2633b7b978a3bb86aa1f0,"Zo ja, nieuwe dosering",22,False
+custom_66a2633b7b978a3bb86aa1f0,Dierenarts,10,True
+custom_66a2633b7b978a3bb86aa1f0,Wenst de eigenaar een herinnering?,34,False
+custom_66a2633b7b978a3bb86aa1f0,Afgevallen?,11,False
+custom_66a2633b7b978a3bb86aa1f0,Datum,5,True
+custom_66a2633b7b978a3bb86aa1f0,Laatste medicatie gift,22,False
+custom_66a2633b7b978a3bb86aa1f0,Paraveterinair,14,False
+custom_66a263617b978a3bb86aa1fa,Tijdstip,8,False
+custom_66a263617b978a3bb86aa1fa,Anamnese,8,True
+custom_66a263617b978a3bb86aa1fa,Glucosewaarde (mmol/l),22,False
+custom_66a263617b978a3bb86aa1fa,Lichamelijk onderzoek,21,False
+custom_66a263617b978a3bb86aa1fa,"Zo ja, hoeveel (mmHg)",21,False
+custom_66a263617b978a3bb86aa1fa,Behandelplan,12,False
+custom_66a263617b978a3bb86aa1fa,Bloeddruk gemeten?,18,False
+custom_66a263617b978a3bb86aa1fa,"Zo ja, nieuwe dosering",22,False
+custom_66a263617b978a3bb86aa1fa,Huidige hoeveelheid insuline,28,False
+custom_66a263617b978a3bb86aa1fa,PU/PD?,6,False
+custom_66a263617b978a3bb86aa1fa,Aanpassen insuline?,19,False
+custom_66a263617b978a3bb86aa1fa,Laatste insuline gift,21,False
+custom_66a263617b978a3bb86aa1fa,Dierenarts,10,True
+custom_66a263617b978a3bb86aa1fa,Wenst de eigenaar een herinnering?,34,False
+custom_66a263617b978a3bb86aa1fa,Afgevallen?,11,False
+custom_66a263617b978a3bb86aa1fa,Datum,5,True
+custom_66a263617b978a3bb86aa1fa,Dieetvoeding?,13,False
+custom_66a263617b978a3bb86aa1fa,Paraveterinair,14,False
+custom_66a263b67b978a3bb86aa211,Drinken en plassen,18,False
+custom_66a263b67b978a3bb86aa211,Ogen,4,False
+custom_66a263b67b978a3bb86aa211,Opmerking gebit:,16,False
+custom_66a263b67b978a3bb86aa211,Behandelplan,12,False
+custom_66a263b67b978a3bb86aa211,Wenst eigenaar een herrinnering,31,False
+custom_66a263b67b978a3bb86aa211,Chipnummer gecontroleerd,24,False
+custom_66a263b67b978a3bb86aa211,Lymfeklieren,12,True
+custom_66a263b67b978a3bb86aa211,Ontwormen,9,False
+custom_66a263b67b978a3bb86aa211,Zenuwstelsel,12,False
+custom_66a263b67b978a3bb86aa211,Huidig medicijn gebruik,23,False
+custom_66a263b67b978a3bb86aa211,Anamnese,8,True
+custom_66a263b67b978a3bb86aa211,Huidige voeding en eetlust,26,False
+custom_66a263b67b978a3bb86aa211,Slijmvliezen,12,True
+custom_66a263b67b978a3bb86aa211,Anti vlooien/teken,18,False
+custom_66a263b67b978a3bb86aa211,Hart,4,False
+custom_66a263b67b978a3bb86aa211,Dierenarts,10,True
+custom_66a263b67b978a3bb86aa211,Buik,4,False
+custom_66a263b67b978a3bb86aa211,Buitenland plannen,18,False
+custom_66a263b67b978a3bb86aa211,Gebit,5,True
+custom_66a263b67b978a3bb86aa211,Activiteit,10,False
+custom_66a263b67b978a3bb86aa211,Oren,4,True
+custom_66a263b67b978a3bb86aa211,Paraveterinair,14,False
+custom_66a263b67b978a3bb86aa211,Gewrichten en Spieren,21,False
+custom_66a263b67b978a3bb86aa211,Anders nl:,10,False
+custom_66a263b67b978a3bb86aa211,Luchtwegen,10,False
+custom_66a263b67b978a3bb86aa211,Vaccinaties,11,False
+custom_66a263b67b978a3bb86aa211,Datum,5,True
+custom_66a263b67b978a3bb86aa211,Gewicht,7,True
+custom_66a288237b978a3bb86aa475,Afwezige elementen,18,False
+custom_66a288237b978a3bb86aa475,Getrokken elementen,19,False
+custom_66a288237b978a3bb86aa475,Antibiotica,11,False
+custom_66a288237b978a3bb86aa475,Narcose verloop,15,False
+custom_66a288237b978a3bb86aa475,Pijnstilling,12,False
+custom_66a288237b978a3bb86aa475,Beoordeling gebitselementen,27,False
+custom_66a288237b978a3bb86aa475,Dierenarts,10,True
+custom_66a288237b978a3bb86aa475,Algemeen klinisch onderzoek,27,False
+custom_66a288237b978a3bb86aa475,Auscultatie,11,False
+custom_66a288237b978a3bb86aa475,Overig,6,False
+custom_66a288237b978a3bb86aa475,Datum,5,True
+custom_66a288237b978a3bb86aa475,Paraveterinair,14,False
+custom_66a288287b978a3bb86aa477,Operatieverslag,15,False
+custom_66a288287b978a3bb86aa477,Antibiotica,11,False
+custom_66a288287b978a3bb86aa477,JaNee,5,False
+custom_66a288287b978a3bb86aa477,Overige medicatie,17,False
+custom_66a288287b978a3bb86aa477,Pre-anesthetisch,16,False
+custom_66a288287b978a3bb86aa477,Algemeen klinisch onderzoek,27,False
+custom_66a288287b978a3bb86aa477,Datum,5,True
+custom_66a288287b978a3bb86aa477,Overig,6,False
+custom_66a288287b978a3bb86aa477,Start OK,8,False
+custom_66a288287b978a3bb86aa477,Narcoseverloop,14,False
+custom_66a288287b978a3bb86aa477,Recovery,8,False
+custom_66a288287b978a3bb86aa477,Anamnese,8,True
+custom_66a288287b978a3bb86aa477,OK-Assistente,13,False
+custom_66a288287b978a3bb86aa477,Dierenarts,10,True
+custom_66a288287b978a3bb86aa477,Bijzonderheden,14,False
+custom_66a288287b978a3bb86aa477,Einde OK,8,False
+custom_66a288287b978a3bb86aa477,Auscultatie,11,False
+custom_66a288287b978a3bb86aa477,IV infuus,9,False
+custom_66a288287b978a3bb86aa477,Pijnstilling,12,False
+custom_66a2887e7b978a3bb86aa479,Reden voor opname,17,False
+custom_66a2887e7b978a3bb86aa479,Plan van aanpak,15,False
+custom_66a2887e7b978a3bb86aa479,Medicatie,9,False
+custom_66a2887e7b978a3bb86aa479,Urine/ontlasting,16,False
+custom_66a2887e7b978a3bb86aa479,Behandelend arts,16,False
+custom_66a2887e7b978a3bb86aa479,Infuus,6,False
+custom_66a2887e7b978a3bb86aa479,Assistente,10,False
+custom_66a2887e7b978a3bb86aa479,Eigenaar gebeld?,16,False
+custom_66a2887e7b978a3bb86aa479,Eet/drink gedrag,16,False
+custom_66a2887e7b978a3bb86aa479,Overig,6,False
+custom_66a2887e7b978a3bb86aa479,Datum,5,True
+custom_66a2887e7b978a3bb86aa479,Algemeen onderzoek,18,False
+custom_66a288d87b978a3bb86aa47c,niet in beeldnormaalafwijkend,29,False
+custom_66a288d87b978a3bb86aa47c,maaginhoud,10,False
+custom_66a288d87b978a3bb86aa47c,wand normaalwand afwijkendanechogene inhoudgruissteenpolieptumor,64,False
+custom_66a288d87b978a3bb86aa47c,normale vorm en grootteafwijkende vormafwijkende grootteegaal parenchym,71,False
+custom_66a288d87b978a3bb86aa47c,Lever,5,False
+custom_66a288d87b978a3bb86aa47c,afmeting linkernier,19,False
+custom_66a288d87b978a3bb86aa47c,Bijnieren,9,False
+custom_66a288d87b978a3bb86aa47c,Lymfeknopen,11,False
+custom_66a288d87b978a3bb86aa47c,afmeting rechternier,20,False
+custom_66a288d87b978a3bb86aa47c,Maag,4,False
+custom_66a288d87b978a3bb86aa47c,niet afwijkendniet in beeldvergroot,35,False
+custom_66a288d87b978a3bb86aa47c,Nieren,6,False
+custom_66a288d87b978a3bb86aa47c,normaal van vorm en grootteafwijkende vormafwijkende grootteegaal parenchym,75,False
+custom_66a288d87b978a3bb86aa47c,normale wanddikteanechogene inhoudgeen tekens van obstructie,60,False
+custom_66a288d87b978a3bb86aa47c,Blaas,5,False
+custom_66a288d87b978a3bb86aa47c,datum,5,True
+custom_66a288d87b978a3bb86aa47c,normale vorm en groottegoede gelaagdheid van de wand,52,False
+custom_66a288d87b978a3bb86aa47c,afmeting linkerbijnier,22,False
+custom_66a288d87b978a3bb86aa47c,Conclusie,9,False
+custom_66a288d87b978a3bb86aa47c,Advies & Therapie,17,False
+custom_66a288d87b978a3bb86aa47c,normale gelaagdheidgoede peristaltiekinhoud normaaafwijkend,59,False
+custom_66a288d87b978a3bb86aa47c,Milt,4,False
+custom_66a288d87b978a3bb86aa47c,Darmen,6,False
+custom_66a288d87b978a3bb86aa47c,gebruiker,9,True
+custom_66a288d87b978a3bb86aa47c,afmeting rechterbijnier,23,False
+custom_66a288d87b978a3bb86aa47c,niet in beeld gebracht,22,False
+custom_66a288d87b978a3bb86aa47c,Alvleesklier,12,False
+custom_66a288d87b978a3bb86aa47c,Galblaas,8,False
+custom_66b1e9717f62261f80c5ec50,Informatie over,15,False
+custom_66b1e9717f62261f80c5ec50,Datum van afspraak,18,False
+custom_66b1e9717f62261f80c5ec50,Gebeld door,11,False
+custom_66b1e9717f62261f80c5ec50,Tijdstip afspraak,17,False
+custom_66b1e9717f62261f80c5ec50,volgnummer,10,False
+custom_66b1e9717f62261f80c5ec50,Reden van uitschrijven,22,False
+custom_66b1e9717f62261f80c5ec50,NVTVaccinatieSterilisatie/CastratieGebitControle na consult/operatieSPOED vandaagOverig,87,False
+custom_66b1e9717f62261f80c5ec50,Type dier,9,False
+custom_66b1e9717f62261f80c5ec50,Klant belt voor Informatie,26,False
+custom_66b1e9717f62261f80c5ec50,Opmerkingen,11,True
+custom_66b1e9717f62261f80c5ec50,Dier uitschrijven,17,False
+custom_66b1e9717f62261f80c5ec50,Afspraak gemaakt,16,False
+custom_66b1e9717f62261f80c5ec50,Afspraak gemaakt voor,21,False
+custom_66b1e9717f62261f80c5ec50,Aantal dieren,13,False
+custom_66cd811d4d2f772d3f1e3c71,Anamnese,8,True
+custom_66cd811d4d2f772d3f1e3c71,Probleemlijst,13,False
+custom_66cd811d4d2f772d3f1e3c71,Advies/behandeling,18,False
+custom_66cd811d4d2f772d3f1e3c71,(Waarschijnlijkheids)Diagnose,29,False
+custom_66cd811d4d2f772d3f1e3c71,Prijsindicatie,14,False
+custom_66cd811d4d2f772d3f1e3c71,BCS / 9,7,False
+custom_66cd811d4d2f772d3f1e3c71,Patiëntgegevens volledig in dossier?,36,False
+custom_66cd811d4d2f772d3f1e3c71,Aanvullend onderzoek,20,False
+custom_66cd811d4d2f772d3f1e3c71,gebruiker,9,True
+custom_66cd811d4d2f772d3f1e3c71,Vervolgafspraken,16,False
+custom_66cd811d4d2f772d3f1e3c71,Kosten besproken,16,False
+custom_66cd811d4d2f772d3f1e3c71,Algemene Indruk,15,False
+custom_66cd811d4d2f772d3f1e3c71,Klinisch onderzoek,18,False
+custom_66cd84b34d2f772d3f1e3d61,PijnstillingAntibioticumOverige medicatieVloeistoftherapieOverige,65,False
+custom_66cd84b34d2f772d3f1e3d61,Infuus (3-5ml/kg/h)IntubatieZuurstofWarmtematjeMechanische VentilatieOverig,75,False
+custom_66cd84b34d2f772d3f1e3d61,Geplande ingreep,16,False
+custom_66cd84b34d2f772d3f1e3d61,Operatieverslag,15,False
+custom_66cd84b34d2f772d3f1e3d61,Opgenomen door:,15,False
+custom_66cd84b34d2f772d3f1e3d61,(Pre)medicatie,14,False
+custom_66cd84b34d2f772d3f1e3d61,Pre-anesthetische checklist,27,False
+custom_66cd84b34d2f772d3f1e3d61,Overige handelingen,19,False
+custom_66cd84b34d2f772d3f1e3d61,Ventilatie,10,False
+custom_66cd84b34d2f772d3f1e3d61,Opmerking bloedonderzoek,24,False
+custom_66cd84b34d2f772d3f1e3d61,Monitoringverloop,17,False
+custom_66cd84b34d2f772d3f1e3d61,Vervolgafspraken,16,False
+custom_66cd84b34d2f772d3f1e3d61,Tubemaat,8,False
+custom_66cd84b34d2f772d3f1e3d61,Overige maatregelen,19,False
+custom_66cd84b34d2f772d3f1e3d61,Huidige medicatie + laatste gift,32,False
+custom_66cd84b34d2f772d3f1e3d61,Chirurg,7,False
+custom_66cd84b34d2f772d3f1e3d61,Onderhoud/nadosering,20,False
+custom_66cd84b34d2f772d3f1e3d61,Checklist voor ontslag,22,False
+custom_66cd84b34d2f772d3f1e3d61,Prijsindicatie,14,False
+custom_66cd84b34d2f772d3f1e3d61,Checklist voor opname,21,False
+custom_66cd84b34d2f772d3f1e3d61,Toedieningsroute,16,False
+custom_66cd84b34d2f772d3f1e3d61,Aantal gaasjes pre-op,21,False
+custom_66cd84b34d2f772d3f1e3d61,Aantal gaasjes post-op,22,False
+custom_66cd84b34d2f772d3f1e3d61,Post-operatief plan doorgenomen,31,False
+custom_66cd84b34d2f772d3f1e3d61,Aanvullende maatregelen,23,False
+custom_66cd84b34d2f772d3f1e3d61,Lichamelijk onderzoek,21,False
+custom_66cd84b34d2f772d3f1e3d61,Bloedonderzoek,14,False
+custom_66cd84b34d2f772d3f1e3d61,Verloop narcose,15,False
+custom_66cd84b34d2f772d3f1e3d61,Pre-operatieve checklist,24,False
+custom_66cd84b34d2f772d3f1e3d61,ASA classificatie (1-5),23,False
+custom_66cd84b34d2f772d3f1e3d61,Nazorg,6,False
+custom_66cd84b34d2f772d3f1e3d61,MPS/Kraag,9,False
+custom_66cd84b34d2f772d3f1e3d61,"Patient, nazorgbrief en medicatie meegegeven door:",50,False
+custom_66cd84b34d2f772d3f1e3d61,Verloop recovery,16,False
+custom_66cd84b34d2f772d3f1e3d61,Pijnstilling,12,False
+custom_66cd84b34d2f772d3f1e3d61,Gegevens animana correct/volledig?,34,False
+custom_66e032d6b55b281e8f7e5c97,datum,5,True
+custom_678e44827cac933dd7ce6a6d,Welk antivlo/tekenmiddel?,25,False
+custom_678e44827cac933dd7ce6a6d,Collectie methode,17,False
+custom_678e44827cac933dd7ce6a6d,0-3 maanden3-6 maanden6-12 maandenLanger dan 1 jaar,51,False
+custom_678e44827cac933dd7ce6a6d,Hartfrequentie,14,False
+custom_678e44827cac933dd7ce6a6d,Dier voldoet aan criteria gezondheidsscreening,46,False
+custom_678e44827cac933dd7ce6a6d,"Geen afwijkingen (gezonde huid, glanzende vacht)(Aanwijzing voor) vlooienAnders, zie opmerkingen",96,False
+custom_678e44827cac933dd7ce6a6d,"Geen afwijkingenLiet gebitsinspectie niet toeAfwijkend, zie opmerkingen",71,False
+custom_678e44827cac933dd7ce6a6d,Ogen,4,False
+custom_678e44827cac933dd7ce6a6d,JaNeeOnzeker,12,False
+custom_678e44827cac933dd7ce6a6d,"NormaalAfwijkend, zie opmerkingen",33,False
+custom_678e44827cac933dd7ce6a6d,Opmerkingen / Conclusie anamnese,32,False
+custom_678e44827cac933dd7ce6a6d,Buikpalpatie,12,False
+custom_678e44827cac933dd7ce6a6d,Huid en vacht bevindingen,25,False
+custom_678e44827cac933dd7ce6a6d,JaNee,5,False
+custom_678e44827cac933dd7ce6a6d,Eindconclusie screening,23,False
+custom_678e44827cac933dd7ce6a6d,Lymfeklieren,12,True
+custom_678e44827cac933dd7ce6a6d,Temperatuur,11,True
+custom_678e44827cac933dd7ce6a6d,Resultaat aanvullend onderzoek,30,False
+custom_678e44827cac933dd7ce6a6d,Nuchter,7,False
+custom_678e44827cac933dd7ce6a6d,Gingivitis/parodontitis,23,False
+custom_678e44827cac933dd7ce6a6d,Krijgt het dier supplementen of medicatie?,42,False
+custom_678e44827cac933dd7ce6a6d,Plassen,7,False
+custom_678e44827cac933dd7ce6a6d,Urine strip,11,False
+custom_678e44827cac933dd7ce6a6d,NormaalVerhoogdVerminderd,25,False
+custom_678e44827cac933dd7ce6a6d,OscillometrischDopplerNiet uitgevoerd,37,False
+custom_678e44827cac933dd7ce6a6d,Ademhaling en longauscultatie,29,False
+custom_678e44827cac933dd7ce6a6d,Spontane urine (midstream)Spontane urine (van de grond)KatheterPunctieOnbekend,78,False
+custom_678e44827cac933dd7ce6a6d,Ademhalingsfrequentie,21,False
+custom_678e44827cac933dd7ce6a6d,Geen afwijkingen gevondenWel afwijking(en) gevonden,51,False
+custom_678e44827cac933dd7ce6a6d,Neus bevindingen,16,False
+custom_678e44827cac933dd7ce6a6d,Vaccinaties in orde,19,False
+custom_678e44827cac933dd7ce6a6d,0-3 maanden3-6 maanden6-12 maandenlangere dan 1 jaar,52,False
+custom_678e44827cac933dd7ce6a6d,Slijmvliezen,12,True
+custom_678e44827cac933dd7ce6a6d,Macroscopische beoordeling,26,False
+custom_678e44827cac933dd7ce6a6d,Adviezen,8,False
+custom_678e44827cac933dd7ce6a6d,"Toelichting voeding, supplementen en medicatie",46,False
+custom_678e44827cac933dd7ce6a6d,Opmerkingen gebit,17,False
+custom_678e44827cac933dd7ce6a6d,Toelichting verder onderzoek:,29,False
+custom_678e44827cac933dd7ce6a6d,BrokkenNatvoedingVers vleesAndersVeterinair dieetOnderhoudsvoer,63,False
+custom_678e44827cac933dd7ce6a6d,Eerste urine van de dag?,24,False
+custom_678e44827cac933dd7ce6a6d,NormaalPollakisuriePolyurieVerminderd,37,False
+custom_678e44827cac933dd7ce6a6d,Eetlust,7,False
+custom_678e44827cac933dd7ce6a6d,Drinken,7,True
+custom_678e44827cac933dd7ce6a6d,Type voeding,12,False
+custom_678e44827cac933dd7ce6a6d,Hoeveel maanden geleden laatste antivlo/tekenbehandeling?,57,False
+custom_678e44827cac933dd7ce6a6d,Dierenarts,10,True
+custom_678e44827cac933dd7ce6a6d,Algemene indruk,15,True
+custom_678e44827cac933dd7ce6a6d,Uitslag,7,False
+custom_678e44827cac933dd7ce6a6d,Positie cuff,12,False
+custom_678e44827cac933dd7ce6a6d,Soortelijk gewicht,18,False
+custom_678e44827cac933dd7ce6a6d,pH urine,8,False
+custom_678e44827cac933dd7ce6a6d,Normaal (≤ 1 sec)Abnormaal (> 1 sec),36,False
+custom_678e44827cac933dd7ce6a6d,Welk ontwormingsmiddel?,23,False
+custom_678e44827cac933dd7ce6a6d,Cuff maat,9,False
+custom_678e44827cac933dd7ce6a6d,Gebit,5,True
+custom_678e44827cac933dd7ce6a6d,"Niet van toepassingNormaalAfwijkend, zie opmerkingen",52,False
+custom_678e44827cac933dd7ce6a6d,Oren,4,True
+custom_678e44827cac933dd7ce6a6d,CRT,3,False
+custom_678e44827cac933dd7ce6a6d,Bewegingsapparaat,17,False
+custom_678e44827cac933dd7ce6a6d,Resultaat biochemie,19,False
+custom_678e44827cac933dd7ce6a6d,Resultaat hematologie,21,False
+custom_678e44827cac933dd7ce6a6d,"NormaalAnders, zie opmerkingen",30,False
+custom_678e44827cac933dd7ce6a6d,NormaalBloedEiwitGlucoseKetonenZie opmerkingen,46,False
+custom_678e44827cac933dd7ce6a6d,Opmerkingen klinisch onderzoek,30,False
+custom_678e44827cac933dd7ce6a6d,Hoeveel maanden geleden laatste ontworming?,43,False
+custom_678e44827cac933dd7ce6a6d,BCS,3,False
+custom_678e44827cac933dd7ce6a6d,Methode,7,False
+custom_678e44827cac933dd7ce6a6d,Opmerkingen,11,True
+custom_678e44827cac933dd7ce6a6d,Ontlasting,10,False
+custom_678e44827cac933dd7ce6a6d,Datum,5,True
+custom_678e44827cac933dd7ce6a6d,Hartauscultatie,15,False
+custom_678e44827cac933dd7ce6a6d,Gewicht,7,True
+custom_67d3eca98c15ae3bc60a6565,Wil wel/niet gebeld worden?JaNee,32,False
+custom_67d3eca98c15ae3bc60a6565,Wil wel/niet gebeld worden?,27,False
+custom_67d3eca98c15ae3bc60a6565,JaNee,5,False
+custom_67dab8716bc9e7441abc0f37,Collectie methode,17,False
+custom_67dab8716bc9e7441abc0f37,"Geen afwijkingen (gezonde huid, glanzende vacht)(Aanwijzing voor) vlooienAnders, zie opmerkingen",96,False
+custom_67dab8716bc9e7441abc0f37,Hartfrequentie,14,False
+custom_67dab8716bc9e7441abc0f37,Dier voldoet aan criteria gezondheidsscreening,46,False
+custom_67dab8716bc9e7441abc0f37,"Geen afwijkingenLiet gebitsinspectie niet toeAfwijkend, zie opmerkingen",71,False
+custom_67dab8716bc9e7441abc0f37,JaNeeOnzeker,12,False
+custom_67dab8716bc9e7441abc0f37,Ogen,4,False
+custom_67dab8716bc9e7441abc0f37,"NormaalAfwijkend, zie opmerkingen",33,False
+custom_67dab8716bc9e7441abc0f37,Opmerkingen / Conclusie anamnese,32,False
+custom_67dab8716bc9e7441abc0f37,Buikpalpatie,12,False
+custom_67dab8716bc9e7441abc0f37,Huid en vacht bevindingen,25,False
+custom_67dab8716bc9e7441abc0f37,Eindconclusie screening,23,False
+custom_67dab8716bc9e7441abc0f37,Lymfeklieren,12,True
+custom_67dab8716bc9e7441abc0f37,Temperatuur,11,True
+custom_67dab8716bc9e7441abc0f37,Resultaat aanvullend onderzoek,30,False
+custom_67dab8716bc9e7441abc0f37,Nuchter,7,False
+custom_67dab8716bc9e7441abc0f37,Gingivitis/parodontitis,23,False
+custom_67dab8716bc9e7441abc0f37,Krijgt het dier supplementen of medicatie?,42,False
+custom_67dab8716bc9e7441abc0f37,Plassen,7,False
+custom_67dab8716bc9e7441abc0f37,Urine strip,11,False
+custom_67dab8716bc9e7441abc0f37,"BrokkenNatvoedingVers vleesVeterinair dieetOnderhoudsvoerAnders, zie opmerkingen",80,False
+custom_67dab8716bc9e7441abc0f37,OscillometrischDopplerNiet uitgevoerd,37,False
+custom_67dab8716bc9e7441abc0f37,Ademhaling en longauscultatie,29,False
+custom_67dab8716bc9e7441abc0f37,Spontane urine (midstream)Spontane urine (van de grond)KatheterPunctieOnbekend,78,False
+custom_67dab8716bc9e7441abc0f37,Ademhalingsfrequentie,21,False
+custom_67dab8716bc9e7441abc0f37,Geen afwijkingen gevondenWel afwijking(en) gevonden,51,False
+custom_67dab8716bc9e7441abc0f37,Neus bevindingen,16,False
+custom_67dab8716bc9e7441abc0f37,Vaccinaties in orde,19,False
+custom_67dab8716bc9e7441abc0f37,Slijmvliezen,12,True
+custom_67dab8716bc9e7441abc0f37,Macroscopische beoordeling,26,False
+custom_67dab8716bc9e7441abc0f37,Gebruikte antivlo/tekenmiddel,29,False
+custom_67dab8716bc9e7441abc0f37,"Toelichting voeding, supplementen en medicatie",46,False
+custom_67dab8716bc9e7441abc0f37,Adviezen,8,False
+custom_67dab8716bc9e7441abc0f37,Opmerkingen gebit,17,False
+custom_67dab8716bc9e7441abc0f37,Toelichting verder onderzoek:,29,False
+custom_67dab8716bc9e7441abc0f37,Gebruikt ontwormingsmiddel,26,False
+custom_67dab8716bc9e7441abc0f37,Eerste urine van de dag?,24,False
+custom_67dab8716bc9e7441abc0f37,Eetlust,7,False
+custom_67dab8716bc9e7441abc0f37,Drinken,7,True
+custom_67dab8716bc9e7441abc0f37,Type voeding,12,False
+custom_67dab8716bc9e7441abc0f37,Hoeveel maanden geleden laatste antivlo/tekenbehandeling?,57,False
+custom_67dab8716bc9e7441abc0f37,Dierenarts,10,True
+custom_67dab8716bc9e7441abc0f37,Algemene indruk,15,True
+custom_67dab8716bc9e7441abc0f37,Uitslag,7,False
+custom_67dab8716bc9e7441abc0f37,Positie cuff,12,False
+custom_67dab8716bc9e7441abc0f37,Soortelijk gewicht,18,False
+custom_67dab8716bc9e7441abc0f37,pH urine,8,False
+custom_67dab8716bc9e7441abc0f37,Normaal (≤ 1 sec)Abnormaal (> 1 sec),36,False
+custom_67dab8716bc9e7441abc0f37,Cuff maat,9,False
+custom_67dab8716bc9e7441abc0f37,Gebit,5,True
+custom_67dab8716bc9e7441abc0f37,"Niet van toepassingNormaalAfwijkend, zie opmerkingen",52,False
+custom_67dab8716bc9e7441abc0f37,Oren,4,True
+custom_67dab8716bc9e7441abc0f37,CRT,3,False
+custom_67dab8716bc9e7441abc0f37,Bewegingsapparaat,17,False
+custom_67dab8716bc9e7441abc0f37,Resultaat biochemie,19,False
+custom_67dab8716bc9e7441abc0f37,Resultaat hematologie,21,False
+custom_67dab8716bc9e7441abc0f37,NormaalBloedEiwitGlucoseKetonenZie opmerkingen,46,False
+custom_67dab8716bc9e7441abc0f37,Opmerkingen klinisch onderzoek,30,False
+custom_67dab8716bc9e7441abc0f37,Hoeveel maanden geleden laatste ontworming?,43,False
+custom_67dab8716bc9e7441abc0f37,BCS,3,False
+custom_67dab8716bc9e7441abc0f37,Methode,7,False
+custom_67dab8716bc9e7441abc0f37,Opmerkingen,11,True
+custom_67dab8716bc9e7441abc0f37,Ontlasting,10,False
+custom_67dab8716bc9e7441abc0f37,Datum,5,True
+custom_67dab8716bc9e7441abc0f37,Hartauscultatie,15,False
+custom_67dab8716bc9e7441abc0f37,Gewicht,7,True
+custom_67dbd65b16ee375f2fbe4a8e,Collectie methode,17,False
+custom_67dbd65b16ee375f2fbe4a8e,"Geen afwijkingen (gezonde huid, glanzende vacht)(Aanwijzing voor) vlooienAnders, zie opmerkingen",96,False
+custom_67dbd65b16ee375f2fbe4a8e,Hartfrequentie,14,False
+custom_67dbd65b16ee375f2fbe4a8e,Dier voldoet aan criteria gezondheidsscreening,46,False
+custom_67dbd65b16ee375f2fbe4a8e,"Geen afwijkingenLiet gebitsinspectie niet toeAfwijkend, zie opmerkingen",71,False
+custom_67dbd65b16ee375f2fbe4a8e,JaNeeOnzeker,12,False
+custom_67dbd65b16ee375f2fbe4a8e,Ogen,4,False
+custom_67dbd65b16ee375f2fbe4a8e,"NormaalAfwijkend, zie opmerkingen",33,False
+custom_67dbd65b16ee375f2fbe4a8e,Opmerkingen / Conclusie anamnese,32,False
+custom_67dbd65b16ee375f2fbe4a8e,Buikpalpatie,12,False
+custom_67dbd65b16ee375f2fbe4a8e,Huid en vacht bevindingen,25,False
+custom_67dbd65b16ee375f2fbe4a8e,Eindconclusie screening,23,False
+custom_67dbd65b16ee375f2fbe4a8e,Lymfeklieren,12,True
+custom_67dbd65b16ee375f2fbe4a8e,Temperatuur,11,True
+custom_67dbd65b16ee375f2fbe4a8e,Resultaat aanvullend onderzoek,30,False
+custom_67dbd65b16ee375f2fbe4a8e,Nuchter,7,False
+custom_67dbd65b16ee375f2fbe4a8e,Gingivitis/parodontitis,23,False
+custom_67dbd65b16ee375f2fbe4a8e,Krijgt het dier supplementen of medicatie?,42,False
+custom_67dbd65b16ee375f2fbe4a8e,Plassen,7,False
+custom_67dbd65b16ee375f2fbe4a8e,Urine strip,11,False
+custom_67dbd65b16ee375f2fbe4a8e,"BrokkenNatvoedingVers vleesVeterinair dieetOnderhoudsvoerAnders, zie opmerkingen",80,False
+custom_67dbd65b16ee375f2fbe4a8e,OscillometrischDopplerNiet uitgevoerd,37,False
+custom_67dbd65b16ee375f2fbe4a8e,Ademhaling en longauscultatie,29,False
+custom_67dbd65b16ee375f2fbe4a8e,Spontane urine (midstream)Spontane urine (van de grond)KatheterPunctieOnbekend,78,False
+custom_67dbd65b16ee375f2fbe4a8e,Ademhalingsfrequentie,21,False
+custom_67dbd65b16ee375f2fbe4a8e,Geen afwijkingen gevondenWel afwijking(en) gevonden,51,False
+custom_67dbd65b16ee375f2fbe4a8e,Neus bevindingen,16,False
+custom_67dbd65b16ee375f2fbe4a8e,Vaccinaties in orde,19,False
+custom_67dbd65b16ee375f2fbe4a8e,Slijmvliezen,12,True
+custom_67dbd65b16ee375f2fbe4a8e,Macroscopische beoordeling,26,False
+custom_67dbd65b16ee375f2fbe4a8e,Gebruikte antivlo/tekenmiddel,29,False
+custom_67dbd65b16ee375f2fbe4a8e,"Toelichting voeding, supplementen en medicatie",46,False
+custom_67dbd65b16ee375f2fbe4a8e,Adviezen,8,False
+custom_67dbd65b16ee375f2fbe4a8e,Opmerkingen gebit,17,False
+custom_67dbd65b16ee375f2fbe4a8e,Toelichting verder onderzoek:,29,False
+custom_67dbd65b16ee375f2fbe4a8e,Gebruikt ontwormingsmiddel,26,False
+custom_67dbd65b16ee375f2fbe4a8e,Eerste urine van de dag?,24,False
+custom_67dbd65b16ee375f2fbe4a8e,Eetlust,7,False
+custom_67dbd65b16ee375f2fbe4a8e,Drinken,7,True
+custom_67dbd65b16ee375f2fbe4a8e,Type voeding,12,False
+custom_67dbd65b16ee375f2fbe4a8e,Hoeveel maanden geleden laatste antivlo/tekenbehandeling?,57,False
+custom_67dbd65b16ee375f2fbe4a8e,Dierenarts,10,True
+custom_67dbd65b16ee375f2fbe4a8e,Algemene indruk,15,True
+custom_67dbd65b16ee375f2fbe4a8e,Uitslag,7,False
+custom_67dbd65b16ee375f2fbe4a8e,Positie cuff,12,False
+custom_67dbd65b16ee375f2fbe4a8e,Soortelijk gewicht,18,False
+custom_67dbd65b16ee375f2fbe4a8e,pH urine,8,False
+custom_67dbd65b16ee375f2fbe4a8e,Normaal (≤ 1 sec)Abnormaal (> 1 sec),36,False
+custom_67dbd65b16ee375f2fbe4a8e,Cuff maat,9,False
+custom_67dbd65b16ee375f2fbe4a8e,Gebit,5,True
+custom_67dbd65b16ee375f2fbe4a8e,"Niet van toepassingNormaalAfwijkend, zie opmerkingen",52,False
+custom_67dbd65b16ee375f2fbe4a8e,Oren,4,True
+custom_67dbd65b16ee375f2fbe4a8e,CRT,3,False
+custom_67dbd65b16ee375f2fbe4a8e,Bewegingsapparaat,17,False
+custom_67dbd65b16ee375f2fbe4a8e,Resultaat biochemie,19,False
+custom_67dbd65b16ee375f2fbe4a8e,Resultaat hematologie,21,False
+custom_67dbd65b16ee375f2fbe4a8e,NormaalBloedEiwitGlucoseKetonenZie opmerkingen,46,False
+custom_67dbd65b16ee375f2fbe4a8e,Opmerkingen klinisch onderzoek,30,False
+custom_67dbd65b16ee375f2fbe4a8e,Hoeveel maanden geleden laatste ontworming?,43,False
+custom_67dbd65b16ee375f2fbe4a8e,BCS,3,False
+custom_67dbd65b16ee375f2fbe4a8e,Methode,7,False
+custom_67dbd65b16ee375f2fbe4a8e,Opmerkingen,11,True
+custom_67dbd65b16ee375f2fbe4a8e,Ontlasting,10,False
+custom_67dbd65b16ee375f2fbe4a8e,Datum,5,True
+custom_67dbd65b16ee375f2fbe4a8e,Hartauscultatie,15,False
+custom_67dbd65b16ee375f2fbe4a8e,Gewicht,7,True
+custom_68270069253d5b1d03a4ffd6,Opmerkingen,11,True
+custom_68270069253d5b1d03a4ffd6,Ogen,4,False
+custom_68270069253d5b1d03a4ffd6,Zorgplan,8,False
+custom_68270069253d5b1d03a4ffd6,Voedingsadvies,14,False
+custom_68270069253d5b1d03a4ffd6,Hart en longen,14,False
+custom_68270069253d5b1d03a4ffd6,Gewicht in kg.,14,False
+custom_68270069253d5b1d03a4ffd6,Titerbepaling,13,False
+custom_68270069253d5b1d03a4ffd6,Huidige voeding,15,False
+custom_68270069253d5b1d03a4ffd6,Huisdierverzekeringen vergelijken,33,False
+custom_68270069253d5b1d03a4ffd6,Neus,4,False
+custom_68270069253d5b1d03a4ffd6,U bent geholpen door dierenarts,31,False
+custom_68270069253d5b1d03a4ffd6,datum,5,True
+custom_68270069253d5b1d03a4ffd6,Chip,4,False
+custom_68270069253d5b1d03a4ffd6,Buik en geslachtsapparaat,25,False
+custom_68270069253d5b1d03a4ffd6,Algemene indruk,15,True
+custom_68270069253d5b1d03a4ffd6,Voedingstoestand,16,False
+custom_68270069253d5b1d03a4ffd6,Actueel gewicht,15,False
+custom_68270069253d5b1d03a4ffd6,Buitenland,10,False
+custom_68270069253d5b1d03a4ffd6,Ontworming,10,False
+custom_68270069253d5b1d03a4ffd6,Gebit,5,True
+custom_68270069253d5b1d03a4ffd6,Verzekering,11,False
+custom_68270069253d5b1d03a4ffd6,Huid / vacht,12,False
+custom_68270069253d5b1d03a4ffd6,Oren,4,True
+custom_68270069253d5b1d03a4ffd6,Bewegingsapparaat,17,False
+custom_68270069253d5b1d03a4ffd6,Contact met andere honden,25,False
+custom_68270069253d5b1d03a4ffd6,Locatie vaccinatie,18,False
+custom_68270069253d5b1d03a4ffd6,Vlooien / teken,15,False
+custom_68270069253d5b1d03a4ffd6,Vaccinaties,11,False
+custom_68270069253d5b1d03a4ffd6,Activiteit (o.a. sport),23,False
+custom_682c5ae033642076bf1596ce,Datum laatste updateLaatste update doorStatus,45,False
+custom_682c5ae033642076bf1596ce,Datum laatste update,20,False
+custom_682c5ae033642076bf1596ce,Status,6,False
+custom_682c5ae033642076bf1596ce,Laatste update door,19,False
+custom_683d61339bda435b53e4eaa5,"NormaalAfwijkend, in te vullen bij opmerkingen",46,False
+custom_683d61339bda435b53e4eaa5,Overmatig drinkenHoestenMank lopenSlechte eetlustAfwijkende ontlastingAfwijkend plasgedrag,90,False
+custom_683d61339bda435b53e4eaa5,geenhoestenkuchenniezen,23,False
+custom_683d61339bda435b53e4eaa5,NormaalDrinkt meer dan normaalDrinkt minder dan normaal,55,False
+custom_683d61339bda435b53e4eaa5,Geen braken/regurgiterenBrakenRegurgiteren,42,False
+custom_683d61339bda435b53e4eaa5,normaalabnormaal (souffle)twijfel,33,False
+custom_683d61339bda435b53e4eaa5,Verantwoordelijke dierenarts,28,False
+custom_683d61339bda435b53e4eaa5,Braken/regurgiteren,19,False
+custom_683d61339bda435b53e4eaa5,Kleur slijmvliezen,18,False
+custom_683d61339bda435b53e4eaa5,Overige afwijkingen in de anamnese,34,False
+custom_683d61339bda435b53e4eaa5,Harttonen,9,False
+custom_683d61339bda435b53e4eaa5,NormaalHeeft een grotere eetlust dan normaalHeeft minder eetlust dan normaal,76,False
+custom_683d61339bda435b53e4eaa5,Wordt jaarlijks gevaccineerdWordt behandeld tegen vlooien/tekenWordt volgens schema ontwormd,92,False
+custom_683d61339bda435b53e4eaa5,Overige afwijkingen in klinisch onderzoek:,42,False
+custom_683d61339bda435b53e4eaa5,Hartritme,9,False
+custom_683d61339bda435b53e4eaa5,Plassen,7,False
+custom_683d61339bda435b53e4eaa5,bevindingen urinewegen en geslachtsapparaat,43,False
+custom_683d61339bda435b53e4eaa5,Overlegd met de verantwoordelijke dierenarts en akkoord met adviezen,68,False
+custom_683d61339bda435b53e4eaa5,Afwijkingen in de anamnese,26,False
+custom_683d61339bda435b53e4eaa5,Preventieve zorg,16,False
+custom_683d61339bda435b53e4eaa5,Uithoudingsvermogen,19,False
+custom_683d61339bda435b53e4eaa5,Datum,5,True
+custom_683d61339bda435b53e4eaa5,Ademfrequentie,14,False
+custom_683d61339bda435b53e4eaa5,Neusuitvloeiing,15,False
+custom_683d61339bda435b53e4eaa5,normaaltestes afwijkend,23,False
+custom_683d61339bda435b53e4eaa5,Afwijkingen in klinisch onderzoek,33,False
+custom_683d61339bda435b53e4eaa5,Opmerking:,10,False
+custom_683d61339bda435b53e4eaa5,oren bevindingen,16,False
+custom_683d61339bda435b53e4eaa5,normaalabnormaal,16,False
+custom_683d61339bda435b53e4eaa5,"schoon en helderstaarhoornvliesschadeanders, in te vullen bij aanvullende opmerkingen",85,False
+custom_683d61339bda435b53e4eaa5,Bijgeluiden ademhaling,22,False
+custom_683d61339bda435b53e4eaa5,Opmerkingen / korte samenvatting vragenlijst,44,False
+custom_683d61339bda435b53e4eaa5,Merk voeding,12,False
+custom_683d61339bda435b53e4eaa5,NormaalPlast meer dan normaalLijkt pijn te hebben bij het plassen,65,False
+custom_683d61339bda435b53e4eaa5,"normaalgespannen/pijnlijktoegenomen buikomvanganders, in te vullen bij aanvullende opmerkingen",94,False
+custom_683d61339bda435b53e4eaa5,Aantal slagen per minuut (hartfrequentie),41,False
+custom_683d61339bda435b53e4eaa5,Eetlust,7,False
+custom_683d61339bda435b53e4eaa5,Drinken,7,True
+custom_683d61339bda435b53e4eaa5,Ja,2,False
+custom_683d61339bda435b53e4eaa5,bevindingen bewegingsstelsel,28,False
+custom_683d61339bda435b53e4eaa5,huid en vacht bevindingen,25,False
+custom_683d61339bda435b53e4eaa5,BrokkenNatvoedingVers vlees,27,False
+custom_683d61339bda435b53e4eaa5,regematigonregelmatig,21,False
+custom_683d61339bda435b53e4eaa5,Eigenaar geeft andere klinische bezorgdheid aan,47,False
+custom_683d61339bda435b53e4eaa5,neeja,5,False
+custom_683d61339bda435b53e4eaa5,GoedSnel moeHijgen,18,False
+custom_683d61339bda435b53e4eaa5,CRT,3,False
+custom_683d61339bda435b53e4eaa5,Ademhalingstype,15,False
+custom_683d61339bda435b53e4eaa5,Ademhalingsfrequentie per minuut,32,False
+custom_683d61339bda435b53e4eaa5,Voer,4,False
+custom_683d61339bda435b53e4eaa5,normaalverhoogdverlaagd,23,False
+custom_683d61339bda435b53e4eaa5,rosebleekroodpaars,18,False
+custom_683d61339bda435b53e4eaa5,bevindingen buik,16,False
+custom_683d61339bda435b53e4eaa5,"normaalkreupelheidzwelling(en)spieratrofieanders, in te vullen bij aanvullende opmerkingen",90,False
+custom_683d61339bda435b53e4eaa5,ogen bevindingen,16,False
+custom_683d61339bda435b53e4eaa5,normaal (≤ 1 sec)abnormaal (> 1 sec),36,False
+custom_683d61339bda435b53e4eaa5,Ontlasting,10,False
+custom_683d61339bda435b53e4eaa5,Tandvlees en gebit,18,False
+custom_683d61339bda435b53e4eaa5,Paraveterinair,14,False
+custom_6847ecab5463ac192fd60e51,Opmerkingen,11,True
+custom_6847ecab5463ac192fd60e51,Ogen,4,False
+custom_6847ecab5463ac192fd60e51,Zorgplan,8,False
+custom_6847ecab5463ac192fd60e51,Voedingsadvies,14,False
+custom_6847ecab5463ac192fd60e51,Hart en longen,14,False
+custom_6847ecab5463ac192fd60e51,Gewicht in kg.,14,False
+custom_6847ecab5463ac192fd60e51,Titerbepaling,13,False
+custom_6847ecab5463ac192fd60e51,Huidige voeding,15,False
+custom_6847ecab5463ac192fd60e51,Neus,4,False
+custom_6847ecab5463ac192fd60e51,datum,5,True
+custom_6847ecab5463ac192fd60e51,Chip,4,False
+custom_6847ecab5463ac192fd60e51,Buik en geslachtsapparaat,25,False
+custom_6847ecab5463ac192fd60e51,Algemene indruk,15,True
+custom_6847ecab5463ac192fd60e51,Voedingstoestand,16,False
+custom_6847ecab5463ac192fd60e51,Buitenland,10,False
+custom_6847ecab5463ac192fd60e51,Ontworming,10,False
+custom_6847ecab5463ac192fd60e51,Gebit,5,True
+custom_6847ecab5463ac192fd60e51,Verzekering,11,False
+custom_6847ecab5463ac192fd60e51,Huid / vacht,12,False
+custom_6847ecab5463ac192fd60e51,Oren,4,True
+custom_6847ecab5463ac192fd60e51,Bewegingsapparaat,17,False
+custom_6847ecab5463ac192fd60e51,Contact met andere honden,25,False
+custom_6847ecab5463ac192fd60e51,Locatie vaccinatie,18,False
+custom_6847ecab5463ac192fd60e51,Vlooien / teken,15,False
+custom_6847ecab5463ac192fd60e51,Vaccinaties,11,False
+custom_6847ecab5463ac192fd60e51,Activiteit (o.a. sport),23,False
+dental,diagnose,8,False
+dental,chirurgie,9,False
+dental,diagnose:,9,False
+dental,malocclusie,11,False
+dental,endo,4,False
+dental,RL,2,False
+dental,restoratie,10,False
+dental,anders,6,False
+dental,datumbeetdiagnosetoelichting,28,False
+dental,gingivitis 3,12,False
+dental,gingivitis 2,12,False
+dental,datum,5,True
+dental,(be)handeling,13,False
+dental,diagnose / (be)handeling,24,False
+dental,toelichting,11,False
+dental,tandvlees:,10,False
+dental,perio,5,False
+dental,beet,4,False
+dental,ortho,5,False
+dental,extractie,9,False
+dental,gingivitis 1,12,False
+dental,ontbreekt,9,False
+dental,(be)handeling:,14,False
+dental,trauma,6,False
+dental,abces,5,False
+dental,tandvlees,9,False
+dental,caries,6,False
+email,tekst,5,False
+email,selecteer emailbeheer teksten,29,False
+email,afzenderaanonderwerpverstuur kopie naar afzendertekstprint briefhoofd en briefvoetjaneeversturen,96,False
+email,verstuur kopie naar afzender,28,False
+email,onderwerp,9,False
+email,afzender,8,False
+email,selecteer email,15,False
+email,janee,5,False
+email,versturen,9,False
+email,beheer teksten,14,False
+email,aan,3,False
+letter,tekst,5,False
+letter,onderwerp,9,False
+letter,janee,5,False
+letter,datumselecteer briefbeheer tekstenonderwerptekstprint adresjaneeprint briefhoofd en briefvoetjanee,98,False
+letter,print adres,11,False
+letter,beheer teksten,14,False
+letter,selecteer brief,15,False
+letter,datum,5,True
+ndg_print,chipnummer,10,False
+ndg_print,dierenartschipnummerpaspoort,28,False
+ndg_print,dierenarts,10,False
+ndg_print,paspoort,8,False
+new_label,tekst,5,False
+new_label,afdrukpreview en print,22,False
+new_label,janee,5,False
+new_label,tekstprint etiketkopjaneeafdrukpreview en print,47,False
+new_label,print etiketkop,15,False
+prescription,registratie:,12,False
+prescription,datum:,6,False
+prescription,Dos.:,5,False
+prescription,geneesmiddel:,13,False
+prescription,opmerkingen:,12,False
+prescription,wachttijd:,10,False
+prescription,leverancier:,12,False
+prescription,dierenarts:,11,False
+prescription,aantal:,7,False
+prescription,CIBG:,5,False
+reminder,herinnerdatum:,14,False
+reminder,vaccinatie,10,False
+reminder,herinnertype:,13,False
+reminder,dagen,5,False
+reminder,herinnergroep,13,False
+reminder,notificatie,11,False
+reminder,herinnertekst:,14,False
+reminder,07-01-2025 : - 1 keer herinnerd,31,False
+reminder,aantal keer herinnerd:,22,False
+reminder,16-05-2024 : - 2 keer herinnerd,31,False
+reminder,instellingen,12,False
+reminder,herinneren na:,14,False
+reminder,14-06-2024 : EMARSYS jaarlijkse vaccinatie - 3 keer herinnerd,61,False
+respiration,luchtzakken,11,False
+respiration,diagnose,8,False
+respiration,samenvatting,12,False
+respiration,plaats van het slijm,20,False
+respiration,larynx,6,False
+respiration,pharynx glottis,15,False
+respiration,respiratietype,14,False
+respiration,thorax,6,False
+respiration,resultaat,9,False
+respiration,aard van het slijm,18,False
+respiration,hoedanigheid opgewekte hoest,28,False
+respiration,bronchoscopie,13,False
+respiration,therapie,8,False
+respiration,slijmvliezen,12,False
+respiration,kleur van het slijmvlies,24,False
+respiration,longdrukmeting,14,False
+respiration,trachea,7,False
+respiration,na arbeid,9,False
+respiration,conclusie,9,False
+respiration,in rust,7,False
+respiration,respiratie na arbeid,20,False
+respiration,datum,5,True
+respiration,auscultatie,11,False
+respiration,advies,6,False
+respiration,toelichting,11,False
+respiration,lymfeklieren,12,False
+respiration,respiratie in rust,18,False
+respiration,vorm bifurcatie,15,False
+respiration,algemeen en klinisch onderzoek,30,False
+respiration,medewerker,10,False
+respiration,spontaan hoesten,16,False
+respiration,reden bezoek/anamnese,21,False
+sms,Aantal tekens niet beschikbaar vanwege merge codes,50,False
+sms,nummer :kies sms-tekst :beheer tekstensms tekst :Aantal tekens niet beschikbaar vanwege merge codes,99,False
+sms,kies sms-tekst :,16,False
+sms,sms tekst :,11,False
+sms,beheer teksten,14,False
+sms,nummer :,8,False
+surgery,datum en tijd,13,False
+surgery,pre-medicatie,13,False
+surgery,chirurg,7,False
+surgery,indicatie,9,False
+surgery,narcoseverloop,14,False
+surgery,operatie,8,False
+surgery,onderhoud,9,False
+surgery,uitvoering,10,False
+surgery,opmerkingen,11,False
+surgery,inductie,8,False
+surgery,starttijd:eindtijd:,19,False
+surgery,eindtijd:,9,False
+surgery,assistent,9,False
+surgery,pijnbestrijding,15,False
+transponder_ndg,paspoort startdatum,19,False
+transponder_ndg,UBN eigenaar,12,False
+transponder_ndg,diersoort,9,False
+transponder_ndg,geslacht dier,13,False
+transponder_ndg,achternaam eigenaar,19,False
+transponder_ndg,chipnummer,10,False
+transponder_ndg,datum inbrengen chip,20,False
+transponder_ndg,ID chipper,10,False
+transponder_ndg,applicatie type,15,False
+transponder_ndg,CIBG nummer,11,False
+transponder_ndg,huisnr extra eigenaar,21,False
+transponder_ndg,alternatief telefoonnummer eigenaar,35,False
+transponder_ndg,straatnaam eigenaar,19,False
+transponder_ndg,bedrijfsnaam eigenaar,21,False
+transponder_ndg,postcode eigenaar,17,False
+transponder_ndg,huisnr eigenaar,15,False
+transponder_ndg,geboortedatum dier,18,False
+transponder_ndg,roepnaam dier,13,False
+transponder_ndg,stad eigenaar,13,False
+transponder_ndg,paspoortnummer dier,19,False
+transponder_ndg,mobiel telefoonnummer eigenaar,30,False
+transponder_ndg,initialen eigenaar,18,False
+transponder_ndg,email eigenaar,14,False
+transponder_ndg,tussenvoegsel eigenaar,22,False
+transponder_ndg,telefoonnummer eigenaar,23,False
+transponder_ndg,wachtwoord dierenarts,21,False
+transponder_ndg,gebruiksnaam dierenarts,23,False
+x_ray_label,eigenaar,8,False
+x_ray_label,vrije tekst,11,False
+x_ray_label,richting,8,False
+x_ray_label,mAs,3,False
+x_ray_label,patient,7,False
+x_ray_label,vermogen,8,False
+x_ray_label,datumeigenaarrichtingpatientvoltagekVvermogenmAsvrije tekst,59,False
+x_ray_label,voltage,7,False
+x_ray_label,datum,5,True
+x_ray_label,kV,2,False
