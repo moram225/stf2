@@ -42,8 +42,13 @@ When you run the application, you'll see:
 2. Real-time microphone transcription
 3. LLaMA chat (text generation)
 4. Generate form JSON files
+5. LLaMA JSON responses
+6. Analyze form structure
+7. Voice chat with LLaMA
+8. Voice-powered form filling (AUTO)
+9. List available forms
 
-Choose option (1, 2, 3, or 4):
+Choose option (1-9):
 ```
 
 ### Option 1: File Transcription
@@ -82,6 +87,57 @@ Converts CSV form analysis data into structured JSON files:
 - **Metadata**: Includes generation timestamp and source information
 - **Field Details**: Field names, IDs, types, classes, values, and validation flags
 - Automatically parses 100+ forms from the CSV data
+
+### Option 5: LLaMA JSON Responses
+
+Get AI-generated responses in JSON format:
+- **Input**: Provide a text prompt or question
+- **Output**: Receive a structured JSON response
+- **Metadata**: Includes model used, token usage, and response time
+- Useful for integrating AI responses into applications
+
+### Option 6: Analyze Form Structure
+
+Examines and describes the structure of a form:
+- **Input**: Provide a form ID
+- **Output**: Receive a detailed description of the form's fields and structure
+- Helps understand what data a form collects and how it's organized
+
+### Option 7: Voice Chat with LLaMA
+
+Interactive voice chat with the LLM:
+- **Speech-to-Text**: Converts your speech to text using Whisper Turbo
+- **LLM Integration**: Sends transcribed text to LLaMA for intelligent responses  
+- **Dual Input**: Use voice recording OR type text directly
+- **JSON Responses**: Gets structured responses with metadata
+- Commands: `record` (start voice), `quit` (exit), or type text directly
+
+### Option 8: Voice-Powered Form Filling (AUTO) 🆕
+
+**Intelligent, continuous form filling via voice input**:
+- **Automatic Processing**: Just press record and speak naturally - no buttons to press!
+- **Continuous STT**: Records and processes 3-second audio chunks automatically
+- **Smart Field Mapping**: LLM intelligently matches speech to appropriate form fields
+- **Real-time Updates**: See fields being filled as you speak
+- **Multi-language Support**: Works with Dutch and other languages
+- **Confidence Scoring**: Shows LLM's confidence in field assignments
+- **Session Recording**: Saves complete conversation and results
+
+**How it works**:
+1. Select a form ID (use option 9 to list available forms)
+2. Press ENTER to start recording
+3. Speak naturally about the information (e.g., "The patient is a dog named Buddy, age 5 years, owner is John Smith")
+4. LLM automatically fills relevant fields as it gets information
+5. Press ENTER again to stop and see final results
+6. Option to save filled form and conversation history
+
+### Option 9: List Available Forms
+
+Shows all available veterinary forms with:
+- **Form ID**: Unique identifier for each form
+- **Form Title**: Human-readable form name  
+- **Field Count**: Number of fillable fields (text, textarea, select)
+- **Quick Preview**: Essential information for form selection
 
 ## Configuration
 
